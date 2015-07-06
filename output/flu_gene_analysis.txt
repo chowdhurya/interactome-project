@@ -12,115 +12,115 @@ PROTEINS
 7. PB1; S = 96
 8. PB2; S = 96
 
-1. Proteins:NEP and PA
+1. Proteins: NEP and PA
 d_AB = 0.542713567839
 s_AB = -0.748675152597
 
-2. Proteins:NEP and PB1
+2. Proteins: NEP and PB1
 d_AB = 0.574468085106
 s_AB = -0.71544788128
 
-3. Proteins:PB1 and PB2
+3. Proteins: PB1 and PB2
 d_AB = 0.577205882353
 s_AB = -0.684356296475
 
-4. Proteins:PA and PB1
+4. Proteins: PA and PB1
 d_AB = 0.613043478261
 s_AB = -0.674143561503
 
-5. Proteins:HA and NA
+5. Proteins: HA and NA
 d_AB = 0.852601156069
 s_AB = -0.618567439663
 
-6. Proteins:PA and PB2
+6. Proteins: PA and PB2
 d_AB = 0.656779661017
 s_AB = -0.606255271861
 
-7. Proteins:NEP and PB2
+7. Proteins: NEP and PB2
 d_AB = 0.705394190871
 s_AB = -0.560369668629
 
-8. Proteins:NS1 and PB2
+8. Proteins: NS1 and PB2
 d_AB = 0.766666666667
 s_AB = -0.542878063961
 
-9. Proteins:M2 and NA
+9. Proteins: M2 and NA
 d_AB = 0.962686567164
 s_AB = -0.487214422935
 
-10. Proteins:NEP and NS1
+10. Proteins: NEP and NS1
 d_AB = 0.8669527897
 s_AB = -0.470945728486
 
-11. Proteins:NS1 and PB1
+11. Proteins: NS1 and PB1
 d_AB = 0.890151515152
 s_AB = -0.443545322362
 
-12. Proteins:HA and M2
+12. Proteins: HA and M2
 d_AB = 0.970760233918
 s_AB = -0.430507371716
 
-13. Proteins:HA and NS1
+13. Proteins: HA and NS1
 d_AB = 1.06227106227
 s_AB = -0.339836238019
 
-14. Proteins:NS1 and PA
+14. Proteins: NS1 and PA
 d_AB = 1.00877192982
 s_AB = -0.326397661739
 
-15. Proteins:M2 and NS1
+15. Proteins: M2 and NS1
 d_AB = 1.07552870091
 s_AB = -0.30531099375
 
-16. Proteins:NA and NS1
+16. Proteins: NA and NS1
 d_AB = 1.15615615616
 s_AB = -0.294584528599
 
-17. Proteins:M2 and PB2
+17. Proteins: M2 and PB2
 d_AB = 1.12389380531
 s_AB = -0.184811230661
 
-18. Proteins:M2 and PB1
+18. Proteins: M2 and PB1
 d_AB = 1.21621621622
 s_AB = -0.116640926641
 
-19. Proteins:NA and PB2
+19. Proteins: NA and PB2
 d_AB = 1.27859237537
 s_AB = -0.100013650704
 
-20. Proteins:HA and PB2
+20. Proteins: HA and PB2
 d_AB = 1.2384341637
 s_AB = -0.091538477904
 
-21. Proteins:HA and PB1
+21. Proteins: HA and PB1
 d_AB = 1.27636363636
 s_AB = -0.0777611121273
 
-22. Proteins:M2 and NEP
+22. Proteins: M2 and NEP
 d_AB = 1.31125827815
 s_AB = -0.0258005453837
 
-23. Proteins:NA and PB1
+23. Proteins: NA and PB1
 d_AB = 1.38805970149
 s_AB = -0.0146984314636
 
-24. Proteins:M2 and PA
+24. Proteins: M2 and PA
 d_AB = 1.31986531987
 s_AB = -0.0144645770419
 
-25. Proteins:HA and NEP
+25. Proteins: HA and NEP
 d_AB = 1.35245901639
 s_AB = -0.00586741276977
 
-26. Proteins:NA and NEP
+26. Proteins: NA and NEP
 d_AB = 1.42434210526
 s_AB = 0.0173822916347
 
-27. Proteins:HA and PA
+27. Proteins: HA and PA
 d_AB = 1.38912133891
 s_AB = 0.0335238363711
 
-28. Proteins:NA and PA
+28. Proteins: NA and PA
 d_AB = 1.44481605351
 s_AB = 0.0405851665055
 
