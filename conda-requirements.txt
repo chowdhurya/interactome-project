@@ -1,19 +1,20 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
+click=4.0=py27_0
 conda=3.14.1=py27_0
 conda-env=2.2.3=py27_0
 decorator=3.4.2=py27_0
 networkx=1.9.1=py27_0
 numpy=1.9.2=py27_0
 openssl=1.0.1k=1
-pip=7.0.3=py27_0
+pip=7.1.0=py27_0
 pycosat=0.6.1=py27_0
 python=2.7.10=0
 pyyaml=3.11=py27_1
 readline=6.2=2
 requests=2.7.0=py27_0
-setuptools=17.1.1=py27_0
+setuptools=18.0.1=py27_0
 sqlite=3.8.4.1=1
 system=5.8=2
 tk=8.5.18=0

@@ -1,0 +1,126 @@
+
+> done loading network:
+> network contains 5879 nodes and 13816 links
+
+PROTEINS
+1. HA; S = 6
+2. M2; S = 6
+3. NA; S = 4
+4. NEP; S = 2
+5. NS1; S = 2
+6. PA; S = 1
+7. PB1; S = 2
+8. PB2; S = 2
+
+1. Proteins: PB1 and PB2
+d_AB = 1.04794520548
+s_AB = -1.53511479838
+
+2. Proteins: PA and PB1
+d_AB = 1.06153846154
+s_AB = -1.52053315586
+
+3. Proteins: NEP and PB1
+d_AB = 1.06818181818
+s_AB = -1.47864259029
+
+4. Proteins: NEP and PA
+d_AB = 1.08035714286
+s_AB = -1.44579915698
+
+5. Proteins: PA and PB2
+d_AB = 1.125
+s_AB = -1.43739189523
+
+6. Proteins: NEP and PB2
+d_AB = 1.265625
+s_AB = -1.2615196863
+
+7. Proteins: NEP and NS1
+d_AB = 1.3671875
+s_AB = -1.09657690461
+
+8. Proteins: NS1 and PB2
+d_AB = 1.40972222222
+s_AB = -1.09027777778
+
+9. Proteins: NS1 and PB1
+d_AB = 1.45890410959
+s_AB = -1.06077561258
+
+10. Proteins: HA and NA
+d_AB = 1.35582822086
+s_AB = -0.941273228416
+
+11. Proteins: M2 and NA
+d_AB = 1.45812807882
+s_AB = -0.884313085921
+
+12. Proteins: NS1 and PA
+d_AB = 1.78125
+s_AB = -0.717761613541
+
+13. Proteins: NA and NS1
+d_AB = 1.69696969697
+s_AB = -0.716992336098
+
+14. Proteins: HA and M2
+d_AB = 1.54494382022
+s_AB = -0.703294445963
+
+15. Proteins: HA and NS1
+d_AB = 1.66197183099
+s_AB = -0.657787303531
+
+16. Proteins: M2 and NS1
+d_AB = 1.76111111111
+s_AB = -0.60398773887
+
+17. Proteins: M2 and PB2
+d_AB = 1.88888888889
+s_AB = -0.539590242782
+
+18. Proteins: NA and PB2
+d_AB = 1.99393939394
+s_AB = -0.483402920819
+
+19. Proteins: HA and PB1
+d_AB = 1.93055555556
+s_AB = -0.47226358282
+
+20. Proteins: M2 and PB1
+d_AB = 1.97826086957
+s_AB = -0.469897984274
+
+21. Proteins: HA and PB2
+d_AB = 1.91549295775
+s_AB = -0.467646458461
+
+22. Proteins: NA and PB1
+d_AB = 2.08383233533
+s_AB = -0.413189701597
+
+23. Proteins: HA and NEP
+d_AB = 1.95238095238
+s_AB = -0.394522868436
+
+24. Proteins: M2 and PA
+d_AB = 2.07228915663
+s_AB = -0.355201588585
+
+25. Proteins: M2 and NEP
+d_AB = 2.04819277108
+s_AB = -0.344050765196
+
+26. Proteins: NA and NEP
+d_AB = 2.14093959732
+s_AB = -0.300167122052
+
+27. Proteins: HA and PA
+d_AB = 2.0873015873
+s_AB = -0.294849442447
+
+28. Proteins: NA and PA
+d_AB = 2.24832214765
+s_AB = -0.228031780648
+
