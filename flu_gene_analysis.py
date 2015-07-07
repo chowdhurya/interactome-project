@@ -6,16 +6,29 @@ from itertools import combinations
 from localization import get_lcc_size
 from separation import (calc_single_set_distance, calc_set_pair_distances,
     read_gene_list, read_network, remove_self_links)
+from StringIO import StringIO
+import sys
 
 @click.command()
 @click.option('--interactome', default='data/interactome.tsv',
               help='Interactome file to use')
-def main(interactome):
+@click.option('--tsv', is_flag=True, help='Outputs a tsv of the results')
+def main(interactome, tsv):
     # Load network
-    G = read_network(interactome)
+    if tsv:
+        # Supress print function
+        sys.stdout = StringIO()
+        G = read_network(interactome)
+        sys.stdout = sys.__stdout__
+    else:
+        G = read_network(interactome)
     all_genes_in_network = set(G.nodes())
     remove_self_links(G)
-    print ''
+
+    if tsv:
+        print '#' + '\t'.join(('rank', 'protein_a', 'protein_b', 'd_AB', 's_AB'))
+    else:
+        print ''
 
     # Read flu genes file and separate by protein
     genes = defaultdict(list)
@@ -37,16 +50,13 @@ def main(interactome):
 
         return d_AB, s_AB
 
-    # Returns S, d_s of a single protein
-    def analyze_single_protein(protein):
-        return get_lcc_size(G, genes[protein])
-
-    # Print information about each protein set
-    print 'PROTEINS'
-    for i, protein in enumerate(sorted(genes)):
-        print str(i + 1) + '. ' + protein + '; S = ' + \
-            str(get_lcc_size(G, genes[protein]))
-    print ''
+    if not tsv:
+        # Print information about each protein set as debugging information
+        print 'PROTEINS'
+        for i, protein in enumerate(sorted(genes)):
+            print str(i + 1) + '. ' + protein + '; S = ' + \
+                str(get_lcc_size(G, genes[protein]))
+        print ''
 
     # Analyze each protein combination and sort from lowest s_AB to highest
     analyses = []
@@ -57,10 +67,15 @@ def main(interactome):
 
     # Print analyses in order
     for i, analysis in enumerate(analyses):
-        print str(i + 1) + '. Proteins: ' + analysis[0] + ' and ' + analysis[1]
-        print 'd_AB = ' + str(analysis[2])
-        print 's_AB = ' + str(analysis[3])
-        print ''
+        if tsv:
+            print '\t'.join((str(i + 1), analysis[0], analysis[1],
+                str(analysis[2]), str(analysis[3])))
+        else:
+            print str(i + 1) + '. Proteins: ' + analysis[0] + ' and ' \
+                + analysis[1]
+            print 'd_AB = ' + str(analysis[2])
+            print 's_AB = ' + str(analysis[3])
+            print ''
 
 if __name__ == '__main__':
     main()
