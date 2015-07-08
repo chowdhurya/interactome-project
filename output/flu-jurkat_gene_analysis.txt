@@ -1,0 +1,1437 @@
+
+> done loading network:
+> network contains 13460 nodes and 141296 links
+
+PROTEINS
+1. CA [Jurkat]; S = 302
+2. GAG [Jurkat]; S = 306
+3. GP120 [Jurkat]; S = 351
+4. GP160 [Jurkat]; S = 359
+5. GP41 [Jurkat]; S = 320
+6. HA [Flu]; S = 72
+7. IN [Jurkat]; S = 217
+8. M2 [Flu]; S = 118
+9. MA [Jurkat]; S = 273
+10. NA [Flu]; S = 86
+11. NC [Jurkat]; S = 192
+12. NCC [Jurkat]; S = 375
+13. NEF [Jurkat]; S = 340
+14. NEP [Flu]; S = 71
+15. NS1 [Flu]; S = 82
+16. P6 [Jurkat]; S = 275
+17. PA [Flu]; S = 65
+18. PB1 [Flu]; S = 96
+19. PB2 [Flu]; S = 96
+20. POL [Jurkat]; S = 317
+21. PR [Jurkat]; S = 301
+22. REV [Jurkat]; S = 298
+23. RT [Jurkat]; S = 279
+24. TAT [Jurkat]; S = 255
+25. VIF [Jurkat]; S = 391
+26. VPR [Jurkat]; S = 445
+27. VPU [Jurkat]; S = 422
+
+1. Proteins: CA [Jurkat] and P6 [Jurkat]
+d_AB = 0.341064120055
+s_AB = -0.855941363807
+
+2. Proteins: MA [Jurkat] and P6 [Jurkat]
+d_AB = 0.365192582026
+s_AB = -0.841504210028
+
+3. Proteins: CA [Jurkat] and MA [Jurkat]
+d_AB = 0.3891966759
+s_AB = -0.798213465183
+
+4. Proteins: REV [Jurkat] and TAT [Jurkat]
+d_AB = 0.399425287356
+s_AB = -0.795562589217
+
+5. Proteins: NEF [Jurkat] and VIF [Jurkat]
+d_AB = 0.360319270239
+s_AB = -0.792519248649
+
+6. Proteins: GAG [Jurkat] and P6 [Jurkat]
+d_AB = 0.391724137931
+s_AB = -0.788237647642
+
+7. Proteins: P6 [Jurkat] and RT [Jurkat]
+d_AB = 0.431977559607
+s_AB = -0.784011645063
+
+8. Proteins: NEF [Jurkat] and P6 [Jurkat]
+d_AB = 0.423076923077
+s_AB = -0.77940876698
+
+9. Proteins: VIF [Jurkat] and VPR [Jurkat]
+d_AB = 0.375745526839
+s_AB = -0.774977600873
+
+10. Proteins: NC [Jurkat] and TAT [Jurkat]
+d_AB = 0.427083333333
+s_AB = -0.771967872222
+
+11. Proteins: GAG [Jurkat] and REV [Jurkat]
+d_AB = 0.407806191117
+s_AB = -0.764276906719
+
+12. Proteins: P6 [Jurkat] and REV [Jurkat]
+d_AB = 0.446575342466
+s_AB = -0.761838104629
+
+13. Proteins: P6 [Jurkat] and VIF [Jurkat]
+d_AB = 0.412855377009
+s_AB = -0.753789586654
+
+14. Proteins: NC [Jurkat] and P6 [Jurkat]
+d_AB = 0.462295081967
+s_AB = -0.75018169411
+
+15. Proteins: NEP [Flu] and PA [Flu]
+d_AB = 0.542713567839
+s_AB = -0.748675152597
+
+16. Proteins: GAG [Jurkat] and TAT [Jurkat]
+d_AB = 0.419681620839
+s_AB = -0.746854594212
+
+17. Proteins: CA [Jurkat] and GAG [Jurkat]
+d_AB = 0.415549597855
+s_AB = -0.745125536748
+
+18. Proteins: GAG [Jurkat] and VIF [Jurkat]
+d_AB = 0.385644768856
+s_AB = -0.744669845548
+
+19. Proteins: NEF [Jurkat] and VPR [Jurkat]
+d_AB = 0.446264073695
+s_AB = -0.740299780411
+
+20. Proteins: NC [Jurkat] and REV [Jurkat]
+d_AB = 0.468152866242
+s_AB = -0.736445222099
+
+21. Proteins: CA [Jurkat] and NEF [Jurkat]
+d_AB = 0.448189762797
+s_AB = -0.735009276291
+
+22. Proteins: P6 [Jurkat] and TAT [Jurkat]
+d_AB = 0.47197640118
+s_AB = -0.73089016313
+
+23. Proteins: IN [Jurkat] and P6 [Jurkat]
+d_AB = 0.490683229814
+s_AB = -0.730310059824
+
+24. Proteins: GAG [Jurkat] and NEF [Jurkat]
+d_AB = 0.43631778058
+s_AB = -0.729837560219
+
+25. Proteins: NEF [Jurkat] and RT [Jurkat]
+d_AB = 0.475095785441
+s_AB = -0.727086974456
+
+26. Proteins: GAG [Jurkat] and NC [Jurkat]
+d_AB = 0.45264847512
+s_AB = -0.723497951698
+
+27. Proteins: IN [Jurkat] and NC [Jurkat]
+d_AB = 0.494464944649
+s_AB = -0.722712986234
+
+28. Proteins: GAG [Jurkat] and RT [Jurkat]
+d_AB = 0.45867768595
+s_AB = -0.720981169462
+
+29. Proteins: CA [Jurkat] and VIF [Jurkat]
+d_AB = 0.428915662651
+s_AB = -0.718442650042
+
+30. Proteins: NEP [Flu] and PB1 [Flu]
+d_AB = 0.574468085106
+s_AB = -0.71544788128
+
+31. Proteins: GAG [Jurkat] and IN [Jurkat]
+d_AB = 0.471841704718
+s_AB = -0.712821235661
+
+32. Proteins: IN [Jurkat] and RT [Jurkat]
+d_AB = 0.51007751938
+s_AB = -0.710612840097
+
+33. Proteins: MA [Jurkat] and RT [Jurkat]
+d_AB = 0.497150997151
+s_AB = -0.709242864742
+
+34. Proteins: GAG [Jurkat] and MA [Jurkat]
+d_AB = 0.463585434174
+s_AB = -0.706781008621
+
+35. Proteins: GP160 [Jurkat] and GP41 [Jurkat]
+d_AB = 0.539803707743
+s_AB = -0.698134304065
+
+36. Proteins: REV [Jurkat] and VIF [Jurkat]
+d_AB = 0.464328899637
+s_AB = -0.694437376289
+
+37. Proteins: TAT [Jurkat] and VIF [Jurkat]
+d_AB = 0.45935483871
+s_AB = -0.693864554432
+
+38. Proteins: CA [Jurkat] and RT [Jurkat]
+d_AB = 0.50408719346
+s_AB = -0.69261536024
+
+39. Proteins: CA [Jurkat] and IN [Jurkat]
+d_AB = 0.50977443609
+s_AB = -0.691932202578
+
+40. Proteins: MA [Jurkat] and REV [Jurkat]
+d_AB = 0.511821974965
+s_AB = -0.686996129352
+
+41. Proteins: NCC [Jurkat] and REV [Jurkat]
+d_AB = 0.512485136742
+s_AB = -0.68479716831
+
+42. Proteins: PB1 [Flu] and PB2 [Flu]
+d_AB = 0.577205882353
+s_AB = -0.684356296475
+
+43. Proteins: NEF [Jurkat] and TAT [Jurkat]
+d_AB = 0.505361930295
+s_AB = -0.683698189241
+
+44. Proteins: IN [Jurkat] and TAT [Jurkat]
+d_AB = 0.524590163934
+s_AB = -0.682977555182
+
+45. Proteins: MA [Jurkat] and NC [Jurkat]
+d_AB = 0.520868113523
+s_AB = -0.682013319777
+
+46. Proteins: GP120 [Jurkat] and VIF [Jurkat]
+d_AB = 0.465768799102
+s_AB = -0.681771193036
+
+47. Proteins: IN [Jurkat] and REV [Jurkat]
+d_AB = 0.536253776435
+s_AB = -0.676860825466
+
+48. Proteins: IN [Jurkat] and NEF [Jurkat]
+d_AB = 0.532303370787
+s_AB = -0.674883474077
+
+49. Proteins: PA [Flu] and PB1 [Flu]
+d_AB = 0.613043478261
+s_AB = -0.674143561503
+
+50. Proteins: NC [Jurkat] and NCC [Jurkat]
+d_AB = 0.53120665742
+s_AB = -0.670138976614
+
+51. Proteins: RT [Jurkat] and VIF [Jurkat]
+d_AB = 0.496296296296
+s_AB = -0.670045737206
+
+52. Proteins: MA [Jurkat] and NEF [Jurkat]
+d_AB = 0.525357607282
+s_AB = -0.667532739997
+
+53. Proteins: MA [Jurkat] and TAT [Jurkat]
+d_AB = 0.526236881559
+s_AB = -0.667034339973
+
+54. Proteins: P6 [Jurkat] and VPR [Jurkat]
+d_AB = 0.534653465347
+s_AB = -0.665716833534
+
+55. Proteins: NEF [Jurkat] and REV [Jurkat]
+d_AB = 0.53007518797
+s_AB = -0.664531814351
+
+56. Proteins: REV [Jurkat] and RT [Jurkat]
+d_AB = 0.544459644323
+s_AB = -0.663650872611
+
+57. Proteins: MA [Jurkat] and VIF [Jurkat]
+d_AB = 0.494987468672
+s_AB = -0.662062152213
+
+58. Proteins: GP120 [Jurkat] and P6 [Jurkat]
+d_AB = 0.540302267003
+s_AB = -0.656884896304
+
+59. Proteins: GP120 [Jurkat] and GP160 [Jurkat]
+d_AB = 0.550549450549
+s_AB = -0.653957747036
+
+60. Proteins: NCC [Jurkat] and P6 [Jurkat]
+d_AB = 0.552855407047
+s_AB = -0.652305585741
+
+61. Proteins: GP160 [Jurkat] and VPR [Jurkat]
+d_AB = 0.558048780488
+s_AB = -0.649641552672
+
+62. Proteins: IN [Jurkat] and MA [Jurkat]
+d_AB = 0.563981042654
+s_AB = -0.647416904206
+
+63. Proteins: CA [Jurkat] and REV [Jurkat]
+d_AB = 0.544607190413
+s_AB = -0.644519605712
+
+64. Proteins: GP120 [Jurkat] and NEF [Jurkat]
+d_AB = 0.539443155452
+s_AB = -0.643937563079
+
+65. Proteins: NC [Jurkat] and VIF [Jurkat]
+d_AB = 0.51909476662
+s_AB = -0.643734838289
+
+66. Proteins: IN [Jurkat] and VIF [Jurkat]
+d_AB = 0.527665317139
+s_AB = -0.64368080133
+
+67. Proteins: RT [Jurkat] and VPR [Jurkat]
+d_AB = 0.561538461538
+s_AB = -0.638528907181
+
+68. Proteins: CA [Jurkat] and NC [Jurkat]
+d_AB = 0.556259904913
+s_AB = -0.636930220194
+
+69. Proteins: MA [Jurkat] and NCC [Jurkat]
+d_AB = 0.560344827586
+s_AB = -0.635220822425
+
+70. Proteins: VPR [Jurkat] and VPU [Jurkat]
+d_AB = 0.549582947173
+s_AB = -0.633896037143
+
+71. Proteins: POL [Jurkat] and PR [Jurkat]
+d_AB = 0.539072847682
+s_AB = -0.630771908996
+
+72. Proteins: GAG [Jurkat] and VPR [Jurkat]
+d_AB = 0.533622559653
+s_AB = -0.630417389969
+
+73. Proteins: GP120 [Jurkat] and VPR [Jurkat]
+d_AB = 0.550958627649
+s_AB = -0.630306699706
+
+74. Proteins: CA [Jurkat] and TAT [Jurkat]
+d_AB = 0.555078683834
+s_AB = -0.628501229506
+
+75. Proteins: NC [Jurkat] and RT [Jurkat]
+d_AB = 0.584288052373
+s_AB = -0.627885793543
+
+76. Proteins: MA [Jurkat] and VPU [Jurkat]
+d_AB = 0.562571756602
+s_AB = -0.627233720888
+
+77. Proteins: CA [Jurkat] and NCC [Jurkat]
+d_AB = 0.561611374408
+s_AB = -0.624262967411
+
+78. Proteins: RT [Jurkat] and TAT [Jurkat]
+d_AB = 0.578792341679
+s_AB = -0.62377129247
+
+79. Proteins: GP41 [Jurkat] and VPU [Jurkat]
+d_AB = 0.590113285273
+s_AB = -0.623613377691
+
+80. Proteins: GAG [Jurkat] and GP120 [Jurkat]
+d_AB = 0.541511771995
+s_AB = -0.619345042053
+
+81. Proteins: HA [Flu] and NA [Flu]
+d_AB = 0.852601156069
+s_AB = -0.618567439663
+
+82. Proteins: NEF [Jurkat] and VPU [Jurkat]
+d_AB = 0.569473684211
+s_AB = -0.616120691283
+
+83. Proteins: RT [Jurkat] and VPU [Jurkat]
+d_AB = 0.583238958097
+s_AB = -0.615858932009
+
+84. Proteins: CA [Jurkat] and VPR [Jurkat]
+d_AB = 0.565591397849
+s_AB = -0.615492250061
+
+85. Proteins: GAG [Jurkat] and NCC [Jurkat]
+d_AB = 0.555023923445
+s_AB = -0.613806720085
+
+86. Proteins: NCC [Jurkat] and TAT [Jurkat]
+d_AB = 0.580481622307
+s_AB = -0.611253799961
+
+87. Proteins: GP160 [Jurkat] and NEF [Jurkat]
+d_AB = 0.600222717149
+s_AB = -0.609583007187
+
+88. Proteins: PA [Flu] and PB2 [Flu]
+d_AB = 0.656779661017
+s_AB = -0.606255271861
+
+89. Proteins: CA [Jurkat] and GP120 [Jurkat]
+d_AB = 0.576687116564
+s_AB = -0.601213395772
+
+90. Proteins: NC [Jurkat] and NEF [Jurkat]
+d_AB = 0.600294985251
+s_AB = -0.598375346052
+
+91. Proteins: REV [Jurkat] and VPR [Jurkat]
+d_AB = 0.59978425027
+s_AB = -0.592707360874
+
+92. Proteins: CA [Jurkat] and VPU [Jurkat]
+d_AB = 0.590254706534
+s_AB = -0.589859462764
+
+93. Proteins: MA [Jurkat] and VPR [Jurkat]
+d_AB = 0.604677060134
+s_AB = -0.586097895969
+
+94. Proteins: GP120 [Jurkat] and TAT [Jurkat]
+d_AB = 0.598684210526
+s_AB = -0.585077382259
+
+95. Proteins: TAT [Jurkat] and VPR [Jurkat]
+d_AB = 0.604571428571
+s_AB = -0.582373299788
+
+96. Proteins: CA [Jurkat] and GP41 [Jurkat]
+d_AB = 0.633819951338
+s_AB = -0.57751137522
+
+97. Proteins: GP120 [Jurkat] and RT [Jurkat]
+d_AB = 0.620125786164
+s_AB = -0.576758446982
+
+98. Proteins: GP41 [Jurkat] and MA [Jurkat]
+d_AB = 0.644303797468
+s_AB = -0.576718837282
+
+99. Proteins: GP120 [Jurkat] and IN [Jurkat]
+d_AB = 0.628099173554
+s_AB = -0.573789144559
+
+100. Proteins: P6 [Jurkat] and VPU [Jurkat]
+d_AB = 0.628117913832
+s_AB = -0.571282906435
+
+101. Proteins: PR [Jurkat] and RT [Jurkat]
+d_AB = 0.63698630137
+s_AB = -0.568712063767
+
+102. Proteins: GP160 [Jurkat] and VIF [Jurkat]
+d_AB = 0.606486486486
+s_AB = -0.567478511456
+
+103. Proteins: NCC [Jurkat] and VIF [Jurkat]
+d_AB = 0.590217391304
+s_AB = -0.565296430316
+
+104. Proteins: GP120 [Jurkat] and REV [Jurkat]
+d_AB = 0.62684729064
+s_AB = -0.562461184929
+
+105. Proteins: GP120 [Jurkat] and NC [Jurkat]
+d_AB = 0.632947976879
+s_AB = -0.560423827673
+
+106. Proteins: NEP [Flu] and PB2 [Flu]
+d_AB = 0.705394190871
+s_AB = -0.560369668629
+
+107. Proteins: IN [Jurkat] and VPR [Jurkat]
+d_AB = 0.648038049941
+s_AB = -0.557033403746
+
+108. Proteins: NEF [Jurkat] and PR [Jurkat]
+d_AB = 0.636135508156
+s_AB = -0.556059342368
+
+109. Proteins: GP120 [Jurkat] and MA [Jurkat]
+d_AB = 0.634738186462
+s_AB = -0.552853634066
+
+110. Proteins: NEF [Jurkat] and POL [Jurkat]
+d_AB = 0.614143920596
+s_AB = -0.552185230842
+
+111. Proteins: GP160 [Jurkat] and VPU [Jurkat]
+d_AB = 0.657314629259
+s_AB = -0.549406225288
+
+112. Proteins: VIF [Jurkat] and VPU [Jurkat]
+d_AB = 0.603677221655
+s_AB = -0.546076427444
+
+113. Proteins: POL [Jurkat] and VIF [Jurkat]
+d_AB = 0.584431137725
+s_AB = -0.546057287319
+
+114. Proteins: GP41 [Jurkat] and NEF [Jurkat]
+d_AB = 0.672036823936
+s_AB = -0.544774708818
+
+115. Proteins: NS1 [Flu] and PB2 [Flu]
+d_AB = 0.766666666667
+s_AB = -0.542878063961
+
+116. Proteins: GP120 [Jurkat] and GP41 [Jurkat]
+d_AB = 0.67610419026
+s_AB = -0.535408815742
+
+117. Proteins: IN [Jurkat] and NCC [Jurkat]
+d_AB = 0.676821192053
+s_AB = -0.533040955542
+
+118. Proteins: NCC [Jurkat] and NEF [Jurkat]
+d_AB = 0.662177328844
+s_AB = -0.529177219171
+
+119. Proteins: GP41 [Jurkat] and RT [Jurkat]
+d_AB = 0.701995012469
+s_AB = -0.528320034898
+
+120. Proteins: NC [Jurkat] and VPR [Jurkat]
+d_AB = 0.669144981413
+s_AB = -0.527409958714
+
+121. Proteins: P6 [Jurkat] and PR [Jurkat]
+d_AB = 0.684499314129
+s_AB = -0.521501981169
+
+122. Proteins: GP160 [Jurkat] and POL [Jurkat]
+d_AB = 0.667447306792
+s_AB = -0.520008323699
+
+123. Proteins: PR [Jurkat] and VIF [Jurkat]
+d_AB = 0.640435835351
+s_AB = -0.515918288778
+
+124. Proteins: GP160 [Jurkat] and RT [Jurkat]
+d_AB = 0.708784596871
+s_AB = -0.514524642079
+
+125. Proteins: GP41 [Jurkat] and VPR [Jurkat]
+d_AB = 0.700400801603
+s_AB = -0.514295339974
+
+126. Proteins: POL [Jurkat] and VPR [Jurkat]
+d_AB = 0.650267379679
+s_AB = -0.513946380581
+
+127. Proteins: GP41 [Jurkat] and P6 [Jurkat]
+d_AB = 0.717852684145
+s_AB = -0.512765293383
+
+128. Proteins: REV [Jurkat] and VPU [Jurkat]
+d_AB = 0.678888888889
+s_AB = -0.512633243642
+
+129. Proteins: GP160 [Jurkat] and P6 [Jurkat]
+d_AB = 0.712560386473
+s_AB = -0.511051782637
+
+130. Proteins: IN [Jurkat] and PR [Jurkat]
+d_AB = 0.701966717095
+s_AB = -0.508735733009
+
+131. Proteins: POL [Jurkat] and RT [Jurkat]
+d_AB = 0.671177266576
+s_AB = -0.508655399474
+
+132. Proteins: NCC [Jurkat] and RT [Jurkat]
+d_AB = 0.696601941748
+s_AB = -0.50825612088
+
+133. Proteins: GP120 [Jurkat] and VPU [Jurkat]
+d_AB = 0.673236514523
+s_AB = -0.507059334219
+
+134. Proteins: P6 [Jurkat] and POL [Jurkat]
+d_AB = 0.680216802168
+s_AB = -0.499918794044
+
+135. Proteins: MA [Jurkat] and PR [Jurkat]
+d_AB = 0.699164345404
+s_AB = -0.497241607116
+
+136. Proteins: CA [Jurkat] and GP160 [Jurkat]
+d_AB = 0.70789163722
+s_AB = -0.49643388092
+
+137. Proteins: GP120 [Jurkat] and POL [Jurkat]
+d_AB = 0.664634146341
+s_AB = -0.496396478345
+
+138. Proteins: IN [Jurkat] and POL [Jurkat]
+d_AB = 0.692537313433
+s_AB = -0.492299437585
+
+139. Proteins: GP120 [Jurkat] and NCC [Jurkat]
+d_AB = 0.693922651934
+s_AB = -0.49213336933
+
+140. Proteins: GAG [Jurkat] and VPU [Jurkat]
+d_AB = 0.671508379888
+s_AB = -0.491562091121
+
+141. Proteins: GP160 [Jurkat] and MA [Jurkat]
+d_AB = 0.72582619339
+s_AB = -0.488190632942
+
+142. Proteins: POL [Jurkat] and VPU [Jurkat]
+d_AB = 0.675110132159
+s_AB = -0.488134149489
+
+143. Proteins: M2 [Flu] and NA [Flu]
+d_AB = 0.962686567164
+s_AB = -0.487214422935
+
+144. Proteins: PR [Jurkat] and VPR [Jurkat]
+d_AB = 0.704103671706
+s_AB = -0.485975787641
+
+145. Proteins: GP160 [Jurkat] and IN [Jurkat]
+d_AB = 0.743421052632
+s_AB = -0.484892271286
+
+146. Proteins: IN [Jurkat] and VPU [Jurkat]
+d_AB = 0.72113022113
+s_AB = -0.482971753944
+
+147. Proteins: MA [Jurkat] and POL [Jurkat]
+d_AB = 0.694635488308
+s_AB = -0.475904765125
+
+148. Proteins: PR [Jurkat] and VPU [Jurkat]
+d_AB = 0.716351501669
+s_AB = -0.472758479065
+
+149. Proteins: TAT [Jurkat] and VPU [Jurkat]
+d_AB = 0.713443396226
+s_AB = -0.47253185352
+
+150. Proteins: NEP [Flu] and NS1 [Flu]
+d_AB = 0.8669527897
+s_AB = -0.470945728486
+
+151. Proteins: NCC [Jurkat] and VPR [Jurkat]
+d_AB = 0.719607843137
+s_AB = -0.469631313701
+
+152. Proteins: GAG [Jurkat] and GP160 [Jurkat]
+d_AB = 0.718192627824
+s_AB = -0.469089192028
+
+153. Proteins: POL [Jurkat] and TAT [Jurkat]
+d_AB = 0.703125
+s_AB = -0.46358502569
+
+154. Proteins: GP41 [Jurkat] and VIF [Jurkat]
+d_AB = 0.721603563474
+s_AB = -0.459367242885
+
+155. Proteins: CA [Jurkat] and PR [Jurkat]
+d_AB = 0.728
+s_AB = -0.458714644328
+
+156. Proteins: CA [Jurkat] and POL [Jurkat]
+d_AB = 0.702239789196
+s_AB = -0.458609156045
+
+157. Proteins: GAG [Jurkat] and GP41 [Jurkat]
+d_AB = 0.735872235872
+s_AB = -0.458415392397
+
+158. Proteins: GP120 [Jurkat] and PR [Jurkat]
+d_AB = 0.728729963009
+s_AB = -0.458166360764
+
+159. Proteins: GAG [Jurkat] and PR [Jurkat]
+d_AB = 0.714285714286
+s_AB = -0.455385231754
+
+160. Proteins: GAG [Jurkat] and POL [Jurkat]
+d_AB = 0.693741677763
+s_AB = -0.45006356919
+
+161. Proteins: NCC [Jurkat] and VPU [Jurkat]
+d_AB = 0.741188318228
+s_AB = -0.447081359997
+
+162. Proteins: NS1 [Flu] and PB1 [Flu]
+d_AB = 0.890151515152
+s_AB = -0.443545322362
+
+163. Proteins: GP160 [Jurkat] and PR [Jurkat]
+d_AB = 0.770414201183
+s_AB = -0.442907128394
+
+164. Proteins: GP41 [Jurkat] and POL [Jurkat]
+d_AB = 0.752116082225
+s_AB = -0.442345356683
+
+165. Proteins: GP160 [Jurkat] and REV [Jurkat]
+d_AB = 0.776595744681
+s_AB = -0.439137736693
+
+166. Proteins: GP41 [Jurkat] and NCC [Jurkat]
+d_AB = 0.787280701754
+s_AB = -0.432206133731
+
+167. Proteins: HA [Flu] and M2 [Flu]
+d_AB = 0.970760233918
+s_AB = -0.430507371716
+
+168. Proteins: POL [Jurkat] and REV [Jurkat]
+d_AB = 0.742063492063
+s_AB = -0.430193416411
+
+169. Proteins: NC [Jurkat] and PR [Jurkat]
+d_AB = 0.773524720893
+s_AB = -0.42866121565
+
+170. Proteins: NC [Jurkat] and VPU [Jurkat]
+d_AB = 0.767948717949
+s_AB = -0.427636743564
+
+171. Proteins: PR [Jurkat] and REV [Jurkat]
+d_AB = 0.773761713521
+s_AB = -0.42436089404
+
+172. Proteins: PR [Jurkat] and TAT [Jurkat]
+d_AB = 0.768345323741
+s_AB = -0.424230401035
+
+173. Proteins: GP160 [Jurkat] and NC [Jurkat]
+d_AB = 0.796143250689
+s_AB = -0.423653559668
+
+174. Proteins: GP41 [Jurkat] and IN [Jurkat]
+d_AB = 0.81309686221
+s_AB = -0.422222270124
+
+175. Proteins: GP160 [Jurkat] and TAT [Jurkat]
+d_AB = 0.788413098237
+s_AB = -0.421773500353
+
+176. Proteins: NC [Jurkat] and POL [Jurkat]
+d_AB = 0.754716981132
+s_AB = -0.421603256325
+
+177. Proteins: GP41 [Jurkat] and PR [Jurkat]
+d_AB = 0.81173594132
+s_AB = -0.408591196674
+
+178. Proteins: GP41 [Jurkat] and NC [Jurkat]
+d_AB = 0.822603719599
+s_AB = -0.404198899174
+
+179. Proteins: NCC [Jurkat] and POL [Jurkat]
+d_AB = 0.775029446408
+s_AB = -0.393975007761
+
+180. Proteins: GP41 [Jurkat] and REV [Jurkat]
+d_AB = 0.82905982906
+s_AB = -0.393679460732
+
+181. Proteins: GP160 [Jurkat] and NCC [Jurkat]
+d_AB = 0.818956336528
+s_AB = -0.39352469054
+
+182. Proteins: GP41 [Jurkat] and TAT [Jurkat]
+d_AB = 0.827900912647
+s_AB = -0.38929149436
+
+183. Proteins: NCC [Jurkat] and PR [Jurkat]
+d_AB = 0.85
+s_AB = -0.344870153255
+
+184. Proteins: HA [Flu] and NS1 [Flu]
+d_AB = 1.06227106227
+s_AB = -0.339836238019
+
+185. Proteins: NS1 [Flu] and PA [Flu]
+d_AB = 1.00877192982
+s_AB = -0.326397661739
+
+186. Proteins: M2 [Flu] and NS1 [Flu]
+d_AB = 1.07552870091
+s_AB = -0.30531099375
+
+187. Proteins: NA [Flu] and NS1 [Flu]
+d_AB = 1.15615615616
+s_AB = -0.294584528599
+
+188. Proteins: GP160 [Jurkat] and NA [Flu]
+d_AB = 1.13204747774
+s_AB = -0.243319614049
+
+189. Proteins: NA [Flu] and VPU [Jurkat]
+d_AB = 1.16483516484
+s_AB = -0.186320578116
+
+190. Proteins: M2 [Flu] and PB2 [Flu]
+d_AB = 1.12389380531
+s_AB = -0.184811230661
+
+191. Proteins: M2 [Flu] and VPR [Jurkat]
+d_AB = 1.09960159363
+s_AB = -0.182622637839
+
+192. Proteins: GP160 [Jurkat] and HA [Flu]
+d_AB = 1.15146579805
+s_AB = -0.175267909283
+
+193. Proteins: GP160 [Jurkat] and M2 [Flu]
+d_AB = 1.13095238095
+s_AB = -0.174513720743
+
+194. Proteins: M2 [Flu] and POL [Jurkat]
+d_AB = 1.0910652921
+s_AB = -0.1709242367
+
+195. Proteins: M2 [Flu] and VPU [Jurkat]
+d_AB = 1.13223140496
+s_AB = -0.149023347893
+
+196. Proteins: M2 [Flu] and VIF [Jurkat]
+d_AB = 1.1010719755
+s_AB = -0.14742692075
+
+197. Proteins: M2 [Flu] and PR [Jurkat]
+d_AB = 1.14310645724
+s_AB = -0.144748770639
+
+198. Proteins: M2 [Flu] and NEF [Jurkat]
+d_AB = 1.14743589744
+s_AB = -0.136903725206
+
+199. Proteins: NA [Flu] and POL [Jurkat]
+d_AB = 1.19863013699
+s_AB = -0.133260381909
+
+200. Proteins: NA [Flu] and VPR [Jurkat]
+d_AB = 1.21986754967
+s_AB = -0.132257671895
+
+201. Proteins: GP41 [Jurkat] and NA [Flu]
+d_AB = 1.26429675425
+s_AB = -0.118076145961
+
+202. Proteins: M2 [Flu] and PB1 [Flu]
+d_AB = 1.21621621622
+s_AB = -0.116640926641
+
+203. Proteins: NA [Flu] and PB2 [Flu]
+d_AB = 1.27859237537
+s_AB = -0.100013650704
+
+204. Proteins: HA [Flu] and POL [Jurkat]
+d_AB = 1.18702290076
+s_AB = -0.0962342336663
+
+205. Proteins: GP120 [Jurkat] and NA [Flu]
+d_AB = 1.2546875
+s_AB = -0.0942545859894
+
+206. Proteins: HA [Flu] and PB2 [Flu]
+d_AB = 1.2384341637
+s_AB = -0.091538477904
+
+207. Proteins: NS1 [Flu] and TAT [Jurkat]
+d_AB = 1.19426048565
+s_AB = -0.0912997058997
+
+208. Proteins: HA [Flu] and VPU [Jurkat]
+d_AB = 1.2125748503
+s_AB = -0.0899475081861
+
+209. Proteins: NS1 [Flu] and REV [Jurkat]
+d_AB = 1.21188118812
+s_AB = -0.0792258862168
+
+210. Proteins: GP120 [Jurkat] and M2 [Flu]
+d_AB = 1.20062695925
+s_AB = -0.0784141366428
+
+211. Proteins: HA [Flu] and PB1 [Flu]
+d_AB = 1.27636363636
+s_AB = -0.0777611121273
+
+212. Proteins: GAG [Jurkat] and M2 [Flu]
+d_AB = 1.18453427065
+s_AB = -0.0772814475069
+
+213. Proteins: NA [Flu] and PR [Jurkat]
+d_AB = 1.28347826087
+s_AB = -0.0742779571115
+
+214. Proteins: NS1 [Flu] and VPR [Jurkat]
+d_AB = 1.20906432749
+s_AB = -0.0739995986358
+
+215. Proteins: GP41 [Jurkat] and HA [Flu]
+d_AB = 1.26235093697
+s_AB = -0.0713885787785
+
+216. Proteins: GAG [Jurkat] and NS1 [Flu]
+d_AB = 1.198
+s_AB = -0.0646554128137
+
+217. Proteins: M2 [Flu] and P6 [Jurkat]
+d_AB = 1.23381294964
+s_AB = -0.0643331177754
+
+218. Proteins: NS1 [Flu] and POL [Jurkat]
+d_AB = 1.2007797271
+s_AB = -0.0620494963568
+
+219. Proteins: HA [Flu] and VPR [Jurkat]
+d_AB = 1.24172661871
+s_AB = -0.0617652183935
+
+220. Proteins: GP41 [Jurkat] and M2 [Flu]
+d_AB = 1.25271317829
+s_AB = -0.0597587318178
+
+221. Proteins: IN [Jurkat] and M2 [Flu]
+d_AB = 1.24385245902
+s_AB = -0.0589947632058
+
+222. Proteins: NEF [Jurkat] and NS1 [Flu]
+d_AB = 1.22702702703
+s_AB = -0.058152290271
+
+223. Proteins: CA [Jurkat] and M2 [Flu]
+d_AB = 1.22357019064
+s_AB = -0.0552892258044
+
+224. Proteins: NS1 [Flu] and VIF [Jurkat]
+d_AB = 1.19520547945
+s_AB = -0.0541331114517
+
+225. Proteins: M2 [Flu] and RT [Jurkat]
+d_AB = 1.24416517056
+s_AB = -0.0536779666983
+
+226. Proteins: PA [Flu] and REV [Jurkat]
+d_AB = 1.1932059448
+s_AB = -0.0513913317881
+
+227. Proteins: NA [Flu] and NEF [Jurkat]
+d_AB = 1.303514377
+s_AB = -0.0507262357437
+
+228. Proteins: IN [Jurkat] and NS1 [Flu]
+d_AB = 1.25298329356
+s_AB = -0.0507036233226
+
+229. Proteins: HA [Flu] and NEF [Jurkat]
+d_AB = 1.25795053004
+s_AB = -0.04765669824
+
+230. Proteins: PB1 [Flu] and TAT [Jurkat]
+d_AB = 1.19120879121
+s_AB = -0.0463688485428
+
+231. Proteins: GP120 [Jurkat] and NS1 [Flu]
+d_AB = 1.24077328647
+s_AB = -0.0391075040794
+
+232. Proteins: PA [Flu] and TAT [Jurkat]
+d_AB = 1.20047732697
+s_AB = -0.0385730668327
+
+233. Proteins: GP120 [Jurkat] and HA [Flu]
+d_AB = 1.26206896552
+s_AB = -0.038239736007
+
+234. Proteins: HA [Flu] and VIF [Jurkat]
+d_AB = 1.23193277311
+s_AB = -0.0378337287718
+
+235. Proteins: NEP [Flu] and TAT [Jurkat]
+d_AB = 1.20518867925
+s_AB = -0.0365906411785
+
+236. Proteins: NA [Flu] and VIF [Jurkat]
+d_AB = 1.28244274809
+s_AB = -0.0359571382546
+
+237. Proteins: NS1 [Flu] and P6 [Jurkat]
+d_AB = 1.26488706366
+s_AB = -0.0340986984172
+
+238. Proteins: NC [Jurkat] and NS1 [Flu]
+d_AB = 1.26233766234
+s_AB = -0.0328327409802
+
+239. Proteins: M2 [Flu] and REV [Jurkat]
+d_AB = 1.26132404181
+s_AB = -0.0289433378673
+
+240. Proteins: M2 [Flu] and NEP [Flu]
+d_AB = 1.31125827815
+s_AB = -0.0258005453837
+
+241. Proteins: PB1 [Flu] and POL [Jurkat]
+d_AB = 1.19029126214
+s_AB = -0.024555409517
+
+242. Proteins: GP160 [Jurkat] and NS1 [Flu]
+d_AB = 1.28358208955
+s_AB = -0.0227237067992
+
+243. Proteins: IN [Jurkat] and PA [Flu]
+d_AB = 1.23636363636
+s_AB = -0.0208134827658
+
+244. Proteins: CA [Jurkat] and NS1 [Flu]
+d_AB = 1.25984251969
+s_AB = -0.0198565914171
+
+245. Proteins: HA [Flu] and PR [Jurkat]
+d_AB = 1.28932038835
+s_AB = -0.0198024451663
+
+246. Proteins: IN [Jurkat] and NEP [Flu]
+d_AB = 1.24102564103
+s_AB = -0.018880404726
+
+247. Proteins: M2 [Flu] and MA [Jurkat]
+d_AB = 1.27155963303
+s_AB = -0.0169910916102
+
+248. Proteins: NCC [Jurkat] and NS1 [Flu]
+d_AB = 1.27090301003
+s_AB = -0.0169516099962
+
+249. Proteins: NA [Flu] and PB1 [Flu]
+d_AB = 1.38805970149
+s_AB = -0.0146984314636
+
+250. Proteins: M2 [Flu] and PA [Flu]
+d_AB = 1.31986531987
+s_AB = -0.0144645770419
+
+251. Proteins: NEP [Flu] and REV [Jurkat]
+d_AB = 1.23319327731
+s_AB = -0.0141329258976
+
+252. Proteins: NA [Flu] and RT [Jurkat]
+d_AB = 1.3542039356
+s_AB = -0.0135401917546
+
+253. Proteins: NC [Jurkat] and NEP [Flu]
+d_AB = 1.23876404494
+s_AB = -0.012625487247
+
+254. Proteins: PB1 [Flu] and REV [Jurkat]
+d_AB = 1.23274161736
+s_AB = -0.0103829051793
+
+255. Proteins: M2 [Flu] and NC [Jurkat]
+d_AB = 1.28414096916
+s_AB = -0.0101897394984
+
+256. Proteins: NC [Jurkat] and PA [Flu]
+d_AB = 1.23931623932
+s_AB = -0.00934436625239
+
+257. Proteins: IN [Jurkat] and PB1 [Flu]
+d_AB = 1.24703087886
+s_AB = -0.00867348621951
+
+258. Proteins: PB2 [Flu] and POL [Jurkat]
+d_AB = 1.18234165067
+s_AB = -0.00835291409525
+
+259. Proteins: HA [Flu] and RT [Jurkat]
+d_AB = 1.3126252505
+s_AB = -0.0064854923877
+
+260. Proteins: HA [Flu] and NEP [Flu]
+d_AB = 1.35245901639
+s_AB = -0.00586741276977
+
+261. Proteins: NCC [Jurkat] and PA [Flu]
+d_AB = 1.23758865248
+s_AB = -0.00375616979808
+
+262. Proteins: GAG [Jurkat] and NA [Flu]
+d_AB = 1.32984293194
+s_AB = -0.00187377631902
+
+263. Proteins: PB1 [Flu] and VIF [Jurkat]
+d_AB = 1.19965870307
+s_AB = -0.00169733603271
+
+264. Proteins: NEP [Flu] and P6 [Jurkat]
+d_AB = 1.25545851528
+s_AB = 0.000253624338701
+
+265. Proteins: M2 [Flu] and TAT [Jurkat]
+d_AB = 1.28544061303
+s_AB = 0.00072011613241
+
+266. Proteins: NS1 [Flu] and PR [Jurkat]
+d_AB = 1.28968253968
+s_AB = 0.000987617144014
+
+267. Proteins: NCC [Jurkat] and PB1 [Flu]
+d_AB = 1.24166666667
+s_AB = 0.00179459843639
+
+268. Proteins: PB2 [Flu] and VIF [Jurkat]
+d_AB = 1.18074324324
+s_AB = 0.00353931102478
+
+269. Proteins: MA [Jurkat] and NS1 [Flu]
+d_AB = 1.29411764706
+s_AB = 0.00472722776465
+
+270. Proteins: PA [Flu] and POL [Jurkat]
+d_AB = 1.22129436326
+s_AB = 0.00497493755376
+
+271. Proteins: PA [Flu] and VIF [Jurkat]
+d_AB = 1.20909090909
+s_AB = 0.00626211593645
+
+272. Proteins: GAG [Jurkat] and HA [Flu]
+d_AB = 1.29239766082
+s_AB = 0.00931433702773
+
+273. Proteins: P6 [Jurkat] and PA [Flu]
+d_AB = 1.26269315673
+s_AB = 0.0102171924099
+
+274. Proteins: P6 [Jurkat] and PB1 [Flu]
+d_AB = 1.26380368098
+s_AB = 0.0128004707087
+
+275. Proteins: PB2 [Flu] and REV [Jurkat]
+d_AB = 1.23391812865
+s_AB = 0.0149457130046
+
+276. Proteins: GP120 [Jurkat] and PB1 [Flu]
+d_AB = 1.2469352014
+s_AB = 0.0150369626535
+
+277. Proteins: NA [Flu] and NEP [Flu]
+d_AB = 1.42434210526
+s_AB = 0.0173822916347
+
+278. Proteins: NS1 [Flu] and VPU [Jurkat]
+d_AB = 1.299847793
+s_AB = 0.0177533454903
+
+279. Proteins: MA [Jurkat] and NA [Flu]
+d_AB = 1.37659963437
+s_AB = 0.0181479196326
+
+280. Proteins: NCC [Jurkat] and NEP [Flu]
+d_AB = 1.26362038664
+s_AB = 0.0195466377407
+
+281. Proteins: HA [Flu] and P6 [Jurkat]
+d_AB = 1.33935742972
+s_AB = 0.0199437566693
+
+282. Proteins: IN [Jurkat] and PB2 [Flu]
+d_AB = 1.25292740047
+s_AB = 0.0213751422749
+
+283. Proteins: HA [Flu] and IN [Jurkat]
+d_AB = 1.34651162791
+s_AB = 0.022396800051
+
+284. Proteins: NA [Flu] and P6 [Jurkat]
+d_AB = 1.39068100358
+s_AB = 0.0226339460695
+
+285. Proteins: PB2 [Flu] and TAT [Jurkat]
+d_AB = 1.23644251627
+s_AB = 0.0230169834033
+
+286. Proteins: GAG [Jurkat] and NEP [Flu]
+d_AB = 1.24203821656
+s_AB = 0.0231636748739
+
+287. Proteins: M2 [Flu] and NCC [Jurkat]
+d_AB = 1.31034482759
+s_AB = 0.0233299022131
+
+288. Proteins: NC [Jurkat] and PB1 [Flu]
+d_AB = 1.27131782946
+s_AB = 0.0241299779388
+
+289. Proteins: PB1 [Flu] and VPR [Jurkat]
+d_AB = 1.25947521866
+s_AB = 0.024393844337
+
+290. Proteins: CA [Jurkat] and NA [Flu]
+d_AB = 1.37478411054
+s_AB = 0.0260237039908
+
+291. Proteins: NA [Flu] and REV [Jurkat]
+d_AB = 1.38715277778
+s_AB = 0.0269844079996
+
+292. Proteins: HA [Flu] and MA [Jurkat]
+d_AB = 1.33880903491
+s_AB = 0.0289907046361
+
+293. Proteins: IN [Jurkat] and NA [Flu]
+d_AB = 1.40204081633
+s_AB = 0.0292926040053
+
+294. Proteins: NEF [Jurkat] and PB1 [Flu]
+d_AB = 1.26750448833
+s_AB = 0.0303077228317
+
+295. Proteins: GAG [Jurkat] and PA [Flu]
+d_AB = 1.24678111588
+s_AB = 0.0306355008154
+
+296. Proteins: GP120 [Jurkat] and NEP [Flu]
+d_AB = 1.26851851852
+s_AB = 0.0324185990987
+
+297. Proteins: HA [Flu] and PA [Flu]
+d_AB = 1.38912133891
+s_AB = 0.0335238363711
+
+298. Proteins: NCC [Jurkat] and PB2 [Flu]
+d_AB = 1.25247524752
+s_AB = 0.0367552861804
+
+299. Proteins: NEP [Flu] and POL [Jurkat]
+d_AB = 1.25619834711
+s_AB = 0.0371499947822
+
+300. Proteins: NS1 [Flu] and RT [Jurkat]
+d_AB = 1.3381147541
+s_AB = 0.039431922187
+
+301. Proteins: NA [Flu] and TAT [Jurkat]
+d_AB = 1.39503816794
+s_AB = 0.0404166809455
+
+302. Proteins: NA [Flu] and PA [Flu]
+d_AB = 1.44481605351
+s_AB = 0.0405851665055
+
+303. Proteins: CA [Jurkat] and HA [Flu]
+d_AB = 1.34104046243
+s_AB = 0.0409134403483
+
+304. Proteins: NEF [Jurkat] and NEP [Flu]
+d_AB = 1.28326996198
+s_AB = 0.0418715158063
+
+305. Proteins: PB2 [Flu] and VPR [Jurkat]
+d_AB = 1.25433526012
+s_AB = 0.0434059926796
+
+306. Proteins: GP120 [Jurkat] and PB2 [Flu]
+d_AB = 1.25129982669
+s_AB = 0.0435536948281
+
+307. Proteins: P6 [Jurkat] and PB2 [Flu]
+d_AB = 1.27272727273
+s_AB = 0.0458761693403
+
+308. Proteins: NEF [Jurkat] and PB2 [Flu]
+d_AB = 1.2593250444
+s_AB = 0.0462803857922
+
+309. Proteins: NC [Jurkat] and PB2 [Flu]
+d_AB = 1.26972010178
+s_AB = 0.0466843571485
+
+310. Proteins: GP120 [Jurkat] and PA [Flu]
+d_AB = 1.28037383178
+s_AB = 0.0470028389781
+
+311. Proteins: NEF [Jurkat] and PA [Flu]
+d_AB = 1.28598848369
+s_AB = 0.0473189641365
+
+312. Proteins: NEP [Flu] and VIF [Jurkat]
+d_AB = 1.25405405405
+s_AB = 0.0484963342774
+
+313. Proteins: NA [Flu] and NCC [Jurkat]
+d_AB = 1.40657698057
+s_AB = 0.0496610650959
+
+314. Proteins: PA [Flu] and RT [Jurkat]
+d_AB = 1.30396475771
+s_AB = 0.0517917235471
+
+315. Proteins: GAG [Jurkat] and PB1 [Flu]
+d_AB = 1.26693227092
+s_AB = 0.052259409902
+
+316. Proteins: NA [Flu] and NC [Jurkat]
+d_AB = 1.41885964912
+s_AB = 0.0546279503624
+
+317. Proteins: PB1 [Flu] and PR [Jurkat]
+d_AB = 1.29841897233
+s_AB = 0.0577066015928
+
+318. Proteins: CA [Jurkat] and NEP [Flu]
+d_AB = 1.29436325678
+s_AB = 0.0584450168099
+
+319. Proteins: PA [Flu] and PR [Jurkat]
+d_AB = 1.30425531915
+s_AB = 0.0620701943597
+
+320. Proteins: GP41 [Jurkat] and NS1 [Flu]
+d_AB = 1.37847222222
+s_AB = 0.0651606174534
+
+321. Proteins: CA [Jurkat] and PA [Flu]
+d_AB = 1.29957805907
+s_AB = 0.0663887457189
+
+322. Proteins: GP160 [Jurkat] and PB1 [Flu]
+d_AB = 1.32727272727
+s_AB = 0.0689494827207
+
+323. Proteins: HA [Flu] and NC [Jurkat]
+d_AB = 1.38636363636
+s_AB = 0.0707653220684
+
+324. Proteins: NEP [Flu] and RT [Jurkat]
+d_AB = 1.32679738562
+s_AB = 0.0718954248366
+
+325. Proteins: CA [Jurkat] and PB1 [Flu]
+d_AB = 1.30588235294
+s_AB = 0.0741657936384
+
+326. Proteins: MA [Jurkat] and NEP [Flu]
+d_AB = 1.31991051454
+s_AB = 0.0743009663743
+
+327. Proteins: HA [Flu] and TAT [Jurkat]
+d_AB = 1.38146551724
+s_AB = 0.0754774147132
+
+328. Proteins: PB1 [Flu] and RT [Jurkat]
+d_AB = 1.32857142857
+s_AB = 0.0778711484594
+
+329. Proteins: GAG [Jurkat] and PB2 [Flu]
+d_AB = 1.26968503937
+s_AB = 0.0791642852417
+
+330. Proteins: GP160 [Jurkat] and PB2 [Flu]
+d_AB = 1.31423895254
+s_AB = 0.0800678148707
+
+331. Proteins: PB2 [Flu] and PR [Jurkat]
+d_AB = 1.298828125
+s_AB = 0.0822678611467
+
+332. Proteins: HA [Flu] and REV [Jurkat]
+d_AB = 1.39728682171
+s_AB = 0.0857518363925
+
+333. Proteins: MA [Jurkat] and PB1 [Flu]
+d_AB = 1.32845188285
+s_AB = 0.0870440153504
+
+334. Proteins: NEP [Flu] and PR [Jurkat]
+d_AB = 1.33263157895
+s_AB = 0.0877175275359
+
+335. Proteins: PA [Flu] and VPR [Jurkat]
+d_AB = 1.32461538462
+s_AB = 0.0880612562434
+
+336. Proteins: MA [Jurkat] and PA [Flu]
+d_AB = 1.33484162896
+s_AB = 0.0919610074144
+
+337. Proteins: CA [Jurkat] and PB2 [Flu]
+d_AB = 1.3003875969
+s_AB = 0.0928231444824
+
+338. Proteins: NEP [Flu] and VPR [Jurkat]
+d_AB = 1.33435114504
+s_AB = 0.095068090044
+
+339. Proteins: PB1 [Flu] and VPU [Jurkat]
+d_AB = 1.33232169954
+s_AB = 0.0982098038359
+
+340. Proteins: PB2 [Flu] and VPU [Jurkat]
+d_AB = 1.32180451128
+s_AB = 0.111844722455
+
+341. Proteins: MA [Jurkat] and PB2 [Flu]
+d_AB = 1.3326446281
+s_AB = 0.11538886749
+
+342. Proteins: PB2 [Flu] and RT [Jurkat]
+d_AB = 1.34274193548
+s_AB = 0.116193762258
+
+343. Proteins: PA [Flu] and VPU [Jurkat]
+d_AB = 1.35634028892
+s_AB = 0.120755639166
+
+344. Proteins: NEP [Flu] and VPU [Jurkat]
+d_AB = 1.36624203822
+s_AB = 0.127928461835
+
+345. Proteins: HA [Flu] and NCC [Jurkat]
+d_AB = 1.45320197044
+s_AB = 0.144919439436
+
+346. Proteins: GP41 [Jurkat] and PB1 [Flu]
+d_AB = 1.41349480969
+s_AB = 0.148165756719
+
+347. Proteins: GP41 [Jurkat] and PB2 [Flu]
+d_AB = 1.39212328767
+s_AB = 0.150946341588
+
+348. Proteins: GP41 [Jurkat] and NEP [Flu]
+d_AB = 1.42230347349
+s_AB = 0.15277273985
+
+349. Proteins: GP160 [Jurkat] and NEP [Flu]
+d_AB = 1.41637630662
+s_AB = 0.153851381396
+
+350. Proteins: GP41 [Jurkat] and PA [Flu]
+d_AB = 1.42435424354
+s_AB = 0.157552436523
+
+351. Proteins: GP160 [Jurkat] and PA [Flu]
+d_AB = 1.42706502636
+s_AB = 0.16726902776
+
