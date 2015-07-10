@@ -5,6 +5,7 @@ import click
 from collections import defaultdict
 from itertools import combinations_with_replacement
 from localization import get_lcc_size
+import re
 from separation import (calc_single_set_distance, calc_set_pair_distances,
     read_gene_list, read_network, remove_self_links)
 from StringIO import StringIO
@@ -19,14 +20,21 @@ for analysis_file in ('data/flu_gene_analysis.tsv', 'data/flu-hek_gene_analysis.
             rank, protein_a, protein_b, d_AB, s_AB = line.split('\t')
             cache[(protein_a, protein_b)] = float(d_AB), float(s_AB)
 
+def _title_from_protein(protein):
+    return re.match(r'.+ \[(.*)\]', protein).group(1)
+
 @click.command()
 @click.option('--interactome', default='data/interactome.tsv',
               help='Interactome file to use')
 @click.option('--tsv', default='',
               help='Outputs a tsv of the results to the given file')
-@click.option('--gene-file', default=('data/flu_gene_ids.tsv', 'Flu'),
+@click.option('--gene-file', default=('', 'Flu'),
               multiple=True, type=(str, str))
-def main(interactome, tsv, gene_file):
+@click.option('--only-crosses', is_flag=True)
+def main(interactome, tsv, gene_file, only_crosses):
+    if only_crosses and len(gene_file) < 2:
+        raise Exception('Must have at least 2 gene files for --only-crosses')
+
     # Load network
     G = read_network(interactome)
     all_genes_in_network = set(G.nodes())
@@ -76,6 +84,8 @@ def main(interactome, tsv, gene_file):
     count = 1
     analyses = []
     for protein_a, protein_b in map(tuple, combinations_with_replacement(sorted(genes), 2)):
+        if only_crosses and _title_from_protein(protein_a) == _title_from_protein(protein_b):
+            continue
         d_AB, s_AB = analyze_proteins(protein_a, protein_b)
         analyses.append((protein_a, protein_b, d_AB, s_AB))
         count += 1
