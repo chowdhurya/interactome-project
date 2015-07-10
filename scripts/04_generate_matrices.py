@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import re
 
-def generate_matrix(input, output, crossed=True):
+def generate_matrix(input, output, crossed, normalize):
     genes = defaultdict(set)
     s_values = {}
     with open(input) as f:
@@ -18,6 +18,12 @@ def generate_matrix(input, output, crossed=True):
     for protein in genes:
         genes[protein] = list(sorted(genes[protein]))
 
+    if normalize:
+        normalized_values = {}
+        for protein_a, protein_b in s_values:
+            key = tuple(sorted((protein_a, protein_b)))
+            normalized_values[key] = s_values[key] / max(s_values[(protein_a, protein_a)], s_values[(protein_b, protein_b)])
+
     if crossed:
         column_labels = sorted(genes[list(genes.viewkeys())[0]])
         row_labels = sorted(genes[list(genes.viewkeys())[1]])
@@ -26,14 +32,22 @@ def generate_matrix(input, output, crossed=True):
     data = np.zeros((len(row_labels), len(column_labels)))
     for i, protein_a in enumerate(row_labels):
         for j, protein_b in enumerate(column_labels):
-            data[i,j] = s_values[tuple(sorted((protein_a, protein_b)))]
+            values = normalized_values if normalize else s_values
+            data[i,j] = values[tuple(sorted((protein_a, protein_b)))]
 
     df = pd.DataFrame(data, index=row_labels, columns=column_labels)
     df.to_csv(output, index=True, header=True, sep='\t')
 
-generate_matrix('data/flu-hek_gene_analysis.tsv', 'output/flu-hek_crossed_matrix.tsv', True)
-generate_matrix('data/flu-jurkat_gene_analysis.tsv', 'output/flu-jurkat_crossed_matrix.tsv', True)
-generate_matrix('data/hek-jurkat_gene_analysis.tsv', 'output/hek-jurkat_crossed_matrix.tsv', True)
-generate_matrix('data/flu-hek_gene_analysis.tsv', 'output/flu-hek_matrix.tsv', False)
-generate_matrix('data/flu-jurkat_gene_analysis.tsv', 'output/flu-jurkat_matrix.tsv', False)
-generate_matrix('data/hek-jurkat_gene_analysis.tsv', 'output/hek-jurkat_matrix.tsv', False)
+generate_matrix('data/flu-hek_gene_analysis.tsv', 'output/flu-hek_crossed_matrix.tsv', True, False)
+generate_matrix('data/flu-jurkat_gene_analysis.tsv', 'output/flu-jurkat_crossed_matrix.tsv', True, False)
+generate_matrix('data/hek-jurkat_gene_analysis.tsv', 'output/hek-jurkat_crossed_matrix.tsv', True, False)
+generate_matrix('data/flu-hek_gene_analysis.tsv', 'output/flu-hek_matrix.tsv', False, False)
+generate_matrix('data/flu-jurkat_gene_analysis.tsv', 'output/flu-jurkat_matrix.tsv', False, False)
+generate_matrix('data/hek-jurkat_gene_analysis.tsv', 'output/hek-jurkat_matrix.tsv', False, False)
+
+generate_matrix('data/flu-hek_gene_analysis.tsv', 'output/flu-hek_normalized_crossed_matrix.tsv', True, True)
+generate_matrix('data/flu-jurkat_gene_analysis.tsv', 'output/flu-jurkat_normalized_crossed_matrix.tsv', True, True)
+generate_matrix('data/hek-jurkat_gene_analysis.tsv', 'output/hek-jurkat_normalized_crossed_matrix.tsv', True, True)
+generate_matrix('data/flu-hek_gene_analysis.tsv', 'output/flu-hek_normalized_matrix.tsv', False, True)
+generate_matrix('data/flu-jurkat_gene_analysis.tsv', 'output/flu-jurkat_normalized_matrix.tsv', False, True)
+generate_matrix('data/hek-jurkat_gene_analysis.tsv', 'output/hek-jurkat_normalized_matrix.tsv', False, True)
