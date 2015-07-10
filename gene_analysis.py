@@ -3,16 +3,26 @@
 
 import click
 from collections import defaultdict
-from itertools import combinations
+from itertools import combinations_with_replacement
 from localization import get_lcc_size
 from separation import (calc_single_set_distance, calc_set_pair_distances,
     read_gene_list, read_network, remove_self_links)
 from StringIO import StringIO
 
+cache = {}
+for analysis_file in ('data/flu_gene_analysis.tsv', 'data/flu-hek_gene_analysis.tsv', 'data/flu-jurkat_gene_analysis.tsv', 'data/hek-jurkat_gene_analysis.tsv'):
+    s_values = {}
+    with open(analysis_file) as f:
+        for line in f.read().splitlines():
+            if line.startswith('#'):
+                continue
+            rank, protein_a, protein_b, d_AB, s_AB = line.split('\t')
+            cache[(protein_a, protein_b)] = float(d_AB), float(s_AB)
+
 @click.command()
 @click.option('--interactome', default='data/interactome.tsv',
               help='Interactome file to use')
-@click.option('--tsv', default='data/flu_gene_analysis.tsv',
+@click.option('--tsv', default='',
               help='Outputs a tsv of the results to the given file')
 @click.option('--gene-file', default=('data/flu_gene_ids.tsv', 'Flu'),
               multiple=True, type=(str, str))
@@ -41,6 +51,9 @@ def main(interactome, tsv, gene_file):
 
     # Returns d_AB and s_AB of a protein pair
     def analyze_proteins(protein_a, protein_b):
+        if (protein_a, protein_b) in cache:
+            return cache[(protein_a, protein_b)]
+
         genes_A = set(genes[protein_a]) & all_genes_in_network
         genes_B = set(genes[protein_b]) & all_genes_in_network
 
@@ -62,7 +75,7 @@ def main(interactome, tsv, gene_file):
     # Analyze each protein combination and sort from lowest s_AB to highest
     count = 1
     analyses = []
-    for protein_a, protein_b in map(tuple, combinations(sorted(genes), 2)):
+    for protein_a, protein_b in map(tuple, combinations_with_replacement(sorted(genes), 2)):
         d_AB, s_AB = analyze_proteins(protein_a, protein_b)
         analyses.append((protein_a, protein_b, d_AB, s_AB))
         count += 1

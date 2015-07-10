@@ -32,1515 +32,1627 @@ PROTEINS
 27. VPU [HEK]; S = 328
 28. p6 [HEK]; S = 47
 
-1. Proteins: REV [HEK] and TAT [HEK]
+1. Proteins: CA [HEK] and CA [HEK]
+d_AB = 0.0
+s_AB = -1.57894736842
+
+2. Proteins: NA [Flu] and NA [Flu]
+d_AB = 0.0
+s_AB = -1.5198019802
+
+3. Proteins: HA [Flu] and HA [Flu]
+d_AB = 0.0
+s_AB = -1.42253521127
+
+4. Proteins: NS1 [Flu] and NS1 [Flu]
+d_AB = 0.0
+s_AB = -1.38167938931
+
+5. Proteins: M2 [Flu] and M2 [Flu]
+d_AB = 0.0
+s_AB = -1.38
+
+6. Proteins: p6 [HEK] and p6 [HEK]
+d_AB = 0.0
+s_AB = -1.36458333333
+
+7. Proteins: GP41 [HEK] and GP41 [HEK]
+d_AB = 0.0
+s_AB = -1.3171641791
+
+8. Proteins: NEP [Flu] and NEP [Flu]
+d_AB = 0.0
+s_AB = -1.29411764706
+
+9. Proteins: PA [Flu] and PA [Flu]
+d_AB = 0.0
+s_AB = -1.28865979381
+
+10. Proteins: PB1 [Flu] and PB1 [Flu]
+d_AB = 0.0
+s_AB = -1.28571428571
+
+11. Proteins: VPR [HEK] and VPR [HEK]
+d_AB = 0.0
+s_AB = -1.25833333333
+
+12. Proteins: NEF [HEK] and NEF [HEK]
+d_AB = 0.0
+s_AB = -1.24861878453
+
+13. Proteins: VPU [HEK] and VPU [HEK]
+d_AB = 0.0
+s_AB = -1.24772727273
+
+14. Proteins: PB2 [Flu] and PB2 [Flu]
+d_AB = 0.0
+s_AB = -1.23741007194
+
+15. Proteins: GP160 [HEK] and GP160 [HEK]
+d_AB = 0.0
+s_AB = -1.23598820059
+
+16. Proteins: GP120 [HEK] and GP120 [HEK]
+d_AB = 0.0
+s_AB = -1.2196969697
+
+17. Proteins: P6 [HEK] and P6 [HEK]
+d_AB = 0.0
+s_AB = -1.21487603306
+
+18. Proteins: MA [HEK] and MA [HEK]
+d_AB = 0.0
+s_AB = -1.21276595745
+
+19. Proteins: NC [HEK] and NC [HEK]
+d_AB = 0.0
+s_AB = -1.2
+
+20. Proteins: REV [HEK] and REV [HEK]
+d_AB = 0.0
+s_AB = -1.19873417722
+
+21. Proteins: PR [HEK] and PR [HEK]
+d_AB = 0.0
+s_AB = -1.19230769231
+
+22. Proteins: GAG [HEK] and GAG [HEK]
+d_AB = 0.0
+s_AB = -1.18760195759
+
+23. Proteins: TAT [HEK] and TAT [HEK]
+d_AB = 0.0
+s_AB = -1.17514792899
+
+24. Proteins: IN [HEK] and IN [HEK]
+d_AB = 0.0
+s_AB = -1.17132867133
+
+25. Proteins: POL [HEK] and POL [HEK]
+d_AB = 0.0
+s_AB = -1.16705882353
+
+26. Proteins: RT [HEK] and RT [HEK]
+d_AB = 0.0
+s_AB = -1.16304347826
+
+27. Proteins: Pol [HEK] and Pol [HEK]
+d_AB = 0.0
+s_AB = -1.15269461078
+
+28. Proteins: VIF [HEK] and VIF [HEK]
+d_AB = 0.0
+s_AB = -1.12762237762
+
+29. Proteins: REV [HEK] and TAT [HEK]
 d_AB = 0.28004881025
 s_AB = -0.906892242854
 
-2. Proteins: NC [HEK] and REV [HEK]
+30. Proteins: NC [HEK] and REV [HEK]
 d_AB = 0.355555555556
 s_AB = -0.843811533052
 
-3. Proteins: GAG [HEK] and NC [HEK]
+31. Proteins: GAG [HEK] and NC [HEK]
 d_AB = 0.370279146141
 s_AB = -0.823521832652
 
-4. Proteins: NC [HEK] and TAT [HEK]
+32. Proteins: NC [HEK] and TAT [HEK]
 d_AB = 0.399310344828
 s_AB = -0.788263619669
 
-5. Proteins: GP120 [HEK] and GP160 [HEK]
+33. Proteins: GP120 [HEK] and GP160 [HEK]
 d_AB = 0.442786069652
 s_AB = -0.785056515492
 
-6. Proteins: GAG [HEK] and REV [HEK]
+34. Proteins: GAG [HEK] and REV [HEK]
 d_AB = 0.417081850534
 s_AB = -0.776086216867
 
-7. Proteins: PR [HEK] and RT [HEK]
+35. Proteins: PR [HEK] and RT [HEK]
 d_AB = 0.424821002387
 s_AB = -0.752854582898
 
-8. Proteins: NEP [Flu] and PA [Flu]
+36. Proteins: NEP [Flu] and PA [Flu]
 d_AB = 0.542713567839
 s_AB = -0.748675152597
 
-9. Proteins: IN [HEK] and NEF [HEK]
+37. Proteins: IN [HEK] and NEF [HEK]
 d_AB = 0.472694717995
 s_AB = -0.737279009935
 
-10. Proteins: IN [HEK] and VIF [HEK]
+38. Proteins: IN [HEK] and VIF [HEK]
 d_AB = 0.419720767888
 s_AB = -0.729754756587
 
-11. Proteins: GP160 [HEK] and GP41 [HEK]
+39. Proteins: GP160 [HEK] and GP41 [HEK]
 d_AB = 0.546952224053
 s_AB = -0.729623965795
 
-12. Proteins: GAG [HEK] and TAT [HEK]
+40. Proteins: GAG [HEK] and TAT [HEK]
 d_AB = 0.465753424658
 s_AB = -0.715621518632
 
-13. Proteins: NEP [Flu] and PB1 [Flu]
+41. Proteins: NEP [Flu] and PB1 [Flu]
 d_AB = 0.574468085106
 s_AB = -0.71544788128
 
-14. Proteins: GP120 [HEK] and GP41 [HEK]
+42. Proteins: GP120 [HEK] and GP41 [HEK]
 d_AB = 0.56015037594
 s_AB = -0.708280198461
 
-15. Proteins: VIF [HEK] and VPU [HEK]
+43. Proteins: VIF [HEK] and VPU [HEK]
 d_AB = 0.492110453649
 s_AB = -0.695564371526
 
-16. Proteins: POL [HEK] and VIF [HEK]
+44. Proteins: POL [HEK] and VIF [HEK]
 d_AB = 0.461461461461
 s_AB = -0.685879139114
 
-17. Proteins: PB1 [Flu] and PB2 [Flu]
+45. Proteins: PB1 [Flu] and PB2 [Flu]
 d_AB = 0.577205882353
 s_AB = -0.684356296475
 
-18. Proteins: PA [Flu] and PB1 [Flu]
+46. Proteins: PA [Flu] and PB1 [Flu]
 d_AB = 0.613043478261
 s_AB = -0.674143561503
 
-19. Proteins: CA [HEK] and p6 [HEK]
+47. Proteins: CA [HEK] and p6 [HEK]
 d_AB = 0.81045751634
 s_AB = -0.661307834537
 
-20. Proteins: NEF [HEK] and VIF [HEK]
+48. Proteins: NEF [HEK] and VIF [HEK]
 d_AB = 0.529991047449
 s_AB = -0.658129533628
 
-21. Proteins: IN [HEK] and VPU [HEK]
+49. Proteins: IN [HEK] and VPU [HEK]
 d_AB = 0.563116370809
 s_AB = -0.646411601219
 
-22. Proteins: VIF [HEK] and VPR [HEK]
+50. Proteins: VIF [HEK] and VPR [HEK]
 d_AB = 0.550321199143
 s_AB = -0.642656656334
 
-23. Proteins: MA [HEK] and RT [HEK]
+51. Proteins: MA [HEK] and RT [HEK]
 d_AB = 0.546012269939
 s_AB = -0.641892447915
 
-24. Proteins: POL [HEK] and Pol [HEK]
+52. Proteins: POL [HEK] and Pol [HEK]
 d_AB = 0.523056653491
 s_AB = -0.636820063662
 
-25. Proteins: P6 [HEK] and p6 [HEK]
+53. Proteins: P6 [HEK] and p6 [HEK]
 d_AB = 0.654377880184
 s_AB = -0.635351803011
 
-26. Proteins: VPR [HEK] and VPU [HEK]
+54. Proteins: VPR [HEK] and VPU [HEK]
 d_AB = 0.618453865337
 s_AB = -0.634576437694
 
-27. Proteins: Pol [HEK] and VIF [HEK]
+55. Proteins: Pol [HEK] and VIF [HEK]
 d_AB = 0.506622516556
 s_AB = -0.633535977644
 
-28. Proteins: IN [HEK] and POL [HEK]
+56. Proteins: IN [HEK] and POL [HEK]
 d_AB = 0.541541541542
 s_AB = -0.627652205887
 
-29. Proteins: GP160 [HEK] and VPR [HEK]
+57. Proteins: GP160 [HEK] and VPR [HEK]
 d_AB = 0.623748211731
 s_AB = -0.623412555231
 
-30. Proteins: PR [HEK] and VIF [HEK]
+58. Proteins: PR [HEK] and VIF [HEK]
 d_AB = 0.539347408829
 s_AB = -0.620617626136
 
-31. Proteins: HA [Flu] and NA [Flu]
+59. Proteins: HA [Flu] and NA [Flu]
 d_AB = 0.852601156069
 s_AB = -0.618567439663
 
-32. Proteins: GP41 [HEK] and VPR [HEK]
+60. Proteins: GP41 [HEK] and VPR [HEK]
 d_AB = 0.670382165605
 s_AB = -0.617366590614
 
-33. Proteins: RT [HEK] and VIF [HEK]
+61. Proteins: RT [HEK] and VIF [HEK]
 d_AB = 0.528662420382
 s_AB = -0.616670507559
 
-34. Proteins: NEF [HEK] and VPU [HEK]
+62. Proteins: NEF [HEK] and VPU [HEK]
 d_AB = 0.635532994924
 s_AB = -0.612640033705
 
-35. Proteins: GP120 [HEK] and VPR [HEK]
+63. Proteins: GP120 [HEK] and VPR [HEK]
 d_AB = 0.626602564103
 s_AB = -0.612412587413
 
-36. Proteins: POL [HEK] and PR [HEK]
+64. Proteins: POL [HEK] and PR [HEK]
 d_AB = 0.568715083799
 s_AB = -0.61096817412
 
-37. Proteins: PA [Flu] and PB2 [Flu]
+65. Proteins: PA [Flu] and PB2 [Flu]
 d_AB = 0.656779661017
 s_AB = -0.606255271861
 
-38. Proteins: Pol [HEK] and VPU [HEK]
+66. Proteins: Pol [HEK] and VPU [HEK]
 d_AB = 0.595607235142
 s_AB = -0.604603706611
 
-39. Proteins: IN [HEK] and Pol [HEK]
+67. Proteins: IN [HEK] and Pol [HEK]
 d_AB = 0.567328918322
 s_AB = -0.594682722731
 
-40. Proteins: NEF [HEK] and POL [HEK]
+68. Proteins: NEF [HEK] and POL [HEK]
 d_AB = 0.618556701031
 s_AB = -0.589282102999
 
-41. Proteins: Pol [HEK] and VPR [HEK]
+69. Proteins: Pol [HEK] and VPR [HEK]
 d_AB = 0.618155619597
 s_AB = -0.587358352459
 
-42. Proteins: POL [HEK] and VPU [HEK]
+70. Proteins: POL [HEK] and VPU [HEK]
 d_AB = 0.620530565167
 s_AB = -0.586862482961
 
-43. Proteins: POL [HEK] and VPR [HEK]
+71. Proteins: POL [HEK] and VPR [HEK]
 d_AB = 0.627700127065
 s_AB = -0.584995951367
 
-44. Proteins: PR [HEK] and Pol [HEK]
+72. Proteins: PR [HEK] and Pol [HEK]
 d_AB = 0.589775561097
 s_AB = -0.582725590446
 
-45. Proteins: GP120 [HEK] and Pol [HEK]
+73. Proteins: GP120 [HEK] and Pol [HEK]
 d_AB = 0.603678929766
 s_AB = -0.582516860472
 
-46. Proteins: GP160 [HEK] and Pol [HEK]
+74. Proteins: GP160 [HEK] and Pol [HEK]
 d_AB = 0.615156017831
 s_AB = -0.579185387854
 
-47. Proteins: POL [HEK] and RT [HEK]
+75. Proteins: POL [HEK] and RT [HEK]
 d_AB = 0.594968553459
 s_AB = -0.570082597436
 
-48. Proteins: IN [HEK] and VPR [HEK]
+76. Proteins: IN [HEK] and VPR [HEK]
 d_AB = 0.645610278373
 s_AB = -0.569220723958
 
-49. Proteins: GP160 [HEK] and VPU [HEK]
+77. Proteins: GP160 [HEK] and VPU [HEK]
 d_AB = 0.673940949936
 s_AB = -0.567916786723
 
-50. Proteins: Pol [HEK] and RT [HEK]
+78. Proteins: Pol [HEK] and RT [HEK]
 d_AB = 0.594017094017
 s_AB = -0.563851950503
 
-51. Proteins: MA [HEK] and Pol [HEK]
+79. Proteins: MA [HEK] and Pol [HEK]
 d_AB = 0.621753246753
 s_AB = -0.560977037359
 
-52. Proteins: NEP [Flu] and PB2 [Flu]
+80. Proteins: NEP [Flu] and PB2 [Flu]
 d_AB = 0.705394190871
 s_AB = -0.560369668629
 
-53. Proteins: PR [HEK] and VPR [HEK]
+81. Proteins: PR [HEK] and VPR [HEK]
 d_AB = 0.665060240964
 s_AB = -0.560260271857
 
-54. Proteins: GP160 [HEK] and POL [HEK]
+82. Proteins: GP160 [HEK] and POL [HEK]
 d_AB = 0.649214659686
 s_AB = -0.552308852374
 
-55. Proteins: GP41 [HEK] and VPU [HEK]
+83. Proteins: GP41 [HEK] and VPU [HEK]
 d_AB = 0.733050847458
 s_AB = -0.549394878458
 
-56. Proteins: NEF [HEK] and VPR [HEK]
+84. Proteins: NEF [HEK] and VPR [HEK]
 d_AB = 0.704972375691
 s_AB = -0.548503683241
 
-57. Proteins: GP41 [HEK] and Pol [HEK]
+85. Proteins: GP41 [HEK] and Pol [HEK]
 d_AB = 0.687707641196
 s_AB = -0.547221753745
 
-58. Proteins: NS1 [Flu] and PB2 [Flu]
+86. Proteins: NS1 [Flu] and PB2 [Flu]
 d_AB = 0.766666666667
 s_AB = -0.542878063961
 
-59. Proteins: RT [HEK] and VPR [HEK]
+87. Proteins: RT [HEK] and VPR [HEK]
 d_AB = 0.668493150685
 s_AB = -0.542195255112
 
-60. Proteins: GP160 [HEK] and VIF [HEK]
+88. Proteins: GP160 [HEK] and VIF [HEK]
 d_AB = 0.643249176729
 s_AB = -0.538556112377
 
-61. Proteins: RT [HEK] and VPU [HEK]
+89. Proteins: RT [HEK] and VPU [HEK]
 d_AB = 0.672839506173
 s_AB = -0.532545869321
 
-62. Proteins: MA [HEK] and P6 [HEK]
+90. Proteins: MA [HEK] and P6 [HEK]
 d_AB = 0.684863523573
 s_AB = -0.528957471679
 
-63. Proteins: IN [HEK] and PR [HEK]
+91. Proteins: IN [HEK] and PR [HEK]
 d_AB = 0.654510556622
 s_AB = -0.527307625196
 
-64. Proteins: GP120 [HEK] and VPU [HEK]
+92. Proteins: GP120 [HEK] and VPU [HEK]
 d_AB = 0.707386363636
 s_AB = -0.526325757576
 
-65. Proteins: NEF [HEK] and PR [HEK]
+93. Proteins: NEF [HEK] and PR [HEK]
 d_AB = 0.696939782823
 s_AB = -0.523523455596
 
-66. Proteins: GP160 [HEK] and IN [HEK]
+94. Proteins: GP160 [HEK] and IN [HEK]
 d_AB = 0.689352360044
 s_AB = -0.514306075915
 
-67. Proteins: GAG [HEK] and VIF [HEK]
+95. Proteins: GAG [HEK] and VIF [HEK]
 d_AB = 0.646166807077
 s_AB = -0.511445360527
 
-68. Proteins: MA [HEK] and VPU [HEK]
+96. Proteins: MA [HEK] and VPU [HEK]
 d_AB = 0.720994475138
 s_AB = -0.509252139949
 
-69. Proteins: PR [HEK] and VPU [HEK]
+97. Proteins: PR [HEK] and VPU [HEK]
 d_AB = 0.710989010989
 s_AB = -0.509028471528
 
-70. Proteins: GP41 [HEK] and RT [HEK]
+98. Proteins: GP41 [HEK] and RT [HEK]
 d_AB = 0.738993710692
 s_AB = -0.501110117991
 
-71. Proteins: MA [HEK] and PR [HEK]
+99. Proteins: MA [HEK] and PR [HEK]
 d_AB = 0.702127659574
 s_AB = -0.500409165303
 
-72. Proteins: GP160 [HEK] and RT [HEK]
+100. Proteins: GP160 [HEK] and RT [HEK]
 d_AB = 0.708628005658
 s_AB = -0.490887833768
 
-73. Proteins: M2 [Flu] and NA [Flu]
+101. Proteins: M2 [Flu] and NA [Flu]
 d_AB = 0.962686567164
 s_AB = -0.487214422935
 
-74. Proteins: TAT [HEK] and VIF [HEK]
+102. Proteins: TAT [HEK] and VIF [HEK]
 d_AB = 0.665961945032
 s_AB = -0.485423208277
 
-75. Proteins: GP120 [HEK] and VIF [HEK]
+103. Proteins: GP120 [HEK] and VIF [HEK]
 d_AB = 0.688995215311
 s_AB = -0.484664458349
 
-76. Proteins: GAG [HEK] and RT [HEK]
+104. Proteins: GAG [HEK] and RT [HEK]
 d_AB = 0.692777212614
 s_AB = -0.482545505309
 
-77. Proteins: GP120 [HEK] and RT [HEK]
+105. Proteins: GP120 [HEK] and RT [HEK]
 d_AB = 0.708860759494
 s_AB = -0.482509464485
 
-78. Proteins: MA [HEK] and VPR [HEK]
+106. Proteins: MA [HEK] and VPR [HEK]
 d_AB = 0.753105590062
 s_AB = -0.482444055328
 
-79. Proteins: GAG [HEK] and MA [HEK]
+107. Proteins: GAG [HEK] and MA [HEK]
 d_AB = 0.720178372352
 s_AB = -0.480005585164
 
-80. Proteins: NEF [HEK] and Pol [HEK]
+108. Proteins: NEF [HEK] and Pol [HEK]
 d_AB = 0.721778791334
 s_AB = -0.47887790632
 
-81. Proteins: GP41 [HEK] and MA [HEK]
+109. Proteins: GP41 [HEK] and MA [HEK]
 d_AB = 0.789090909091
 s_AB = -0.475874159185
 
-82. Proteins: IN [HEK] and RT [HEK]
+110. Proteins: IN [HEK] and RT [HEK]
 d_AB = 0.692144373673
 s_AB = -0.475041701122
 
-83. Proteins: GP41 [HEK] and VIF [HEK]
+111. Proteins: GP41 [HEK] and VIF [HEK]
 d_AB = 0.747619047619
 s_AB = -0.474774230744
 
-84. Proteins: MA [HEK] and VIF [HEK]
+112. Proteins: MA [HEK] and VIF [HEK]
 d_AB = 0.696261682243
 s_AB = -0.473932485292
 
-85. Proteins: GP41 [HEK] and IN [HEK]
+113. Proteins: GP41 [HEK] and IN [HEK]
 d_AB = 0.771428571429
 s_AB = -0.472817853788
 
-86. Proteins: GP120 [HEK] and POL [HEK]
+114. Proteins: GP120 [HEK] and POL [HEK]
 d_AB = 0.721335268505
 s_AB = -0.472042628108
 
-87. Proteins: NEP [Flu] and NS1 [Flu]
+115. Proteins: NEP [Flu] and NS1 [Flu]
 d_AB = 0.8669527897
 s_AB = -0.470945728486
 
-88. Proteins: MA [HEK] and POL [HEK]
+116. Proteins: MA [HEK] and POL [HEK]
 d_AB = 0.720733427362
 s_AB = -0.469178963126
 
-89. Proteins: NEF [HEK] and RT [HEK]
+117. Proteins: NEF [HEK] and RT [HEK]
 d_AB = 0.739320920044
 s_AB = -0.466510211352
 
-90. Proteins: GP160 [HEK] and NEF [HEK]
+118. Proteins: GP160 [HEK] and NEF [HEK]
 d_AB = 0.777777777778
 s_AB = -0.464525714782
 
-91. Proteins: GP160 [HEK] and MA [HEK]
+119. Proteins: GP160 [HEK] and MA [HEK]
 d_AB = 0.763285024155
 s_AB = -0.461092054864
 
-92. Proteins: GP160 [HEK] and PR [HEK]
+120. Proteins: GP160 [HEK] and PR [HEK]
 d_AB = 0.753407682776
 s_AB = -0.460740263673
 
-93. Proteins: GP120 [HEK] and PR [HEK]
+121. Proteins: GP120 [HEK] and PR [HEK]
 d_AB = 0.745901639344
 s_AB = -0.460100691658
 
-94. Proteins: REV [HEK] and VIF [HEK]
+122. Proteins: REV [HEK] and VIF [HEK]
 d_AB = 0.708944281525
 s_AB = -0.454233995894
 
-95. Proteins: GP120 [HEK] and MA [HEK]
+123. Proteins: GP120 [HEK] and MA [HEK]
 d_AB = 0.767399267399
 s_AB = -0.448832196173
 
-96. Proteins: CA [HEK] and P6 [HEK]
+124. Proteins: CA [HEK] and P6 [HEK]
 d_AB = 0.949438202247
 s_AB = -0.447473498492
 
-97. Proteins: REV [HEK] and RT [HEK]
+125. Proteins: REV [HEK] and RT [HEK]
 d_AB = 0.735344827586
 s_AB = -0.445544000152
 
-98. Proteins: GP41 [HEK] and PR [HEK]
+126. Proteins: GP41 [HEK] and PR [HEK]
 d_AB = 0.811141304348
 s_AB = -0.443594631358
 
-99. Proteins: NS1 [Flu] and PB1 [Flu]
+127. Proteins: NS1 [Flu] and PB1 [Flu]
 d_AB = 0.890151515152
 s_AB = -0.443545322362
 
-100. Proteins: GAG [HEK] and PR [HEK]
+128. Proteins: GAG [HEK] and PR [HEK]
 d_AB = 0.753462603878
 s_AB = -0.436492221069
 
-101. Proteins: NC [HEK] and RT [HEK]
+129. Proteins: NC [HEK] and RT [HEK]
 d_AB = 0.748201438849
 s_AB = -0.433320300282
 
-102. Proteins: MA [HEK] and p6 [HEK]
+130. Proteins: MA [HEK] and p6 [HEK]
 d_AB = 0.857142857143
 s_AB = -0.431531788247
 
-103. Proteins: HA [Flu] and M2 [Flu]
+131. Proteins: HA [Flu] and M2 [Flu]
 d_AB = 0.970760233918
 s_AB = -0.430507371716
 
-104. Proteins: GP41 [HEK] and NEF [HEK]
+132. Proteins: GP41 [HEK] and NEF [HEK]
 d_AB = 0.854500616523
 s_AB = -0.428390865295
 
-105. Proteins: RT [HEK] and TAT [HEK]
+133. Proteins: RT [HEK] and TAT [HEK]
 d_AB = 0.742386831276
 s_AB = -0.426708872352
 
-106. Proteins: GP120 [HEK] and IN [HEK]
+134. Proteins: GP120 [HEK] and IN [HEK]
 d_AB = 0.769138755981
 s_AB = -0.426374064532
 
-107. Proteins: GAG [HEK] and VPU [HEK]
+135. Proteins: GAG [HEK] and VPU [HEK]
 d_AB = 0.796208530806
 s_AB = -0.421456084351
 
-108. Proteins: GP41 [HEK] and POL [HEK]
+136. Proteins: GP41 [HEK] and POL [HEK]
 d_AB = 0.822510822511
 s_AB = -0.419600678806
 
-109. Proteins: MA [HEK] and NC [HEK]
+137. Proteins: MA [HEK] and NC [HEK]
 d_AB = 0.793686583991
 s_AB = -0.412696394732
 
-110. Proteins: PR [HEK] and TAT [HEK]
+138. Proteins: PR [HEK] and TAT [HEK]
 d_AB = 0.774904942966
 s_AB = -0.408822867685
 
-111. Proteins: PR [HEK] and REV [HEK]
+139. Proteins: PR [HEK] and REV [HEK]
 d_AB = 0.790476190476
 s_AB = -0.405044744285
 
-112. Proteins: CA [HEK] and MA [HEK]
+140. Proteins: CA [HEK] and MA [HEK]
 d_AB = 1.00589970501
 s_AB = -0.389956957919
 
-113. Proteins: NEF [HEK] and TAT [HEK]
+141. Proteins: NEF [HEK] and TAT [HEK]
 d_AB = 0.823741007194
 s_AB = -0.388142349568
 
-114. Proteins: REV [HEK] and VPU [HEK]
+142. Proteins: REV [HEK] and VPU [HEK]
 d_AB = 0.835227272727
 s_AB = -0.388003452244
 
-115. Proteins: TAT [HEK] and VPU [HEK]
+143. Proteins: TAT [HEK] and VPU [HEK]
 d_AB = 0.824397824398
 s_AB = -0.387039776463
 
-116. Proteins: POL [HEK] and TAT [HEK]
+144. Proteins: POL [HEK] and TAT [HEK]
 d_AB = 0.784591194969
 s_AB = -0.386512181293
 
-117. Proteins: GAG [HEK] and POL [HEK]
+145. Proteins: GAG [HEK] and POL [HEK]
 d_AB = 0.791346153846
 s_AB = -0.385984236711
 
-118. Proteins: NC [HEK] and VIF [HEK]
+146. Proteins: NC [HEK] and VIF [HEK]
 d_AB = 0.778249787596
 s_AB = -0.385561401216
 
-119. Proteins: GAG [HEK] and Pol [HEK]
+147. Proteins: GAG [HEK] and Pol [HEK]
 d_AB = 0.786694825766
 s_AB = -0.383453458416
 
-120. Proteins: IN [HEK] and TAT [HEK]
+148. Proteins: IN [HEK] and TAT [HEK]
 d_AB = 0.789992952784
 s_AB = -0.383245347378
 
-121. Proteins: P6 [HEK] and RT [HEK]
+149. Proteins: P6 [HEK] and RT [HEK]
 d_AB = 0.80572597137
 s_AB = -0.383233784289
 
-122. Proteins: GAG [HEK] and VPR [HEK]
+150. Proteins: GAG [HEK] and VPR [HEK]
 d_AB = 0.847179487179
 s_AB = -0.37578815828
 
-123. Proteins: GP120 [HEK] and NEF [HEK]
+151. Proteins: GP120 [HEK] and NEF [HEK]
 d_AB = 0.866171003717
 s_AB = -0.367986873396
 
-124. Proteins: MA [HEK] and REV [HEK]
+152. Proteins: MA [HEK] and REV [HEK]
 d_AB = 0.838919925512
 s_AB = -0.366830141819
 
-125. Proteins: POL [HEK] and REV [HEK]
+153. Proteins: POL [HEK] and REV [HEK]
 d_AB = 0.820049301561
 s_AB = -0.362847198811
 
-126. Proteins: GAG [HEK] and IN [HEK]
+154. Proteins: GAG [HEK] and IN [HEK]
 d_AB = 0.828138163437
 s_AB = -0.35132715102
 
-127. Proteins: HA [Flu] and NS1 [Flu]
+155. Proteins: HA [Flu] and NS1 [Flu]
 d_AB = 1.06227106227
 s_AB = -0.339836238019
 
-128. Proteins: IN [HEK] and MA [HEK]
+156. Proteins: IN [HEK] and MA [HEK]
 d_AB = 0.855140186916
 s_AB = -0.336907127472
 
-129. Proteins: NC [HEK] and PR [HEK]
+157. Proteins: NC [HEK] and PR [HEK]
 d_AB = 0.85927306617
 s_AB = -0.336880779984
 
-130. Proteins: NS1 [Flu] and PA [Flu]
+158. Proteins: NS1 [Flu] and PA [Flu]
 d_AB = 1.00877192982
 s_AB = -0.326397661739
 
-131. Proteins: GAG [HEK] and GP160 [HEK]
+159. Proteins: GAG [HEK] and GP160 [HEK]
 d_AB = 0.889705882353
 s_AB = -0.322089196735
 
-132. Proteins: NA [Flu] and NEF [HEK]
+160. Proteins: NA [Flu] and NEF [HEK]
 d_AB = 1.06308724832
 s_AB = -0.321123134042
 
-133. Proteins: TAT [HEK] and VPR [HEK]
+161. Proteins: TAT [HEK] and VPR [HEK]
 d_AB = 0.897265948633
 s_AB = -0.319474682531
 
-134. Proteins: NEF [HEK] and REV [HEK]
+162. Proteins: NEF [HEK] and REV [HEK]
 d_AB = 0.905617977528
 s_AB = -0.318058503345
 
-135. Proteins: IN [HEK] and REV [HEK]
+163. Proteins: IN [HEK] and REV [HEK]
 d_AB = 0.868768328446
 s_AB = -0.316263095826
 
-136. Proteins: MA [HEK] and TAT [HEK]
+164. Proteins: MA [HEK] and TAT [HEK]
 d_AB = 0.878653675819
 s_AB = -0.315303267401
 
-137. Proteins: GP160 [HEK] and P6 [HEK]
+165. Proteins: GP160 [HEK] and P6 [HEK]
 d_AB = 0.910869565217
 s_AB = -0.314562551607
 
-138. Proteins: REV [HEK] and VPR [HEK]
+166. Proteins: REV [HEK] and VPR [HEK]
 d_AB = 0.914930555556
 s_AB = -0.313603199719
 
-139. Proteins: NC [HEK] and POL [HEK]
+167. Proteins: NC [HEK] and POL [HEK]
 d_AB = 0.870873786408
 s_AB = -0.312655625357
 
-140. Proteins: P6 [HEK] and VPR [HEK]
+168. Proteins: P6 [HEK] and VPR [HEK]
 d_AB = 0.925155925156
 s_AB = -0.31144875804
 
-141. Proteins: P6 [HEK] and Pol [HEK]
+169. Proteins: P6 [HEK] and Pol [HEK]
 d_AB = 0.872527472527
 s_AB = -0.311257849391
 
-142. Proteins: M2 [Flu] and NS1 [Flu]
+170. Proteins: M2 [Flu] and NS1 [Flu]
 d_AB = 1.07552870091
 s_AB = -0.30531099375
 
-143. Proteins: MA [HEK] and NEF [HEK]
+171. Proteins: MA [HEK] and NEF [HEK]
 d_AB = 0.926239419589
 s_AB = -0.3044529514
 
-144. Proteins: GAG [HEK] and NEF [HEK]
+172. Proteins: GAG [HEK] and NEF [HEK]
 d_AB = 0.914507772021
 s_AB = -0.303602599037
 
-145. Proteins: NC [HEK] and VPU [HEK]
+173. Proteins: NC [HEK] and VPU [HEK]
 d_AB = 0.921531100478
 s_AB = -0.302332535885
 
-146. Proteins: GP120 [HEK] and P6 [HEK]
+174. Proteins: GP120 [HEK] and P6 [HEK]
 d_AB = 0.916883116883
 s_AB = -0.300403384494
 
-147. Proteins: P6 [HEK] and POL [HEK]
+175. Proteins: P6 [HEK] and POL [HEK]
 d_AB = 0.893772893773
 s_AB = -0.297194534521
 
-148. Proteins: Pol [HEK] and TAT [HEK]
+176. Proteins: Pol [HEK] and TAT [HEK]
 d_AB = 0.867684478372
 s_AB = -0.296236791515
 
-149. Proteins: NA [Flu] and NS1 [Flu]
+177. Proteins: NA [Flu] and NS1 [Flu]
 d_AB = 1.15615615616
 s_AB = -0.294584528599
 
-150. Proteins: RT [HEK] and p6 [HEK]
+178. Proteins: RT [HEK] and p6 [HEK]
 d_AB = 0.978448275862
 s_AB = -0.285365129935
 
-151. Proteins: Pol [HEK] and REV [HEK]
+179. Proteins: Pol [HEK] and REV [HEK]
 d_AB = 0.89768683274
 s_AB = -0.278027561257
 
-152. Proteins: GAG [HEK] and GP41 [HEK]
+180. Proteins: GAG [HEK] and GP41 [HEK]
 d_AB = 0.977298524404
 s_AB = -0.275084543941
 
-153. Proteins: IN [HEK] and NA [Flu]
+181. Proteins: IN [HEK] and NA [Flu]
 d_AB = 1.07493540052
 s_AB = -0.270629925247
 
-154. Proteins: GP41 [HEK] and P6 [HEK]
+182. Proteins: GP41 [HEK] and P6 [HEK]
 d_AB = 1.00514138817
 s_AB = -0.260878717906
 
-155. Proteins: NC [HEK] and Pol [HEK]
+183. Proteins: NC [HEK] and Pol [HEK]
 d_AB = 0.916932907348
 s_AB = -0.259414398041
 
-156. Proteins: CA [HEK] and GP120 [HEK]
+184. Proteins: CA [HEK] and GP120 [HEK]
 d_AB = 1.14018691589
 s_AB = -0.259135253171
 
-157. Proteins: GAG [HEK] and GP120 [HEK]
+185. Proteins: GAG [HEK] and GP120 [HEK]
 d_AB = 0.945267958951
 s_AB = -0.25838150469
 
-158. Proteins: NC [HEK] and VPR [HEK]
+186. Proteins: NC [HEK] and VPR [HEK]
 d_AB = 0.976165803109
 s_AB = -0.253000863558
 
-159. Proteins: P6 [HEK] and PR [HEK]
+187. Proteins: P6 [HEK] and PR [HEK]
 d_AB = 0.95246179966
 s_AB = -0.251130063022
 
-160. Proteins: GP160 [HEK] and NA [Flu]
+188. Proteins: GP160 [HEK] and NA [Flu]
 d_AB = 1.12939001848
 s_AB = -0.24850507191
 
-161. Proteins: NA [Flu] and VPU [HEK]
+189. Proteins: NA [Flu] and VPU [HEK]
 d_AB = 1.14018691589
 s_AB = -0.243577710575
 
-162. Proteins: P6 [HEK] and VPU [HEK]
+190. Proteins: P6 [HEK] and VPU [HEK]
 d_AB = 0.992869875223
 s_AB = -0.23843177767
 
-163. Proteins: NA [Flu] and VIF [HEK]
+191. Proteins: NA [Flu] and VIF [HEK]
 d_AB = 1.08914728682
 s_AB = -0.234564892088
 
-164. Proteins: NA [Flu] and POL [HEK]
+192. Proteins: NA [Flu] and POL [HEK]
 d_AB = 1.11642743222
 s_AB = -0.227002969647
 
-165. Proteins: CA [HEK] and Pol [HEK]
+193. Proteins: CA [HEK] and Pol [HEK]
 d_AB = 1.14066496164
 s_AB = -0.225156027963
 
-166. Proteins: GP120 [HEK] and p6 [HEK]
+194. Proteins: GP120 [HEK] and p6 [HEK]
 d_AB = 1.07222222222
 s_AB = -0.219917929293
 
-167. Proteins: GP160 [HEK] and HA [Flu]
+195. Proteins: GP160 [HEK] and HA [Flu]
 d_AB = 1.11018711019
 s_AB = -0.219074595742
 
-168. Proteins: GP160 [HEK] and TAT [HEK]
+196. Proteins: GP160 [HEK] and TAT [HEK]
 d_AB = 0.989864864865
 s_AB = -0.215703199927
 
-169. Proteins: GP41 [HEK] and p6 [HEK]
+197. Proteins: GP41 [HEK] and p6 [HEK]
 d_AB = 1.12637362637
 s_AB = -0.214500129845
 
-170. Proteins: Pol [HEK] and p6 [HEK]
+198. Proteins: Pol [HEK] and p6 [HEK]
 d_AB = 1.04418604651
 s_AB = -0.214452925544
 
-171. Proteins: GP160 [HEK] and REV [HEK]
+199. Proteins: GP160 [HEK] and REV [HEK]
 d_AB = 1.00885739593
 s_AB = -0.208503792977
 
-172. Proteins: NC [HEK] and NEF [HEK]
+200. Proteins: NC [HEK] and NEF [HEK]
 d_AB = 1.01829268293
 s_AB = -0.206016709338
 
-173. Proteins: CA [HEK] and GP41 [HEK]
+201. Proteins: CA [HEK] and GP41 [HEK]
 d_AB = 1.24307692308
 s_AB = -0.204978850686
 
-174. Proteins: M2 [Flu] and NEF [HEK]
+202. Proteins: M2 [Flu] and NEF [HEK]
 d_AB = 1.11440107672
 s_AB = -0.199908315549
 
-175. Proteins: IN [HEK] and NC [HEK]
+203. Proteins: IN [HEK] and NC [HEK]
 d_AB = 0.988954970263
 s_AB = -0.196709365401
 
-176. Proteins: PR [HEK] and p6 [HEK]
+204. Proteins: PR [HEK] and p6 [HEK]
 d_AB = 1.08510638298
 s_AB = -0.193339129842
 
-177. Proteins: M2 [Flu] and VIF [HEK]
+205. Proteins: M2 [Flu] and VIF [HEK]
 d_AB = 1.0621761658
 s_AB = -0.191635023008
 
-178. Proteins: CA [HEK] and GP160 [HEK]
+206. Proteins: CA [HEK] and GP160 [HEK]
 d_AB = 1.21717171717
 s_AB = -0.190296067334
 
-179. Proteins: GP160 [HEK] and p6 [HEK]
+207. Proteins: GP160 [HEK] and p6 [HEK]
 d_AB = 1.11034482759
 s_AB = -0.189940939375
 
-180. Proteins: IN [HEK] and M2 [Flu]
+208. Proteins: IN [HEK] and M2 [Flu]
 d_AB = 1.08678756477
 s_AB = -0.188876770897
 
-181. Proteins: P6 [HEK] and VIF [HEK]
+209. Proteins: P6 [HEK] and VIF [HEK]
 d_AB = 0.982683982684
 s_AB = -0.188565222656
 
-182. Proteins: GP160 [HEK] and NC [HEK]
+210. Proteins: GP160 [HEK] and NC [HEK]
 d_AB = 1.03283898305
 s_AB = -0.185155117244
 
-183. Proteins: M2 [Flu] and PB2 [Flu]
+211. Proteins: M2 [Flu] and PB2 [Flu]
 d_AB = 1.12389380531
 s_AB = -0.184811230661
 
-184. Proteins: CA [HEK] and RT [HEK]
+212. Proteins: CA [HEK] and RT [HEK]
 d_AB = 1.19058823529
 s_AB = -0.180407188047
 
-185. Proteins: VPR [HEK] and p6 [HEK]
+213. Proteins: VPR [HEK] and p6 [HEK]
 d_AB = 1.13157894737
 s_AB = -0.179879385965
 
-186. Proteins: GAG [HEK] and P6 [HEK]
+214. Proteins: GAG [HEK] and P6 [HEK]
 d_AB = 1.03678474114
 s_AB = -0.164454254177
 
-187. Proteins: GP41 [HEK] and REV [HEK]
+215. Proteins: GP41 [HEK] and REV [HEK]
 d_AB = 1.09451795841
 s_AB = -0.163431219748
 
-188. Proteins: M2 [Flu] and POL [HEK]
+216. Proteins: M2 [Flu] and POL [HEK]
 d_AB = 1.1104
 s_AB = -0.163129411765
 
-189. Proteins: GP41 [HEK] and NA [Flu]
+217. Proteins: GP41 [HEK] and NA [Flu]
 d_AB = 1.25744680851
 s_AB = -0.161036271141
 
-190. Proteins: GP120 [HEK] and REV [HEK]
+218. Proteins: GP120 [HEK] and REV [HEK]
 d_AB = 1.05123339658
 s_AB = -0.157982176872
 
-191. Proteins: M2 [Flu] and Pol [HEK]
+219. Proteins: M2 [Flu] and Pol [HEK]
 d_AB = 1.11048689139
 s_AB = -0.155860414003
 
-192. Proteins: GP120 [HEK] and NA [Flu]
+220. Proteins: GP120 [HEK] and NA [Flu]
 d_AB = 1.21459227468
 s_AB = -0.155157200269
 
-193. Proteins: GP120 [HEK] and HA [Flu]
+221. Proteins: GP120 [HEK] and HA [Flu]
 d_AB = 1.16748768473
 s_AB = -0.153628405753
 
-194. Proteins: M2 [Flu] and VPR [HEK]
+222. Proteins: M2 [Flu] and VPR [HEK]
 d_AB = 1.16607142857
 s_AB = -0.153095238095
 
-195. Proteins: GP41 [HEK] and TAT [HEK]
+223. Proteins: GP41 [HEK] and TAT [HEK]
 d_AB = 1.09344115004
 s_AB = -0.152714904004
 
-196. Proteins: CA [HEK] and VPR [HEK]
+224. Proteins: CA [HEK] and VPR [HEK]
 d_AB = 1.26858513189
 s_AB = -0.150055218983
 
-197. Proteins: HA [Flu] and NEF [HEK]
+225. Proteins: HA [Flu] and NEF [HEK]
 d_AB = 1.18686131387
 s_AB = -0.14871568403
 
-198. Proteins: NS1 [Flu] and RT [HEK]
+226. Proteins: NS1 [Flu] and RT [HEK]
 d_AB = 1.13226452906
 s_AB = -0.140096904729
 
-199. Proteins: GP41 [HEK] and NC [HEK]
+227. Proteins: GP41 [HEK] and NC [HEK]
 d_AB = 1.12256586483
 s_AB = -0.136016224718
 
-200. Proteins: GP120 [HEK] and TAT [HEK]
+228. Proteins: GP120 [HEK] and TAT [HEK]
 d_AB = 1.06311992786
 s_AB = -0.134302521483
 
-201. Proteins: M2 [Flu] and VPU [HEK]
+229. Proteins: M2 [Flu] and VPU [HEK]
 d_AB = 1.1796875
 s_AB = -0.134176136364
 
-202. Proteins: NA [Flu] and Pol [HEK]
+230. Proteins: NA [Flu] and Pol [HEK]
 d_AB = 1.2052238806
 s_AB = -0.131024414891
 
-203. Proteins: GP41 [HEK] and HA [Flu]
+231. Proteins: GP41 [HEK] and HA [Flu]
 d_AB = 1.23902439024
 s_AB = -0.130825304942
 
-204. Proteins: HA [Flu] and IN [HEK]
+232. Proteins: HA [Flu] and IN [HEK]
 d_AB = 1.17366946779
 s_AB = -0.123262473511
 
-205. Proteins: HA [Flu] and Pol [HEK]
+233. Proteins: HA [Flu] and Pol [HEK]
 d_AB = 1.17016806723
 s_AB = -0.117446843796
 
-206. Proteins: HA [Flu] and VIF [HEK]
+234. Proteins: HA [Flu] and VIF [HEK]
 d_AB = 1.15826330532
 s_AB = -0.116815489123
 
-207. Proteins: M2 [Flu] and PB1 [Flu]
+235. Proteins: M2 [Flu] and PB1 [Flu]
 d_AB = 1.21621621622
 s_AB = -0.116640926641
 
-208. Proteins: NC [HEK] and P6 [HEK]
+236. Proteins: NC [HEK] and P6 [HEK]
 d_AB = 1.09228650138
 s_AB = -0.115151515152
 
-209. Proteins: NA [Flu] and VPR [HEK]
+237. Proteins: NA [Flu] and VPR [HEK]
 d_AB = 1.2793594306
 s_AB = -0.109708226161
 
-210. Proteins: GP160 [HEK] and M2 [Flu]
+238. Proteins: GP160 [HEK] and M2 [Flu]
 d_AB = 1.20037105751
 s_AB = -0.107623042781
 
-211. Proteins: VPU [HEK] and p6 [HEK]
+239. Proteins: VPU [HEK] and p6 [HEK]
 d_AB = 1.20149253731
 s_AB = -0.104662765717
 
-212. Proteins: M2 [Flu] and PR [HEK]
+240. Proteins: M2 [Flu] and PR [HEK]
 d_AB = 1.18263473054
 s_AB = -0.103519115615
 
-213. Proteins: GP120 [HEK] and NC [HEK]
+241. Proteins: GP120 [HEK] and NC [HEK]
 d_AB = 1.10932105869
 s_AB = -0.10052742616
 
-214. Proteins: NA [Flu] and PB2 [Flu]
+242. Proteins: NA [Flu] and PB2 [Flu]
 d_AB = 1.27859237537
 s_AB = -0.100013650704
 
-215. Proteins: NA [Flu] and RT [HEK]
+243. Proteins: NA [Flu] and RT [HEK]
 d_AB = 1.24210526316
 s_AB = -0.0993174660715
 
-216. Proteins: HA [Flu] and PB2 [Flu]
+244. Proteins: HA [Flu] and PB2 [Flu]
 d_AB = 1.2384341637
 s_AB = -0.091538477904
 
-217. Proteins: MA [HEK] and NS1 [Flu]
+245. Proteins: MA [HEK] and NS1 [Flu]
 d_AB = 1.20581113801
 s_AB = -0.0914115353654
 
-218. Proteins: POL [HEK] and p6 [HEK]
+246. Proteins: POL [HEK] and p6 [HEK]
 d_AB = 1.17466410749
 s_AB = -0.0911569709458
 
-219. Proteins: NS1 [Flu] and VIF [HEK]
+247. Proteins: NS1 [Flu] and VIF [HEK]
 d_AB = 1.16358463727
 s_AB = -0.0910662461988
 
-220. Proteins: NS1 [Flu] and POL [HEK]
+248. Proteins: NS1 [Flu] and POL [HEK]
 d_AB = 1.18525179856
 s_AB = -0.08911730786
 
-221. Proteins: NS1 [Flu] and Pol [HEK]
+249. Proteins: NS1 [Flu] and Pol [HEK]
 d_AB = 1.17849462366
 s_AB = -0.0886923763898
 
-222. Proteins: CA [HEK] and PR [HEK]
+250. Proteins: CA [HEK] and PR [HEK]
 d_AB = 1.29714285714
 s_AB = -0.0884846732215
 
-223. Proteins: VIF [HEK] and p6 [HEK]
+251. Proteins: VIF [HEK] and p6 [HEK]
 d_AB = 1.15868263473
 s_AB = -0.0874202207473
 
-224. Proteins: NC [HEK] and NS1 [Flu]
+252. Proteins: NC [HEK] and NS1 [Flu]
 d_AB = 1.20652173913
 s_AB = -0.0843179555261
 
-225. Proteins: HA [Flu] and VPU [HEK]
+253. Proteins: HA [Flu] and VPU [HEK]
 d_AB = 1.25429553265
 s_AB = -0.0808357093514
 
-226. Proteins: NA [Flu] and PR [HEK]
+254. Proteins: NA [Flu] and PR [HEK]
 d_AB = 1.27611940299
 s_AB = -0.0799354332678
 
-227. Proteins: GAG [HEK] and p6 [HEK]
+255. Proteins: GAG [HEK] and p6 [HEK]
 d_AB = 1.19746121298
 s_AB = -0.0786314324835
 
-228. Proteins: HA [Flu] and PB1 [Flu]
+256. Proteins: HA [Flu] and PB1 [Flu]
 d_AB = 1.27636363636
 s_AB = -0.0777611121273
 
-229. Proteins: HA [Flu] and POL [HEK]
+257. Proteins: HA [Flu] and POL [HEK]
 d_AB = 1.21869488536
 s_AB = -0.076102132037
 
-230. Proteins: CA [HEK] and VPU [HEK]
+258. Proteins: CA [HEK] and VPU [HEK]
 d_AB = 1.33802816901
 s_AB = -0.0753091515601
 
-231. Proteins: NC [HEK] and PB1 [Flu]
+259. Proteins: NC [HEK] and PB1 [Flu]
 d_AB = 1.17073170732
 s_AB = -0.0721254355401
 
-232. Proteins: GP120 [HEK] and M2 [Flu]
+260. Proteins: GP120 [HEK] and M2 [Flu]
 d_AB = 1.23275862069
 s_AB = -0.0670898641588
 
-233. Proteins: NS1 [Flu] and PR [HEK]
+261. Proteins: NS1 [Flu] and PR [HEK]
 d_AB = 1.2203672788
 s_AB = -0.0666262620123
 
-234. Proteins: GAG [HEK] and NS1 [Flu]
+262. Proteins: GAG [HEK] and NS1 [Flu]
 d_AB = 1.22043010753
 s_AB = -0.0642105659224
 
-235. Proteins: P6 [HEK] and REV [HEK]
+263. Proteins: P6 [HEK] and REV [HEK]
 d_AB = 1.14709110867
 s_AB = -0.0597139964647
 
-236. Proteins: M2 [Flu] and RT [HEK]
+264. Proteins: M2 [Flu] and RT [HEK]
 d_AB = 1.21478873239
 s_AB = -0.0567330067361
 
-237. Proteins: PB1 [Flu] and POL [HEK]
+265. Proteins: PB1 [Flu] and POL [HEK]
 d_AB = 1.17025089606
 s_AB = -0.0561356585645
 
-238. Proteins: GP41 [HEK] and M2 [Flu]
+266. Proteins: GP41 [HEK] and M2 [Flu]
 d_AB = 1.29487179487
 s_AB = -0.0537102946804
 
-239. Proteins: NC [HEK] and PA [Flu]
+267. Proteins: NC [HEK] and PA [Flu]
 d_AB = 1.19230769231
 s_AB = -0.0520222045995
 
-240. Proteins: NC [HEK] and NEP [Flu]
+268. Proteins: NC [HEK] and NEP [Flu]
 d_AB = 1.19519094767
 s_AB = -0.0518678758632
 
-241. Proteins: HA [Flu] and VPR [HEK]
+269. Proteins: HA [Flu] and VPR [HEK]
 d_AB = 1.29083665339
 s_AB = -0.049597618914
 
-242. Proteins: CA [HEK] and POL [HEK]
+270. Proteins: CA [HEK] and POL [HEK]
 d_AB = 1.32365145228
 s_AB = -0.0493516436931
 
-243. Proteins: NC [HEK] and PB2 [Flu]
+271. Proteins: NC [HEK] and PB2 [Flu]
 d_AB = 1.17069892473
 s_AB = -0.04800611124
 
-244. Proteins: PB1 [Flu] and RT [HEK]
+272. Proteins: PB1 [Flu] and RT [HEK]
 d_AB = 1.17764471058
 s_AB = -0.0467341714087
 
-245. Proteins: PB2 [Flu] and VIF [HEK]
+273. Proteins: PB2 [Flu] and VIF [HEK]
 d_AB = 1.13924050633
 s_AB = -0.0432757184533
 
-246. Proteins: CA [HEK] and VIF [HEK]
+274. Proteins: CA [HEK] and VIF [HEK]
 d_AB = 1.31001589825
 s_AB = -0.0432689747705
 
-247. Proteins: PB2 [Flu] and Pol [HEK]
+275. Proteins: PB2 [Flu] and Pol [HEK]
 d_AB = 1.15221987315
 s_AB = -0.0428324682103
 
-248. Proteins: GP160 [HEK] and PB1 [Flu]
+276. Proteins: GP160 [HEK] and PB1 [Flu]
 d_AB = 1.21822033898
 s_AB = -0.0426309041691
 
-249. Proteins: PB2 [Flu] and RT [HEK]
+277. Proteins: PB2 [Flu] and RT [HEK]
 d_AB = 1.15779092702
 s_AB = -0.04243584808
 
-250. Proteins: GAG [HEK] and PB1 [Flu]
+278. Proteins: GAG [HEK] and PB1 [Flu]
 d_AB = 1.19436997319
 s_AB = -0.0422881484596
 
-251. Proteins: NEF [HEK] and NS1 [Flu]
+279. Proteins: NEF [HEK] and NS1 [Flu]
 d_AB = 1.27448071217
 s_AB = -0.0406683747555
 
-252. Proteins: CA [HEK] and GAG [HEK]
+280. Proteins: CA [HEK] and GAG [HEK]
 d_AB = 1.34328358209
 s_AB = -0.0399910809138
 
-253. Proteins: NEF [HEK] and P6 [HEK]
+281. Proteins: NEF [HEK] and P6 [HEK]
 d_AB = 1.19277108434
 s_AB = -0.0389763244568
 
-254. Proteins: PB1 [Flu] and Pol [HEK]
+282. Proteins: PB1 [Flu] and Pol [HEK]
 d_AB = 1.18415417559
 s_AB = -0.0350502726575
 
-255. Proteins: MA [HEK] and PB1 [Flu]
+283. Proteins: MA [HEK] and PB1 [Flu]
 d_AB = 1.21445783133
 s_AB = -0.0347822902552
 
-256. Proteins: IN [HEK] and P6 [HEK]
+284. Proteins: IN [HEK] and P6 [HEK]
 d_AB = 1.15873015873
 s_AB = -0.0343721934631
 
-257. Proteins: NC [HEK] and p6 [HEK]
+285. Proteins: NC [HEK] and p6 [HEK]
 d_AB = 1.2482168331
 s_AB = -0.0340748335711
 
-258. Proteins: NEP [Flu] and RT [HEK]
+286. Proteins: NEP [Flu] and RT [HEK]
 d_AB = 1.19574468085
 s_AB = -0.0328358818088
 
-259. Proteins: MA [HEK] and PB2 [Flu]
+287. Proteins: MA [HEK] and PB2 [Flu]
 d_AB = 1.19239904988
 s_AB = -0.0326889648134
 
-260. Proteins: PB2 [Flu] and POL [HEK]
+288. Proteins: PB2 [Flu] and POL [HEK]
 d_AB = 1.17021276596
 s_AB = -0.0320216817785
 
-261. Proteins: NS1 [Flu] and TAT [HEK]
+289. Proteins: NS1 [Flu] and TAT [HEK]
 d_AB = 1.24692622951
 s_AB = -0.0314874296453
 
-262. Proteins: PB1 [Flu] and VIF [HEK]
+290. Proteins: PB1 [Flu] and VIF [HEK]
 d_AB = 1.17588652482
 s_AB = -0.0307818068456
 
-263. Proteins: NS1 [Flu] and REV [HEK]
+291. Proteins: NS1 [Flu] and REV [HEK]
 d_AB = 1.25950054289
 s_AB = -0.0307062403759
 
-264. Proteins: PB1 [Flu] and REV [HEK]
+292. Proteins: PB1 [Flu] and REV [HEK]
 d_AB = 1.21451787649
 s_AB = -0.027706354975
 
-265. Proteins: PB1 [Flu] and PR [HEK]
+293. Proteins: PB1 [Flu] and PR [HEK]
 d_AB = 1.21297836938
 s_AB = -0.0260326196266
 
-266. Proteins: GP160 [HEK] and NS1 [Flu]
+294. Proteins: GP160 [HEK] and NS1 [Flu]
 d_AB = 1.2829787234
 s_AB = -0.0258550715472
 
-267. Proteins: M2 [Flu] and NEP [Flu]
+295. Proteins: M2 [Flu] and NEP [Flu]
 d_AB = 1.31125827815
 s_AB = -0.0258005453837
 
-268. Proteins: GAG [HEK] and PA [Flu]
+296. Proteins: GAG [HEK] and PA [Flu]
 d_AB = 1.21408450704
 s_AB = -0.0240463686578
 
-269. Proteins: NS1 [Flu] and VPU [HEK]
+297. Proteins: NS1 [Flu] and VPU [HEK]
 d_AB = 1.29071803853
 s_AB = -0.0239852924912
 
-270. Proteins: PA [Flu] and RT [HEK]
+298. Proteins: PA [Flu] and RT [HEK]
 d_AB = 1.20215053763
 s_AB = -0.0237010984032
 
-271. Proteins: NA [Flu] and TAT [HEK]
+299. Proteins: NA [Flu] and TAT [HEK]
 d_AB = 1.32473734479
 s_AB = -0.0227376098014
 
-272. Proteins: GP160 [HEK] and PB2 [Flu]
+300. Proteins: GP160 [HEK] and PB2 [Flu]
 d_AB = 1.22175732218
 s_AB = -0.0149418140905
 
-273. Proteins: NA [Flu] and PB1 [Flu]
+301. Proteins: NA [Flu] and PB1 [Flu]
 d_AB = 1.38805970149
 s_AB = -0.0146984314636
 
-274. Proteins: M2 [Flu] and PA [Flu]
+302. Proteins: M2 [Flu] and PA [Flu]
 d_AB = 1.31986531987
 s_AB = -0.0144645770419
 
-275. Proteins: MA [HEK] and NEP [Flu]
+303. Proteins: MA [HEK] and NEP [Flu]
 d_AB = 1.23958333333
 s_AB = -0.0138584689195
 
-276. Proteins: IN [HEK] and NS1 [Flu]
+304. Proteins: IN [HEK] and NS1 [Flu]
 d_AB = 1.26315789474
 s_AB = -0.013346135584
 
-277. Proteins: IN [HEK] and p6 [HEK]
+305. Proteins: IN [HEK] and p6 [HEK]
 d_AB = 1.25598802395
 s_AB = -0.0119679783789
 
-278. Proteins: GAG [HEK] and PB2 [Flu]
+306. Proteins: GAG [HEK] and PB2 [Flu]
 d_AB = 1.20079787234
 s_AB = -0.0117081424236
 
-279. Proteins: MA [HEK] and PA [Flu]
+307. Proteins: MA [HEK] and PA [Flu]
 d_AB = 1.2401055409
 s_AB = -0.0106073347335
 
-280. Proteins: GAG [HEK] and NEP [Flu]
+308. Proteins: GAG [HEK] and NEP [Flu]
 d_AB = 1.23216783217
 s_AB = -0.0086919701544
 
-281. Proteins: HA [Flu] and RT [HEK]
+309. Proteins: HA [Flu] and RT [HEK]
 d_AB = 1.2862745098
 s_AB = -0.00651483496032
 
-282. Proteins: HA [Flu] and NEP [Flu]
+310. Proteins: HA [Flu] and NEP [Flu]
 d_AB = 1.35245901639
 s_AB = -0.00586741276977
 
-283. Proteins: PA [Flu] and POL [HEK]
+311. Proteins: PA [Flu] and POL [HEK]
 d_AB = 1.22413793103
 s_AB = -0.00372137763744
 
-284. Proteins: PB1 [Flu] and VPR [HEK]
+312. Proteins: PB1 [Flu] and VPR [HEK]
 d_AB = 1.26977687627
 s_AB = -0.00224693325606
 
-285. Proteins: NEF [HEK] and p6 [HEK]
+313. Proteins: NEF [HEK] and p6 [HEK]
 d_AB = 1.30672926448
 s_AB = 0.000128205543883
 
-286. Proteins: PB1 [Flu] and VPU [HEK]
+314. Proteins: PB1 [Flu] and VPU [HEK]
 d_AB = 1.2687609075
 s_AB = 0.00204012828358
 
-287. Proteins: PA [Flu] and Pol [HEK]
+315. Proteins: PA [Flu] and Pol [HEK]
 d_AB = 1.22737819026
 s_AB = 0.00670098795878
 
-288. Proteins: GP120 [HEK] and PB1 [Flu]
+316. Proteins: GP120 [HEK] and PB1 [Flu]
 d_AB = 1.25944584383
 s_AB = 0.00674021612309
 
-289. Proteins: HA [Flu] and PR [HEK]
+317. Proteins: HA [Flu] and PR [HEK]
 d_AB = 1.31475409836
 s_AB = 0.00733264657301
 
-290. Proteins: PB1 [Flu] and TAT [HEK]
+318. Proteins: PB1 [Flu] and TAT [HEK]
 d_AB = 1.23926380368
 s_AB = 0.0088326963268
 
-291. Proteins: PB2 [Flu] and REV [HEK]
+319. Proteins: PB2 [Flu] and REV [HEK]
 d_AB = 1.22712594187
 s_AB = 0.00905381729416
 
-292. Proteins: MA [HEK] and NA [Flu]
+320. Proteins: MA [HEK] and NA [Flu]
 d_AB = 1.37809917355
 s_AB = 0.0118152047313
 
-293. Proteins: M2 [Flu] and TAT [HEK]
+321. Proteins: M2 [Flu] and TAT [HEK]
 d_AB = 1.28995215311
 s_AB = 0.012378188613
 
-294. Proteins: PA [Flu] and PR [HEK]
+322. Proteins: PA [Flu] and PR [HEK]
 d_AB = 1.25309734513
 s_AB = 0.0126136020717
 
-295. Proteins: PB2 [Flu] and PR [HEK]
+323. Proteins: PB2 [Flu] and PR [HEK]
 d_AB = 1.23064250412
 s_AB = 0.0157836219935
 
-296. Proteins: NA [Flu] and NEP [Flu]
+324. Proteins: NA [Flu] and NEP [Flu]
 d_AB = 1.42434210526
 s_AB = 0.0173822916347
 
-297. Proteins: NA [Flu] and REV [HEK]
+325. Proteins: NA [Flu] and REV [HEK]
 d_AB = 1.37903225806
 s_AB = 0.0197641793579
 
-298. Proteins: NEP [Flu] and REV [HEK]
+326. Proteins: NEP [Flu] and REV [HEK]
 d_AB = 1.2668161435
 s_AB = 0.0203902313608
 
-299. Proteins: NA [Flu] and NC [HEK]
+327. Proteins: NA [Flu] and NC [HEK]
 d_AB = 1.38042131351
 s_AB = 0.0205203234078
 
-300. Proteins: REV [HEK] and p6 [HEK]
+328. Proteins: REV [HEK] and p6 [HEK]
 d_AB = 1.30248306998
 s_AB = 0.0208243147032
 
-301. Proteins: M2 [Flu] and MA [HEK]
+329. Proteins: M2 [Flu] and MA [HEK]
 d_AB = 1.31742738589
 s_AB = 0.0210444071687
 
-302. Proteins: PB2 [Flu] and TAT [HEK]
+330. Proteins: PB2 [Flu] and TAT [HEK]
 d_AB = 1.22764227642
 s_AB = 0.0213632759545
 
-303. Proteins: NS1 [Flu] and p6 [HEK]
+331. Proteins: NS1 [Flu] and p6 [HEK]
 d_AB = 1.39647577093
 s_AB = 0.023344409602
 
-304. Proteins: PA [Flu] and REV [HEK]
+332. Proteins: PA [Flu] and REV [HEK]
 d_AB = 1.26832018038
 s_AB = 0.0246231948685
 
-305. Proteins: GP120 [HEK] and NS1 [Flu]
+333. Proteins: GP120 [HEK] and NS1 [Flu]
 d_AB = 1.32658227848
 s_AB = 0.025894098976
 
-306. Proteins: NS1 [Flu] and VPR [HEK]
+334. Proteins: NS1 [Flu] and VPR [HEK]
 d_AB = 1.34623217923
 s_AB = 0.0262258179029
 
-307. Proteins: CA [HEK] and IN [HEK]
+335. Proteins: CA [HEK] and IN [HEK]
 d_AB = 1.40222575517
 s_AB = 0.0270877352921
 
-308. Proteins: NS1 [Flu] and P6 [HEK]
+336. Proteins: NS1 [Flu] and P6 [HEK]
 d_AB = 1.3253968254
 s_AB = 0.0271191142114
 
-309. Proteins: P6 [HEK] and TAT [HEK]
+337. Proteins: P6 [HEK] and TAT [HEK]
 d_AB = 1.22360248447
 s_AB = 0.0285905034461
 
-310. Proteins: GAG [HEK] and M2 [Flu]
+338. Proteins: GAG [HEK] and M2 [Flu]
 d_AB = 1.31242312423
 s_AB = 0.0286221454384
 
-311. Proteins: NEP [Flu] and PR [HEK]
+339. Proteins: NEP [Flu] and PR [HEK]
 d_AB = 1.27192982456
 s_AB = 0.0287171548781
 
-312. Proteins: NEP [Flu] and POL [HEK]
+340. Proteins: NEP [Flu] and POL [HEK]
 d_AB = 1.25996204934
 s_AB = 0.0293738140417
 
-313. Proteins: CA [HEK] and NEF [HEK]
+341. Proteins: CA [HEK] and NEF [HEK]
 d_AB = 1.445
 s_AB = 0.0312169235243
 
-314. Proteins: PA [Flu] and VPU [HEK]
+342. Proteins: PA [Flu] and VPU [HEK]
 d_AB = 1.29981378026
 s_AB = 0.0316202469899
 
-315. Proteins: PA [Flu] and VPR [HEK]
+343. Proteins: PA [Flu] and VPR [HEK]
 d_AB = 1.30634573304
 s_AB = 0.0328491694677
 
-316. Proteins: HA [Flu] and PA [Flu]
+344. Proteins: HA [Flu] and PA [Flu]
 d_AB = 1.38912133891
 s_AB = 0.0335238363711
 
-317. Proteins: NEP [Flu] and Pol [HEK]
+345. Proteins: NEP [Flu] and Pol [HEK]
 d_AB = 1.26146788991
 s_AB = 0.0380617609896
 
-318. Proteins: PA [Flu] and VIF [HEK]
+346. Proteins: PA [Flu] and VIF [HEK]
 d_AB = 1.2466367713
 s_AB = 0.038495685582
 
-319. Proteins: NEP [Flu] and VPR [HEK]
+347. Proteins: NEP [Flu] and VPR [HEK]
 d_AB = 1.31601731602
 s_AB = 0.0397918258212
 
-320. Proteins: NA [Flu] and PA [Flu]
+348. Proteins: NA [Flu] and PA [Flu]
 d_AB = 1.44481605351
 s_AB = 0.0405851665055
 
-321. Proteins: NEP [Flu] and VPU [HEK]
+349. Proteins: NEP [Flu] and VPU [HEK]
 d_AB = 1.31365313653
 s_AB = 0.0427306766383
 
-322. Proteins: NEP [Flu] and VIF [HEK]
+350. Proteins: NEP [Flu] and VIF [HEK]
 d_AB = 1.25667655786
 s_AB = 0.0458065455229
 
-323. Proteins: PB2 [Flu] and VPR [HEK]
+351. Proteins: PB2 [Flu] and VPR [HEK]
 d_AB = 1.29458917836
 s_AB = 0.0467174757188
 
-324. Proteins: PB2 [Flu] and VPU [HEK]
+352. Proteins: PB2 [Flu] and VPU [HEK]
 d_AB = 1.29015544041
 s_AB = 0.0475867680796
 
-325. Proteins: NEP [Flu] and TAT [HEK]
+353. Proteins: NEP [Flu] and TAT [HEK]
 d_AB = 1.28405491024
 s_AB = 0.0494221222164
 
-326. Proteins: IN [HEK] and PB2 [Flu]
+354. Proteins: IN [HEK] and PB2 [Flu]
 d_AB = 1.25738396624
 s_AB = 0.0530145946092
 
-327. Proteins: GP120 [HEK] and PB2 [Flu]
+355. Proteins: GP120 [HEK] and PB2 [Flu]
 d_AB = 1.28287841191
 s_AB = 0.054324891091
 
-328. Proteins: CA [HEK] and NC [HEK]
+356. Proteins: CA [HEK] and NC [HEK]
 d_AB = 1.44410876133
 s_AB = 0.0546350771188
 
-329. Proteins: GAG [HEK] and NA [Flu]
+357. Proteins: GAG [HEK] and NA [Flu]
 d_AB = 1.40858895706
 s_AB = 0.0548869881634
 
-330. Proteins: M2 [Flu] and NC [HEK]
+358. Proteins: M2 [Flu] and NC [HEK]
 d_AB = 1.34906832298
 s_AB = 0.0590683229814
 
-331. Proteins: GP41 [HEK] and NS1 [Flu]
+359. Proteins: GP41 [HEK] and NS1 [Flu]
 d_AB = 1.40852130326
 s_AB = 0.0590995190494
 
-332. Proteins: PA [Flu] and TAT [HEK]
+360. Proteins: PA [Flu] and TAT [HEK]
 d_AB = 1.29193205945
 s_AB = 0.0600281980437
 
-333. Proteins: P6 [HEK] and PB1 [Flu]
+361. Proteins: P6 [HEK] and PB1 [Flu]
 d_AB = 1.31102362205
 s_AB = 0.0607284626612
 
-334. Proteins: M2 [Flu] and REV [HEK]
+362. Proteins: M2 [Flu] and REV [HEK]
 d_AB = 1.35050505051
 s_AB = 0.0611379618975
 
-335. Proteins: HA [Flu] and MA [HEK]
+363. Proteins: HA [Flu] and MA [HEK]
 d_AB = 1.3820754717
 s_AB = 0.0644248873409
 
-336. Proteins: TAT [HEK] and p6 [HEK]
+364. Proteins: TAT [HEK] and p6 [HEK]
 d_AB = 1.33475026567
 s_AB = 0.0648846345111
 
-337. Proteins: GP160 [HEK] and PA [Flu]
+365. Proteins: GP160 [HEK] and PA [Flu]
 d_AB = 1.33027522936
 s_AB = 0.0679512321556
 
-338. Proteins: GP160 [HEK] and NEP [Flu]
+366. Proteins: GP160 [HEK] and NEP [Flu]
 d_AB = 1.33560090703
 s_AB = 0.0705479832051
 
-339. Proteins: NEP [Flu] and P6 [HEK]
+367. Proteins: NEP [Flu] and P6 [HEK]
 d_AB = 1.32735426009
 s_AB = 0.0728574200313
 
-340. Proteins: IN [HEK] and PB1 [Flu]
+368. Proteins: IN [HEK] and PB1 [Flu]
 d_AB = 1.30496453901
 s_AB = 0.0764430604856
 
-341. Proteins: NEF [HEK] and PB2 [Flu]
+369. Proteins: NEF [HEK] and PB2 [Flu]
 d_AB = 1.32551319648
 s_AB = 0.0824987682445
 
-342. Proteins: GP120 [HEK] and NEP [Flu]
+370. Proteins: GP120 [HEK] and NEP [Flu]
 d_AB = 1.34699453552
 s_AB = 0.0900872271412
 
-343. Proteins: GP120 [HEK] and PA [Flu]
+371. Proteins: GP120 [HEK] and PA [Flu]
 d_AB = 1.34626038781
 s_AB = 0.0920820060559
 
-344. Proteins: CA [HEK] and NS1 [Flu]
+372. Proteins: CA [HEK] and NS1 [Flu]
 d_AB = 1.57978723404
 s_AB = 0.0994738551755
 
-345. Proteins: CA [HEK] and REV [HEK]
+373. Proteins: CA [HEK] and REV [HEK]
 d_AB = 1.48996458087
 s_AB = 0.101123808056
 
-346. Proteins: GP41 [HEK] and PA [Flu]
+374. Proteins: GP41 [HEK] and PA [Flu]
 d_AB = 1.40821917808
 s_AB = 0.105307191623
 
-347. Proteins: GP41 [HEK] and PB1 [Flu]
+375. Proteins: GP41 [HEK] and PB1 [Flu]
 d_AB = 1.4114713217
 s_AB = 0.110032089286
 
-348. Proteins: IN [HEK] and PA [Flu]
+376. Proteins: IN [HEK] and PA [Flu]
 d_AB = 1.34080717489
 s_AB = 0.110812942316
 
-349. Proteins: IN [HEK] and NEP [Flu]
+377. Proteins: IN [HEK] and NEP [Flu]
 d_AB = 1.34569732938
 s_AB = 0.112974170183
 
-350. Proteins: P6 [HEK] and PA [Flu]
+378. Proteins: P6 [HEK] and PA [Flu]
 d_AB = 1.36697247706
 s_AB = 0.115204563628
 
-351. Proteins: GP41 [HEK] and PB2 [Flu]
+379. Proteins: GP41 [HEK] and PB2 [Flu]
 d_AB = 1.39312039312
 s_AB = 0.115833267597
 
-352. Proteins: NEF [HEK] and PB1 [Flu]
+380. Proteins: NEF [HEK] and PB1 [Flu]
 d_AB = 1.38461538462
 s_AB = 0.117448849493
 
-353. Proteins: CA [HEK] and TAT [HEK]
+381. Proteins: CA [HEK] and TAT [HEK]
 d_AB = 1.4955654102
 s_AB = 0.118517761492
 
-354. Proteins: PB1 [Flu] and p6 [HEK]
+382. Proteins: PB1 [Flu] and p6 [HEK]
 d_AB = 1.44541484716
 s_AB = 0.120266037638
 
-355. Proteins: GP41 [HEK] and NEP [Flu]
+383. Proteins: GP41 [HEK] and NEP [Flu]
 d_AB = 1.42972972973
 s_AB = 0.124088816648
 
-356. Proteins: NEP [Flu] and p6 [HEK]
+384. Proteins: NEP [Flu] and p6 [HEK]
 d_AB = 1.4595959596
 s_AB = 0.1302454694
 
-357. Proteins: PA [Flu] and p6 [HEK]
+385. Proteins: PA [Flu] and p6 [HEK]
 d_AB = 1.46113989637
 s_AB = 0.134518332799
 
-358. Proteins: P6 [HEK] and PB2 [Flu]
+386. Proteins: P6 [HEK] and PB2 [Flu]
 d_AB = 1.36153846154
 s_AB = 0.135395409038
 
-359. Proteins: CA [HEK] and NA [Flu]
+387. Proteins: CA [HEK] and NA [Flu]
 d_AB = 1.7027027027
 s_AB = 0.153328028393
 
-360. Proteins: NEF [HEK] and PA [Flu]
+388. Proteins: NEF [HEK] and PA [Flu]
 d_AB = 1.4296875
 s_AB = 0.161048210828
 
-361. Proteins: HA [Flu] and TAT [HEK]
+389. Proteins: HA [Flu] and TAT [HEK]
 d_AB = 1.46808510638
 s_AB = 0.169243536252
 
-362. Proteins: NEF [HEK] and NEP [Flu]
+390. Proteins: NEF [HEK] and NEP [Flu]
 d_AB = 1.44341085271
 s_AB = 0.172042636919
 
-363. Proteins: PB2 [Flu] and p6 [HEK]
+391. Proteins: PB2 [Flu] and p6 [HEK]
 d_AB = 1.48085106383
 s_AB = 0.179854361192
 
-364. Proteins: CA [HEK] and M2 [Flu]
+392. Proteins: CA [HEK] and M2 [Flu]
 d_AB = 1.66147859922
 s_AB = 0.182004915011
 
-365. Proteins: NA [Flu] and p6 [HEK]
+393. Proteins: NA [Flu] and p6 [HEK]
 d_AB = 1.63087248322
 s_AB = 0.188679826456
 
-366. Proteins: GAG [HEK] and HA [Flu]
+394. Proteins: GAG [HEK] and HA [Flu]
 d_AB = 1.49536423841
 s_AB = 0.190295653984
 
-367. Proteins: CA [HEK] and PA [Flu]
+395. Proteins: CA [HEK] and PA [Flu]
 d_AB = 1.62987012987
 s_AB = 0.196066548752
 
-368. Proteins: CA [HEK] and NEP [Flu]
+396. Proteins: CA [HEK] and NEP [Flu]
 d_AB = 1.63522012579
 s_AB = 0.198687618046
 
-369. Proteins: HA [Flu] and NC [HEK]
+397. Proteins: HA [Flu] and NC [HEK]
 d_AB = 1.51539491299
 s_AB = 0.204127307351
 
-370. Proteins: HA [Flu] and REV [HEK]
+398. Proteins: HA [Flu] and REV [HEK]
 d_AB = 1.51824034335
 s_AB = 0.207605649106
 
-371. Proteins: CA [HEK] and PB1 [Flu]
+399. Proteins: CA [HEK] and PB1 [Flu]
 d_AB = 1.64736842105
 s_AB = 0.215037593985
 
-372. Proteins: CA [HEK] and PB2 [Flu]
+400. Proteins: CA [HEK] and PB2 [Flu]
 d_AB = 1.62755102041
 s_AB = 0.219372300226
 
-373. Proteins: M2 [Flu] and P6 [HEK]
+401. Proteins: M2 [Flu] and P6 [HEK]
 d_AB = 1.52024922118
 s_AB = 0.222811204655
 
-374. Proteins: NA [Flu] and P6 [HEK]
+402. Proteins: NA [Flu] and P6 [HEK]
 d_AB = 1.59133126935
 s_AB = 0.223992262722
 
-375. Proteins: HA [Flu] and P6 [HEK]
+403. Proteins: HA [Flu] and P6 [HEK]
 d_AB = 1.55133079848
 s_AB = 0.232625176316
 
-376. Proteins: CA [HEK] and HA [Flu]
+404. Proteins: CA [HEK] and HA [Flu]
 d_AB = 1.73366834171
 s_AB = 0.232927051864
 
-377. Proteins: M2 [Flu] and p6 [HEK]
+405. Proteins: M2 [Flu] and p6 [HEK]
 d_AB = 1.60810810811
 s_AB = 0.235816441441
 
-378. Proteins: HA [Flu] and p6 [HEK]
+406. Proteins: HA [Flu] and p6 [HEK]
 d_AB = 1.63445378151
 s_AB = 0.240894509212
 

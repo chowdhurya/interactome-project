@@ -43,2967 +43,3123 @@ PROTEINS
 38. VPU [Jurkat]; S = 422
 39. p6 [HEK]; S = 47
 
-1. Proteins: REV [HEK] and TAT [HEK]
+1. Proteins: CA [HEK] and CA [HEK]
+d_AB = 0.0
+s_AB = -1.57894736842
+
+2. Proteins: p6 [HEK] and p6 [HEK]
+d_AB = 0.0
+s_AB = -1.36458333333
+
+3. Proteins: GP41 [HEK] and GP41 [HEK]
+d_AB = 0.0
+s_AB = -1.3171641791
+
+4. Proteins: VPR [HEK] and VPR [HEK]
+d_AB = 0.0
+s_AB = -1.25833333333
+
+5. Proteins: NEF [HEK] and NEF [HEK]
+d_AB = 0.0
+s_AB = -1.24861878453
+
+6. Proteins: VPU [HEK] and VPU [HEK]
+d_AB = 0.0
+s_AB = -1.24772727273
+
+7. Proteins: GP41 [Jurkat] and GP41 [Jurkat]
+d_AB = 0.0
+s_AB = -1.24494382022
+
+8. Proteins: GP160 [HEK] and GP160 [HEK]
+d_AB = 0.0
+s_AB = -1.23598820059
+
+9. Proteins: GP160 [Jurkat] and GP160 [Jurkat]
+d_AB = 0.0
+s_AB = -1.23093220339
+
+10. Proteins: IN [Jurkat] and IN [Jurkat]
+d_AB = 0.0
+s_AB = -1.22569444444
+
+11. Proteins: GP120 [HEK] and GP120 [HEK]
+d_AB = 0.0
+s_AB = -1.2196969697
+
+12. Proteins: P6 [Jurkat] and P6 [Jurkat]
+d_AB = 0.0
+s_AB = -1.21629213483
+
+13. Proteins: RT [Jurkat] and RT [Jurkat]
+d_AB = 0.0
+s_AB = -1.21568627451
+
+14. Proteins: P6 [HEK] and P6 [HEK]
+d_AB = 0.0
+s_AB = -1.21487603306
+
+15. Proteins: MA [HEK] and MA [HEK]
+d_AB = 0.0
+s_AB = -1.21276595745
+
+16. Proteins: NC [Jurkat] and NC [Jurkat]
+d_AB = 0.0
+s_AB = -1.20866141732
+
+17. Proteins: REV [Jurkat] and REV [Jurkat]
+d_AB = 0.0
+s_AB = -1.20053475936
+
+18. Proteins: NC [HEK] and NC [HEK]
+d_AB = 0.0
+s_AB = -1.2
+
+19. Proteins: REV [HEK] and REV [HEK]
+d_AB = 0.0
+s_AB = -1.19873417722
+
+20. Proteins: MA [Jurkat] and MA [Jurkat]
+d_AB = 0.0
+s_AB = -1.19710144928
+
+21. Proteins: PR [Jurkat] and PR [Jurkat]
+d_AB = 0.0
+s_AB = -1.19571045576
+
+22. Proteins: NCC [Jurkat] and NCC [Jurkat]
+d_AB = 0.0
+s_AB = -1.19402985075
+
+23. Proteins: PR [HEK] and PR [HEK]
+d_AB = 0.0
+s_AB = -1.19230769231
+
+24. Proteins: TAT [Jurkat] and TAT [Jurkat]
+d_AB = 0.0
+s_AB = -1.18944099379
+
+25. Proteins: NEF [Jurkat] and NEF [Jurkat]
+d_AB = 0.0
+s_AB = -1.18867924528
+
+26. Proteins: GAG [HEK] and GAG [HEK]
+d_AB = 0.0
+s_AB = -1.18760195759
+
+27. Proteins: VPR [Jurkat] and VPR [Jurkat]
+d_AB = 0.0
+s_AB = -1.18444846293
+
+28. Proteins: VPU [Jurkat] and VPU [Jurkat]
+d_AB = 0.0
+s_AB = -1.1825095057
+
+29. Proteins: GP120 [Jurkat] and GP120 [Jurkat]
+d_AB = 0.0
+s_AB = -1.17808219178
+
+30. Proteins: CA [Jurkat] and CA [Jurkat]
+d_AB = 0.0
+s_AB = -1.17771883289
+
+31. Proteins: TAT [HEK] and TAT [HEK]
+d_AB = 0.0
+s_AB = -1.17514792899
+
+32. Proteins: IN [HEK] and IN [HEK]
+d_AB = 0.0
+s_AB = -1.17132867133
+
+33. Proteins: POL [HEK] and POL [HEK]
+d_AB = 0.0
+s_AB = -1.16705882353
+
+34. Proteins: RT [HEK] and RT [HEK]
+d_AB = 0.0
+s_AB = -1.16304347826
+
+35. Proteins: Pol [HEK] and Pol [HEK]
+d_AB = 0.0
+s_AB = -1.15269461078
+
+36. Proteins: POL [Jurkat] and POL [Jurkat]
+d_AB = 0.0
+s_AB = -1.14397905759
+
+37. Proteins: GAG [Jurkat] and GAG [Jurkat]
+d_AB = 0.0
+s_AB = -1.14363143631
+
+38. Proteins: VIF [HEK] and VIF [HEK]
+d_AB = 0.0
+s_AB = -1.12762237762
+
+39. Proteins: VIF [Jurkat] and VIF [Jurkat]
+d_AB = 0.0
+s_AB = -1.11699779249
+
+40. Proteins: REV [HEK] and TAT [HEK]
 d_AB = 0.28004881025
 s_AB = -0.906892242854
 
-2. Proteins: CA [Jurkat] and P6 [Jurkat]
+41. Proteins: CA [Jurkat] and P6 [Jurkat]
 d_AB = 0.341064120055
 s_AB = -0.855941363807
 
-3. Proteins: NC [HEK] and REV [HEK]
+42. Proteins: NC [HEK] and REV [HEK]
 d_AB = 0.355555555556
 s_AB = -0.843811533052
 
-4. Proteins: MA [Jurkat] and P6 [Jurkat]
+43. Proteins: MA [Jurkat] and P6 [Jurkat]
 d_AB = 0.365192582026
 s_AB = -0.841504210028
 
-5. Proteins: GAG [HEK] and NC [HEK]
+44. Proteins: GAG [HEK] and NC [HEK]
 d_AB = 0.370279146141
 s_AB = -0.823521832652
 
-6. Proteins: CA [Jurkat] and MA [Jurkat]
+45. Proteins: CA [Jurkat] and MA [Jurkat]
 d_AB = 0.3891966759
 s_AB = -0.798213465183
 
-7. Proteins: REV [Jurkat] and TAT [Jurkat]
+46. Proteins: REV [Jurkat] and TAT [Jurkat]
 d_AB = 0.399425287356
 s_AB = -0.795562589217
 
-8. Proteins: NEF [Jurkat] and VIF [Jurkat]
+47. Proteins: NEF [Jurkat] and VIF [Jurkat]
 d_AB = 0.360319270239
 s_AB = -0.792519248649
 
-9. Proteins: NC [HEK] and TAT [HEK]
+48. Proteins: NC [HEK] and TAT [HEK]
 d_AB = 0.399310344828
 s_AB = -0.788263619669
 
-10. Proteins: GAG [Jurkat] and P6 [Jurkat]
+49. Proteins: GAG [Jurkat] and P6 [Jurkat]
 d_AB = 0.391724137931
 s_AB = -0.788237647642
 
-11. Proteins: GP120 [HEK] and GP160 [HEK]
+50. Proteins: GP120 [HEK] and GP160 [HEK]
 d_AB = 0.442786069652
 s_AB = -0.785056515492
 
-12. Proteins: P6 [Jurkat] and RT [Jurkat]
+51. Proteins: P6 [Jurkat] and RT [Jurkat]
 d_AB = 0.431977559607
 s_AB = -0.784011645063
 
-13. Proteins: NEF [Jurkat] and P6 [Jurkat]
+52. Proteins: NEF [Jurkat] and P6 [Jurkat]
 d_AB = 0.423076923077
 s_AB = -0.77940876698
 
-14. Proteins: GAG [HEK] and REV [HEK]
+53. Proteins: GAG [HEK] and REV [HEK]
 d_AB = 0.417081850534
 s_AB = -0.776086216867
 
-15. Proteins: VIF [Jurkat] and VPR [Jurkat]
+54. Proteins: VIF [Jurkat] and VPR [Jurkat]
 d_AB = 0.375745526839
 s_AB = -0.774977600873
 
-16. Proteins: NC [Jurkat] and TAT [Jurkat]
+55. Proteins: NC [Jurkat] and TAT [Jurkat]
 d_AB = 0.427083333333
 s_AB = -0.771967872222
 
-17. Proteins: GAG [Jurkat] and REV [Jurkat]
+56. Proteins: GAG [Jurkat] and REV [Jurkat]
 d_AB = 0.407806191117
 s_AB = -0.764276906719
 
-18. Proteins: P6 [Jurkat] and REV [Jurkat]
+57. Proteins: P6 [Jurkat] and REV [Jurkat]
 d_AB = 0.446575342466
 s_AB = -0.761838104629
 
-19. Proteins: P6 [Jurkat] and VIF [Jurkat]
+58. Proteins: P6 [Jurkat] and VIF [Jurkat]
 d_AB = 0.412855377009
 s_AB = -0.753789586654
 
-20. Proteins: PR [HEK] and RT [HEK]
+59. Proteins: PR [HEK] and RT [HEK]
 d_AB = 0.424821002387
 s_AB = -0.752854582898
 
-21. Proteins: NC [Jurkat] and P6 [Jurkat]
+60. Proteins: NC [Jurkat] and P6 [Jurkat]
 d_AB = 0.462295081967
 s_AB = -0.75018169411
 
-22. Proteins: GAG [Jurkat] and TAT [Jurkat]
+61. Proteins: GAG [Jurkat] and TAT [Jurkat]
 d_AB = 0.419681620839
 s_AB = -0.746854594212
 
-23. Proteins: CA [Jurkat] and GAG [Jurkat]
+62. Proteins: CA [Jurkat] and GAG [Jurkat]
 d_AB = 0.415549597855
 s_AB = -0.745125536748
 
-24. Proteins: GAG [Jurkat] and VIF [Jurkat]
+63. Proteins: GAG [Jurkat] and VIF [Jurkat]
 d_AB = 0.385644768856
 s_AB = -0.744669845548
 
-25. Proteins: NEF [Jurkat] and VPR [Jurkat]
+64. Proteins: NEF [Jurkat] and VPR [Jurkat]
 d_AB = 0.446264073695
 s_AB = -0.740299780411
 
-26. Proteins: IN [HEK] and NEF [HEK]
+65. Proteins: IN [HEK] and NEF [HEK]
 d_AB = 0.472694717995
 s_AB = -0.737279009935
 
-27. Proteins: NC [Jurkat] and REV [Jurkat]
+66. Proteins: NC [Jurkat] and REV [Jurkat]
 d_AB = 0.468152866242
 s_AB = -0.736445222099
 
-28. Proteins: CA [Jurkat] and NEF [Jurkat]
+67. Proteins: CA [Jurkat] and NEF [Jurkat]
 d_AB = 0.448189762797
 s_AB = -0.735009276291
 
-29. Proteins: P6 [Jurkat] and TAT [Jurkat]
+68. Proteins: P6 [Jurkat] and TAT [Jurkat]
 d_AB = 0.47197640118
 s_AB = -0.73089016313
 
-30. Proteins: IN [Jurkat] and P6 [Jurkat]
+69. Proteins: IN [Jurkat] and P6 [Jurkat]
 d_AB = 0.490683229814
 s_AB = -0.730310059824
 
-31. Proteins: GAG [Jurkat] and NEF [Jurkat]
+70. Proteins: GAG [Jurkat] and NEF [Jurkat]
 d_AB = 0.43631778058
 s_AB = -0.729837560219
 
-32. Proteins: IN [HEK] and VIF [HEK]
+71. Proteins: IN [HEK] and VIF [HEK]
 d_AB = 0.419720767888
 s_AB = -0.729754756587
 
-33. Proteins: GP160 [HEK] and GP41 [HEK]
+72. Proteins: GP160 [HEK] and GP41 [HEK]
 d_AB = 0.546952224053
 s_AB = -0.729623965795
 
-34. Proteins: NEF [Jurkat] and RT [Jurkat]
+73. Proteins: NEF [Jurkat] and RT [Jurkat]
 d_AB = 0.475095785441
 s_AB = -0.727086974456
 
-35. Proteins: GAG [Jurkat] and NC [Jurkat]
+74. Proteins: GAG [Jurkat] and NC [Jurkat]
 d_AB = 0.45264847512
 s_AB = -0.723497951698
 
-36. Proteins: IN [Jurkat] and NC [Jurkat]
+75. Proteins: IN [Jurkat] and NC [Jurkat]
 d_AB = 0.494464944649
 s_AB = -0.722712986234
 
-37. Proteins: GAG [Jurkat] and RT [Jurkat]
+76. Proteins: GAG [Jurkat] and RT [Jurkat]
 d_AB = 0.45867768595
 s_AB = -0.720981169462
 
-38. Proteins: CA [Jurkat] and VIF [Jurkat]
+77. Proteins: CA [Jurkat] and VIF [Jurkat]
 d_AB = 0.428915662651
 s_AB = -0.718442650042
 
-39. Proteins: GAG [HEK] and TAT [HEK]
+78. Proteins: GAG [HEK] and TAT [HEK]
 d_AB = 0.465753424658
 s_AB = -0.715621518632
 
-40. Proteins: GAG [Jurkat] and IN [Jurkat]
+79. Proteins: GAG [Jurkat] and IN [Jurkat]
 d_AB = 0.471841704718
 s_AB = -0.712821235661
 
-41. Proteins: IN [Jurkat] and RT [Jurkat]
+80. Proteins: IN [Jurkat] and RT [Jurkat]
 d_AB = 0.51007751938
 s_AB = -0.710612840097
 
-42. Proteins: MA [Jurkat] and RT [Jurkat]
+81. Proteins: MA [Jurkat] and RT [Jurkat]
 d_AB = 0.497150997151
 s_AB = -0.709242864742
 
-43. Proteins: GP120 [HEK] and GP41 [HEK]
+82. Proteins: GP120 [HEK] and GP41 [HEK]
 d_AB = 0.56015037594
 s_AB = -0.708280198461
 
-44. Proteins: GAG [Jurkat] and MA [Jurkat]
+83. Proteins: GAG [Jurkat] and MA [Jurkat]
 d_AB = 0.463585434174
 s_AB = -0.706781008621
 
-45. Proteins: GP160 [Jurkat] and GP41 [Jurkat]
+84. Proteins: GP160 [Jurkat] and GP41 [Jurkat]
 d_AB = 0.539803707743
 s_AB = -0.698134304065
 
-46. Proteins: VIF [HEK] and VPU [HEK]
+85. Proteins: VIF [HEK] and VPU [HEK]
 d_AB = 0.492110453649
 s_AB = -0.695564371526
 
-47. Proteins: REV [Jurkat] and VIF [Jurkat]
+86. Proteins: REV [Jurkat] and VIF [Jurkat]
 d_AB = 0.464328899637
 s_AB = -0.694437376289
 
-48. Proteins: TAT [Jurkat] and VIF [Jurkat]
+87. Proteins: TAT [Jurkat] and VIF [Jurkat]
 d_AB = 0.45935483871
 s_AB = -0.693864554432
 
-49. Proteins: CA [Jurkat] and RT [Jurkat]
+88. Proteins: CA [Jurkat] and RT [Jurkat]
 d_AB = 0.50408719346
 s_AB = -0.69261536024
 
-50. Proteins: CA [Jurkat] and IN [Jurkat]
+89. Proteins: CA [Jurkat] and IN [Jurkat]
 d_AB = 0.50977443609
 s_AB = -0.691932202578
 
-51. Proteins: MA [Jurkat] and REV [Jurkat]
+90. Proteins: MA [Jurkat] and REV [Jurkat]
 d_AB = 0.511821974965
 s_AB = -0.686996129352
 
-52. Proteins: POL [HEK] and VIF [HEK]
+91. Proteins: POL [HEK] and VIF [HEK]
 d_AB = 0.461461461461
 s_AB = -0.685879139114
 
-53. Proteins: NCC [Jurkat] and REV [Jurkat]
+92. Proteins: NCC [Jurkat] and REV [Jurkat]
 d_AB = 0.512485136742
 s_AB = -0.68479716831
 
-54. Proteins: NEF [Jurkat] and TAT [Jurkat]
+93. Proteins: NEF [Jurkat] and TAT [Jurkat]
 d_AB = 0.505361930295
 s_AB = -0.683698189241
 
-55. Proteins: IN [Jurkat] and TAT [Jurkat]
+94. Proteins: IN [Jurkat] and TAT [Jurkat]
 d_AB = 0.524590163934
 s_AB = -0.682977555182
 
-56. Proteins: MA [Jurkat] and NC [Jurkat]
+95. Proteins: MA [Jurkat] and NC [Jurkat]
 d_AB = 0.520868113523
 s_AB = -0.682013319777
 
-57. Proteins: GP120 [Jurkat] and VIF [Jurkat]
+96. Proteins: GP120 [Jurkat] and VIF [Jurkat]
 d_AB = 0.465768799102
 s_AB = -0.681771193036
 
-58. Proteins: IN [Jurkat] and REV [Jurkat]
+97. Proteins: IN [Jurkat] and REV [Jurkat]
 d_AB = 0.536253776435
 s_AB = -0.676860825466
 
-59. Proteins: IN [Jurkat] and NEF [Jurkat]
+98. Proteins: IN [Jurkat] and NEF [Jurkat]
 d_AB = 0.532303370787
 s_AB = -0.674883474077
 
-60. Proteins: GAG [HEK] and NCC [Jurkat]
+99. Proteins: GAG [HEK] and NCC [Jurkat]
 d_AB = 0.517592592593
 s_AB = -0.673223311573
 
-61. Proteins: NC [Jurkat] and NCC [Jurkat]
+100. Proteins: NC [Jurkat] and NCC [Jurkat]
 d_AB = 0.53120665742
 s_AB = -0.670138976614
 
-62. Proteins: RT [Jurkat] and VIF [Jurkat]
+101. Proteins: RT [Jurkat] and VIF [Jurkat]
 d_AB = 0.496296296296
 s_AB = -0.670045737206
 
-63. Proteins: MA [Jurkat] and NEF [Jurkat]
+102. Proteins: MA [Jurkat] and NEF [Jurkat]
 d_AB = 0.525357607282
 s_AB = -0.667532739997
 
-64. Proteins: MA [Jurkat] and TAT [Jurkat]
+103. Proteins: MA [Jurkat] and TAT [Jurkat]
 d_AB = 0.526236881559
 s_AB = -0.667034339973
 
-65. Proteins: P6 [Jurkat] and VPR [Jurkat]
+104. Proteins: P6 [Jurkat] and VPR [Jurkat]
 d_AB = 0.534653465347
 s_AB = -0.665716833534
 
-66. Proteins: NEF [Jurkat] and REV [Jurkat]
+105. Proteins: NEF [Jurkat] and REV [Jurkat]
 d_AB = 0.53007518797
 s_AB = -0.664531814351
 
-67. Proteins: REV [Jurkat] and RT [Jurkat]
+106. Proteins: REV [Jurkat] and RT [Jurkat]
 d_AB = 0.544459644323
 s_AB = -0.663650872611
 
-68. Proteins: MA [Jurkat] and VIF [Jurkat]
+107. Proteins: MA [Jurkat] and VIF [Jurkat]
 d_AB = 0.494987468672
 s_AB = -0.662062152213
 
-69. Proteins: CA [HEK] and p6 [HEK]
+108. Proteins: CA [HEK] and p6 [HEK]
 d_AB = 0.81045751634
 s_AB = -0.661307834537
 
-70. Proteins: NEF [HEK] and VIF [HEK]
+109. Proteins: NEF [HEK] and VIF [HEK]
 d_AB = 0.529991047449
 s_AB = -0.658129533628
 
-71. Proteins: GP120 [Jurkat] and P6 [Jurkat]
+110. Proteins: GP120 [Jurkat] and P6 [Jurkat]
 d_AB = 0.540302267003
 s_AB = -0.656884896304
 
-72. Proteins: GP120 [Jurkat] and GP160 [Jurkat]
+111. Proteins: GP120 [Jurkat] and GP160 [Jurkat]
 d_AB = 0.550549450549
 s_AB = -0.653957747036
 
-73. Proteins: NCC [Jurkat] and P6 [Jurkat]
+112. Proteins: NCC [Jurkat] and P6 [Jurkat]
 d_AB = 0.552855407047
 s_AB = -0.652305585741
 
-74. Proteins: GP160 [Jurkat] and VPR [Jurkat]
+113. Proteins: GP160 [Jurkat] and VPR [Jurkat]
 d_AB = 0.558048780488
 s_AB = -0.649641552672
 
-75. Proteins: IN [Jurkat] and MA [Jurkat]
+114. Proteins: IN [Jurkat] and MA [Jurkat]
 d_AB = 0.563981042654
 s_AB = -0.647416904206
 
-76. Proteins: IN [HEK] and VPU [HEK]
+115. Proteins: IN [HEK] and VPU [HEK]
 d_AB = 0.563116370809
 s_AB = -0.646411601219
 
-77. Proteins: CA [Jurkat] and REV [Jurkat]
+116. Proteins: CA [Jurkat] and REV [Jurkat]
 d_AB = 0.544607190413
 s_AB = -0.644519605712
 
-78. Proteins: GP120 [Jurkat] and NEF [Jurkat]
+117. Proteins: GP120 [Jurkat] and NEF [Jurkat]
 d_AB = 0.539443155452
 s_AB = -0.643937563079
 
-79. Proteins: NC [Jurkat] and VIF [Jurkat]
+118. Proteins: NC [Jurkat] and VIF [Jurkat]
 d_AB = 0.51909476662
 s_AB = -0.643734838289
 
-80. Proteins: IN [Jurkat] and VIF [Jurkat]
+119. Proteins: IN [Jurkat] and VIF [Jurkat]
 d_AB = 0.527665317139
 s_AB = -0.64368080133
 
-81. Proteins: VIF [HEK] and VPR [HEK]
+120. Proteins: VIF [HEK] and VPR [HEK]
 d_AB = 0.550321199143
 s_AB = -0.642656656334
 
-82. Proteins: MA [HEK] and RT [HEK]
+121. Proteins: MA [HEK] and RT [HEK]
 d_AB = 0.546012269939
 s_AB = -0.641892447915
 
-83. Proteins: RT [Jurkat] and VPR [Jurkat]
+122. Proteins: RT [Jurkat] and VPR [Jurkat]
 d_AB = 0.561538461538
 s_AB = -0.638528907181
 
-84. Proteins: CA [Jurkat] and NC [Jurkat]
+123. Proteins: CA [Jurkat] and NC [Jurkat]
 d_AB = 0.556259904913
 s_AB = -0.636930220194
 
-85. Proteins: POL [HEK] and Pol [HEK]
+124. Proteins: POL [HEK] and Pol [HEK]
 d_AB = 0.523056653491
 s_AB = -0.636820063662
 
-86. Proteins: P6 [HEK] and p6 [HEK]
+125. Proteins: P6 [HEK] and p6 [HEK]
 d_AB = 0.654377880184
 s_AB = -0.635351803011
 
-87. Proteins: MA [Jurkat] and NCC [Jurkat]
+126. Proteins: MA [Jurkat] and NCC [Jurkat]
 d_AB = 0.560344827586
 s_AB = -0.635220822425
 
-88. Proteins: VPR [HEK] and VPU [HEK]
+127. Proteins: VPR [HEK] and VPU [HEK]
 d_AB = 0.618453865337
 s_AB = -0.634576437694
 
-89. Proteins: VPR [Jurkat] and VPU [Jurkat]
+128. Proteins: VPR [Jurkat] and VPU [Jurkat]
 d_AB = 0.549582947173
 s_AB = -0.633896037143
 
-90. Proteins: Pol [HEK] and VIF [HEK]
+129. Proteins: Pol [HEK] and VIF [HEK]
 d_AB = 0.506622516556
 s_AB = -0.633535977644
 
-91. Proteins: POL [Jurkat] and PR [Jurkat]
+130. Proteins: POL [Jurkat] and PR [Jurkat]
 d_AB = 0.539072847682
 s_AB = -0.630771908996
 
-92. Proteins: GAG [Jurkat] and VPR [Jurkat]
+131. Proteins: GAG [Jurkat] and VPR [Jurkat]
 d_AB = 0.533622559653
 s_AB = -0.630417389969
 
-93. Proteins: GP120 [Jurkat] and VPR [Jurkat]
+132. Proteins: GP120 [Jurkat] and VPR [Jurkat]
 d_AB = 0.550958627649
 s_AB = -0.630306699706
 
-94. Proteins: CA [Jurkat] and TAT [Jurkat]
+133. Proteins: CA [Jurkat] and TAT [Jurkat]
 d_AB = 0.555078683834
 s_AB = -0.628501229506
 
-95. Proteins: NC [Jurkat] and RT [Jurkat]
+134. Proteins: NC [Jurkat] and RT [Jurkat]
 d_AB = 0.584288052373
 s_AB = -0.627885793543
 
-96. Proteins: IN [HEK] and POL [HEK]
+135. Proteins: IN [HEK] and POL [HEK]
 d_AB = 0.541541541542
 s_AB = -0.627652205887
 
-97. Proteins: MA [Jurkat] and VPU [Jurkat]
+136. Proteins: MA [Jurkat] and VPU [Jurkat]
 d_AB = 0.562571756602
 s_AB = -0.627233720888
 
-98. Proteins: CA [Jurkat] and NCC [Jurkat]
+137. Proteins: CA [Jurkat] and NCC [Jurkat]
 d_AB = 0.561611374408
 s_AB = -0.624262967411
 
-99. Proteins: RT [Jurkat] and TAT [Jurkat]
+138. Proteins: RT [Jurkat] and TAT [Jurkat]
 d_AB = 0.578792341679
 s_AB = -0.62377129247
 
-100. Proteins: GP41 [Jurkat] and VPU [Jurkat]
+139. Proteins: GP41 [Jurkat] and VPU [Jurkat]
 d_AB = 0.590113285273
 s_AB = -0.623613377691
 
-101. Proteins: GP160 [HEK] and VPR [HEK]
+140. Proteins: GP160 [HEK] and VPR [HEK]
 d_AB = 0.623748211731
 s_AB = -0.623412555231
 
-102. Proteins: PR [HEK] and VIF [HEK]
+141. Proteins: PR [HEK] and VIF [HEK]
 d_AB = 0.539347408829
 s_AB = -0.620617626136
 
-103. Proteins: GAG [Jurkat] and GP120 [Jurkat]
+142. Proteins: GAG [Jurkat] and GP120 [Jurkat]
 d_AB = 0.541511771995
 s_AB = -0.619345042053
 
-104. Proteins: GP41 [HEK] and VPR [HEK]
+143. Proteins: GP41 [HEK] and VPR [HEK]
 d_AB = 0.670382165605
 s_AB = -0.617366590614
 
-105. Proteins: REV [Jurkat] and RT [HEK]
+144. Proteins: REV [Jurkat] and RT [HEK]
 d_AB = 0.564690026954
 s_AB = -0.617099091855
 
-106. Proteins: RT [HEK] and VIF [HEK]
+145. Proteins: RT [HEK] and VIF [HEK]
 d_AB = 0.528662420382
 s_AB = -0.616670507559
 
-107. Proteins: NEF [Jurkat] and VPU [Jurkat]
+146. Proteins: NEF [Jurkat] and VPU [Jurkat]
 d_AB = 0.569473684211
 s_AB = -0.616120691283
 
-108. Proteins: RT [Jurkat] and VPU [Jurkat]
+147. Proteins: RT [Jurkat] and VPU [Jurkat]
 d_AB = 0.583238958097
 s_AB = -0.615858932009
 
-109. Proteins: CA [Jurkat] and VPR [Jurkat]
+148. Proteins: CA [Jurkat] and VPR [Jurkat]
 d_AB = 0.565591397849
 s_AB = -0.615492250061
 
-110. Proteins: GAG [Jurkat] and NCC [Jurkat]
+149. Proteins: GAG [Jurkat] and NCC [Jurkat]
 d_AB = 0.555023923445
 s_AB = -0.613806720085
 
-111. Proteins: NEF [HEK] and VPU [HEK]
+150. Proteins: NEF [HEK] and VPU [HEK]
 d_AB = 0.635532994924
 s_AB = -0.612640033705
 
-112. Proteins: GP120 [HEK] and VPR [HEK]
+151. Proteins: GP120 [HEK] and VPR [HEK]
 d_AB = 0.626602564103
 s_AB = -0.612412587413
 
-113. Proteins: NCC [Jurkat] and TAT [Jurkat]
+152. Proteins: NCC [Jurkat] and TAT [Jurkat]
 d_AB = 0.580481622307
 s_AB = -0.611253799961
 
-114. Proteins: POL [HEK] and PR [HEK]
+153. Proteins: POL [HEK] and PR [HEK]
 d_AB = 0.568715083799
 s_AB = -0.61096817412
 
-115. Proteins: GP160 [Jurkat] and NEF [Jurkat]
+154. Proteins: GP160 [Jurkat] and NEF [Jurkat]
 d_AB = 0.600222717149
 s_AB = -0.609583007187
 
-116. Proteins: Pol [HEK] and VPU [HEK]
+155. Proteins: Pol [HEK] and VPU [HEK]
 d_AB = 0.595607235142
 s_AB = -0.604603706611
 
-117. Proteins: CA [Jurkat] and GP120 [Jurkat]
+156. Proteins: CA [Jurkat] and GP120 [Jurkat]
 d_AB = 0.576687116564
 s_AB = -0.601213395772
 
-118. Proteins: Pol [HEK] and VIF [Jurkat]
+157. Proteins: Pol [HEK] and VIF [Jurkat]
 d_AB = 0.533672172808
 s_AB = -0.601174028828
 
-119. Proteins: NC [HEK] and NCC [Jurkat]
+158. Proteins: NC [HEK] and NCC [Jurkat]
 d_AB = 0.596082089552
 s_AB = -0.600932835821
 
-120. Proteins: VIF [HEK] and VPR [Jurkat]
+159. Proteins: VIF [HEK] and VPR [Jurkat]
 d_AB = 0.556444444444
 s_AB = -0.599590975831
 
-121. Proteins: NC [Jurkat] and NEF [Jurkat]
+160. Proteins: NC [Jurkat] and NEF [Jurkat]
 d_AB = 0.600294985251
 s_AB = -0.598375346052
 
-122. Proteins: IN [HEK] and Pol [HEK]
+161. Proteins: IN [HEK] and Pol [HEK]
 d_AB = 0.567328918322
 s_AB = -0.594682722731
 
-123. Proteins: REV [Jurkat] and VPR [Jurkat]
+162. Proteins: REV [Jurkat] and VPR [Jurkat]
 d_AB = 0.59978425027
 s_AB = -0.592707360874
 
-124. Proteins: CA [Jurkat] and VPU [Jurkat]
+163. Proteins: CA [Jurkat] and VPU [Jurkat]
 d_AB = 0.590254706534
 s_AB = -0.589859462764
 
-125. Proteins: NEF [HEK] and POL [HEK]
+164. Proteins: NEF [HEK] and POL [HEK]
 d_AB = 0.618556701031
 s_AB = -0.589282102999
 
-126. Proteins: Pol [HEK] and VPR [HEK]
+165. Proteins: Pol [HEK] and VPR [HEK]
 d_AB = 0.618155619597
 s_AB = -0.587358352459
 
-127. Proteins: POL [HEK] and VPU [HEK]
+166. Proteins: POL [HEK] and VPU [HEK]
 d_AB = 0.620530565167
 s_AB = -0.586862482961
 
-128. Proteins: MA [Jurkat] and VPR [Jurkat]
+167. Proteins: MA [Jurkat] and VPR [Jurkat]
 d_AB = 0.604677060134
 s_AB = -0.586097895969
 
-129. Proteins: GP120 [Jurkat] and TAT [Jurkat]
+168. Proteins: GP120 [Jurkat] and TAT [Jurkat]
 d_AB = 0.598684210526
 s_AB = -0.585077382259
 
-130. Proteins: POL [HEK] and VPR [HEK]
+169. Proteins: POL [HEK] and VPR [HEK]
 d_AB = 0.627700127065
 s_AB = -0.584995951367
 
-131. Proteins: RT [HEK] and TAT [Jurkat]
+170. Proteins: RT [HEK] and TAT [Jurkat]
 d_AB = 0.591304347826
 s_AB = -0.584937888199
 
-132. Proteins: PR [HEK] and Pol [HEK]
+171. Proteins: PR [HEK] and Pol [HEK]
 d_AB = 0.589775561097
 s_AB = -0.582725590446
 
-133. Proteins: GP120 [HEK] and Pol [HEK]
+172. Proteins: GP120 [HEK] and Pol [HEK]
 d_AB = 0.603678929766
 s_AB = -0.582516860472
 
-134. Proteins: TAT [Jurkat] and VPR [Jurkat]
+173. Proteins: TAT [Jurkat] and VPR [Jurkat]
 d_AB = 0.604571428571
 s_AB = -0.582373299788
 
-135. Proteins: VIF [HEK] and VIF [Jurkat]
+174. Proteins: VIF [HEK] and VIF [Jurkat]
 d_AB = 0.54243902439
 s_AB = -0.579871060668
 
-136. Proteins: GP160 [HEK] and Pol [HEK]
+175. Proteins: GP160 [HEK] and Pol [HEK]
 d_AB = 0.615156017831
 s_AB = -0.579185387854
 
-137. Proteins: MA [HEK] and TAT [Jurkat]
+176. Proteins: MA [HEK] and TAT [Jurkat]
 d_AB = 0.622516556291
 s_AB = -0.578586919326
 
-138. Proteins: CA [Jurkat] and GP41 [Jurkat]
+177. Proteins: CA [Jurkat] and GP41 [Jurkat]
 d_AB = 0.633819951338
 s_AB = -0.57751137522
 
-139. Proteins: GP120 [Jurkat] and RT [Jurkat]
+178. Proteins: GP120 [Jurkat] and RT [Jurkat]
 d_AB = 0.620125786164
 s_AB = -0.576758446982
 
-140. Proteins: GP41 [Jurkat] and MA [Jurkat]
+179. Proteins: GP41 [Jurkat] and MA [Jurkat]
 d_AB = 0.644303797468
 s_AB = -0.576718837282
 
-141. Proteins: GP120 [Jurkat] and IN [Jurkat]
+180. Proteins: GP120 [Jurkat] and IN [Jurkat]
 d_AB = 0.628099173554
 s_AB = -0.573789144559
 
-142. Proteins: POL [Jurkat] and Pol [HEK]
+181. Proteins: POL [Jurkat] and Pol [HEK]
 d_AB = 0.576815642458
 s_AB = -0.571521191727
 
-143. Proteins: P6 [Jurkat] and VPU [Jurkat]
+182. Proteins: P6 [Jurkat] and VPU [Jurkat]
 d_AB = 0.628117913832
 s_AB = -0.571282906435
 
-144. Proteins: POL [HEK] and RT [HEK]
+183. Proteins: POL [HEK] and RT [HEK]
 d_AB = 0.594968553459
 s_AB = -0.570082597436
 
-145. Proteins: IN [HEK] and VPR [HEK]
+184. Proteins: IN [HEK] and VPR [HEK]
 d_AB = 0.645610278373
 s_AB = -0.569220723958
 
-146. Proteins: PR [Jurkat] and RT [Jurkat]
+185. Proteins: PR [Jurkat] and RT [Jurkat]
 d_AB = 0.63698630137
 s_AB = -0.568712063767
 
-147. Proteins: GP160 [HEK] and VPU [HEK]
+186. Proteins: GP160 [HEK] and VPU [HEK]
 d_AB = 0.673940949936
 s_AB = -0.567916786723
 
-148. Proteins: GP160 [Jurkat] and VIF [Jurkat]
+187. Proteins: GP160 [Jurkat] and VIF [Jurkat]
 d_AB = 0.606486486486
 s_AB = -0.567478511456
 
-149. Proteins: NCC [Jurkat] and VIF [Jurkat]
+188. Proteins: NCC [Jurkat] and VIF [Jurkat]
 d_AB = 0.590217391304
 s_AB = -0.565296430316
 
-150. Proteins: GP120 [Jurkat] and GP160 [HEK]
+189. Proteins: GP120 [Jurkat] and GP160 [HEK]
 d_AB = 0.642213642214
 s_AB = -0.564821553972
 
-151. Proteins: GP120 [Jurkat] and Pol [HEK]
+190. Proteins: GP120 [Jurkat] and Pol [HEK]
 d_AB = 0.60103626943
 s_AB = -0.56435213185
 
-152. Proteins: Pol [HEK] and RT [HEK]
+191. Proteins: Pol [HEK] and RT [HEK]
 d_AB = 0.594017094017
 s_AB = -0.563851950503
 
-153. Proteins: GP120 [Jurkat] and REV [Jurkat]
+192. Proteins: GP120 [Jurkat] and REV [Jurkat]
 d_AB = 0.62684729064
 s_AB = -0.562461184929
 
-154. Proteins: NEF [Jurkat] and Pol [HEK]
+193. Proteins: NEF [Jurkat] and Pol [HEK]
 d_AB = 0.609498680739
 s_AB = -0.561188247292
 
-155. Proteins: MA [HEK] and Pol [HEK]
+194. Proteins: MA [HEK] and Pol [HEK]
 d_AB = 0.621753246753
 s_AB = -0.560977037359
 
-156. Proteins: GP120 [Jurkat] and NC [Jurkat]
+195. Proteins: GP120 [Jurkat] and NC [Jurkat]
 d_AB = 0.632947976879
 s_AB = -0.560423827673
 
-157. Proteins: PR [HEK] and VPR [HEK]
+196. Proteins: PR [HEK] and VPR [HEK]
 d_AB = 0.665060240964
 s_AB = -0.560260271857
 
-158. Proteins: VPU [HEK] and VPU [Jurkat]
+197. Proteins: VPU [HEK] and VPU [Jurkat]
 d_AB = 0.655279503106
 s_AB = -0.55983888611
 
-159. Proteins: NEF [Jurkat] and VIF [HEK]
+198. Proteins: NEF [Jurkat] and VIF [HEK]
 d_AB = 0.599397590361
 s_AB = -0.558753221091
 
-160. Proteins: MA [HEK] and MA [Jurkat]
+199. Proteins: MA [HEK] and MA [Jurkat]
 d_AB = 0.647527910686
 s_AB = -0.557405792675
 
-161. Proteins: IN [Jurkat] and VPR [Jurkat]
+200. Proteins: IN [Jurkat] and VPR [Jurkat]
 d_AB = 0.648038049941
 s_AB = -0.557033403746
 
-162. Proteins: GP120 [HEK] and GP120 [Jurkat]
+201. Proteins: GP120 [HEK] and GP120 [Jurkat]
 d_AB = 0.64245014245
 s_AB = -0.556439438289
 
-163. Proteins: NEF [Jurkat] and PR [Jurkat]
+202. Proteins: NEF [Jurkat] and PR [Jurkat]
 d_AB = 0.636135508156
 s_AB = -0.556059342368
 
-164. Proteins: NCC [Jurkat] and REV [HEK]
+203. Proteins: NCC [Jurkat] and REV [HEK]
 d_AB = 0.64126984127
 s_AB = -0.555112172711
 
-165. Proteins: GAG [HEK] and REV [Jurkat]
+204. Proteins: GAG [HEK] and REV [Jurkat]
 d_AB = 0.639311043566
 s_AB = -0.554757314906
 
-166. Proteins: GP120 [Jurkat] and MA [Jurkat]
+205. Proteins: GP120 [Jurkat] and MA [Jurkat]
 d_AB = 0.634738186462
 s_AB = -0.552853634066
 
-167. Proteins: GP160 [HEK] and POL [HEK]
+206. Proteins: GP160 [HEK] and POL [HEK]
 d_AB = 0.649214659686
 s_AB = -0.552308852374
 
-168. Proteins: NEF [Jurkat] and POL [Jurkat]
+207. Proteins: NEF [Jurkat] and POL [Jurkat]
 d_AB = 0.614143920596
 s_AB = -0.552185230842
 
-169. Proteins: GP160 [HEK] and GP160 [Jurkat]
+208. Proteins: GP160 [HEK] and GP160 [Jurkat]
 d_AB = 0.681874229346
 s_AB = -0.551585972643
 
-170. Proteins: MA [HEK] and REV [Jurkat]
+209. Proteins: MA [HEK] and REV [Jurkat]
 d_AB = 0.655487804878
 s_AB = -0.551162553524
 
-171. Proteins: GP120 [Jurkat] and VPR [HEK]
+210. Proteins: GP120 [Jurkat] and VPR [HEK]
 d_AB = 0.667919799499
 s_AB = -0.550287963058
 
-172. Proteins: GP160 [Jurkat] and VPU [Jurkat]
+211. Proteins: GP160 [Jurkat] and VPU [Jurkat]
 d_AB = 0.657314629259
 s_AB = -0.549406225288
 
-173. Proteins: GP41 [HEK] and VPU [HEK]
+212. Proteins: GP41 [HEK] and VPU [HEK]
 d_AB = 0.733050847458
 s_AB = -0.549394878458
 
-174. Proteins: NEF [HEK] and VPR [HEK]
+213. Proteins: NEF [HEK] and VPR [HEK]
 d_AB = 0.704972375691
 s_AB = -0.548503683241
 
-175. Proteins: GP41 [HEK] and Pol [HEK]
+214. Proteins: GP41 [HEK] and Pol [HEK]
 d_AB = 0.687707641196
 s_AB = -0.547221753745
 
-176. Proteins: VIF [Jurkat] and VPU [Jurkat]
+215. Proteins: VIF [Jurkat] and VPU [Jurkat]
 d_AB = 0.603677221655
 s_AB = -0.546076427444
 
-177. Proteins: POL [Jurkat] and VIF [Jurkat]
+216. Proteins: POL [Jurkat] and VIF [Jurkat]
 d_AB = 0.584431137725
 s_AB = -0.546057287319
 
-178. Proteins: GP120 [Jurkat] and VIF [HEK]
+217. Proteins: GP120 [Jurkat] and VIF [HEK]
 d_AB = 0.606930693069
 s_AB = -0.545921591632
 
-179. Proteins: VPR [HEK] and VPR [Jurkat]
+218. Proteins: VPR [HEK] and VPR [Jurkat]
 d_AB = 0.675794085433
 s_AB = -0.545596812699
 
-180. Proteins: GP41 [Jurkat] and NEF [Jurkat]
+219. Proteins: GP41 [Jurkat] and NEF [Jurkat]
 d_AB = 0.672036823936
 s_AB = -0.544774708818
 
-181. Proteins: Pol [HEK] and TAT [Jurkat]
+220. Proteins: Pol [HEK] and TAT [Jurkat]
 d_AB = 0.626524390244
 s_AB = -0.54454341204
 
-182. Proteins: RT [HEK] and VPR [HEK]
+221. Proteins: RT [HEK] and VPR [HEK]
 d_AB = 0.668493150685
 s_AB = -0.542195255112
 
-183. Proteins: GP160 [HEK] and VIF [HEK]
+222. Proteins: GP160 [HEK] and VIF [HEK]
 d_AB = 0.643249176729
 s_AB = -0.538556112377
 
-184. Proteins: GP120 [Jurkat] and GP41 [Jurkat]
+223. Proteins: GP120 [Jurkat] and GP41 [Jurkat]
 d_AB = 0.67610419026
 s_AB = -0.535408815742
 
-185. Proteins: IN [Jurkat] and NCC [Jurkat]
+224. Proteins: IN [Jurkat] and NCC [Jurkat]
 d_AB = 0.676821192053
 s_AB = -0.533040955542
 
-186. Proteins: RT [HEK] and VPU [HEK]
+225. Proteins: RT [HEK] and VPU [HEK]
 d_AB = 0.672839506173
 s_AB = -0.532545869321
 
-187. Proteins: P6 [Jurkat] and Pol [HEK]
+226. Proteins: P6 [Jurkat] and Pol [HEK]
 d_AB = 0.653623188406
 s_AB = -0.530870184399
 
-188. Proteins: Pol [HEK] and VPR [Jurkat]
+227. Proteins: Pol [HEK] and VPR [Jurkat]
 d_AB = 0.639233370913
 s_AB = -0.529338165941
 
-189. Proteins: NCC [Jurkat] and NEF [Jurkat]
+228. Proteins: NCC [Jurkat] and NEF [Jurkat]
 d_AB = 0.662177328844
 s_AB = -0.529177219171
 
-190. Proteins: MA [HEK] and P6 [HEK]
+229. Proteins: MA [HEK] and P6 [HEK]
 d_AB = 0.684863523573
 s_AB = -0.528957471679
 
-191. Proteins: GP41 [Jurkat] and RT [Jurkat]
+230. Proteins: GP41 [Jurkat] and RT [Jurkat]
 d_AB = 0.701995012469
 s_AB = -0.528320034898
 
-192. Proteins: NC [Jurkat] and VPR [Jurkat]
+231. Proteins: NC [Jurkat] and VPR [Jurkat]
 d_AB = 0.669144981413
 s_AB = -0.527409958714
 
-193. Proteins: IN [HEK] and PR [HEK]
+232. Proteins: IN [HEK] and PR [HEK]
 d_AB = 0.654510556622
 s_AB = -0.527307625196
 
-194. Proteins: P6 [Jurkat] and RT [HEK]
+233. Proteins: P6 [Jurkat] and RT [HEK]
 d_AB = 0.662983425414
 s_AB = -0.526684381132
 
-195. Proteins: GP120 [HEK] and VPU [HEK]
+234. Proteins: GP120 [HEK] and VPU [HEK]
 d_AB = 0.707386363636
 s_AB = -0.526325757576
 
-196. Proteins: MA [HEK] and NC [Jurkat]
+235. Proteins: MA [HEK] and NC [Jurkat]
 d_AB = 0.684701492537
 s_AB = -0.526012194848
 
-197. Proteins: IN [Jurkat] and Pol [HEK]
+236. Proteins: IN [Jurkat] and Pol [HEK]
 d_AB = 0.663987138264
 s_AB = -0.525207389348
 
-198. Proteins: IN [HEK] and VPR [Jurkat]
+237. Proteins: IN [HEK] and VPR [Jurkat]
 d_AB = 0.653333333333
 s_AB = -0.524555233796
 
-199. Proteins: NEF [HEK] and PR [HEK]
+238. Proteins: NEF [HEK] and PR [HEK]
 d_AB = 0.696939782823
 s_AB = -0.523523455596
 
-200. Proteins: VIF [HEK] and VPU [Jurkat]
+239. Proteins: VIF [HEK] and VPU [Jurkat]
 d_AB = 0.632058287796
 s_AB = -0.523007653867
 
-201. Proteins: VPR [Jurkat] and VPU [HEK]
+240. Proteins: VPR [Jurkat] and VPU [HEK]
 d_AB = 0.693856998993
 s_AB = -0.522230868835
 
-202. Proteins: P6 [Jurkat] and PR [Jurkat]
+241. Proteins: P6 [Jurkat] and PR [Jurkat]
 d_AB = 0.684499314129
 s_AB = -0.521501981169
 
-203. Proteins: GAG [HEK] and TAT [Jurkat]
+242. Proteins: GAG [HEK] and TAT [Jurkat]
 d_AB = 0.668449197861
 s_AB = -0.520072277826
 
-204. Proteins: GP160 [Jurkat] and POL [Jurkat]
+243. Proteins: GP160 [Jurkat] and POL [Jurkat]
 d_AB = 0.667447306792
 s_AB = -0.520008323699
 
-205. Proteins: PR [HEK] and PR [Jurkat]
+244. Proteins: PR [HEK] and PR [Jurkat]
 d_AB = 0.674197384067
 s_AB = -0.519811689969
 
-206. Proteins: RT [HEK] and VIF [Jurkat]
+245. Proteins: RT [HEK] and VIF [Jurkat]
 d_AB = 0.623629719854
 s_AB = -0.516390915524
 
-207. Proteins: PR [Jurkat] and VIF [Jurkat]
+246. Proteins: PR [Jurkat] and VIF [Jurkat]
 d_AB = 0.640435835351
 s_AB = -0.515918288778
 
-208. Proteins: NC [Jurkat] and Pol [HEK]
+247. Proteins: NC [Jurkat] and Pol [HEK]
 d_AB = 0.664965986395
 s_AB = -0.515712027656
 
-209. Proteins: NEF [Jurkat] and VPU [HEK]
+248. Proteins: NEF [Jurkat] and VPU [HEK]
 d_AB = 0.702546296296
 s_AB = -0.515656962709
 
-210. Proteins: NEF [Jurkat] and VPR [HEK]
+249. Proteins: NEF [Jurkat] and VPR [HEK]
 d_AB = 0.707908163265
 s_AB = -0.515598126043
 
-211. Proteins: GP160 [Jurkat] and RT [Jurkat]
+250. Proteins: GP160 [Jurkat] and RT [Jurkat]
 d_AB = 0.708784596871
 s_AB = -0.514524642079
 
-212. Proteins: GP160 [HEK] and IN [HEK]
+251. Proteins: GP160 [HEK] and IN [HEK]
 d_AB = 0.689352360044
 s_AB = -0.514306075915
 
-213. Proteins: GP41 [Jurkat] and VPR [Jurkat]
+252. Proteins: GP41 [Jurkat] and VPR [Jurkat]
 d_AB = 0.700400801603
 s_AB = -0.514295339974
 
-214. Proteins: POL [Jurkat] and VPR [Jurkat]
+253. Proteins: POL [Jurkat] and VPR [Jurkat]
 d_AB = 0.650267379679
 s_AB = -0.513946380581
 
-215. Proteins: GP41 [Jurkat] and P6 [Jurkat]
+254. Proteins: GP41 [Jurkat] and P6 [Jurkat]
 d_AB = 0.717852684145
 s_AB = -0.512765293383
 
-216. Proteins: REV [Jurkat] and VPU [Jurkat]
+255. Proteins: REV [Jurkat] and VPU [Jurkat]
 d_AB = 0.678888888889
 s_AB = -0.512633243642
 
-217. Proteins: MA [Jurkat] and RT [HEK]
+256. Proteins: MA [Jurkat] and RT [HEK]
 d_AB = 0.667601683029
 s_AB = -0.512470780739
 
-218. Proteins: VIF [Jurkat] and VPR [HEK]
+257. Proteins: VIF [Jurkat] and VPR [HEK]
 d_AB = 0.675276752768
 s_AB = -0.512388810146
 
-219. Proteins: GAG [HEK] and VIF [HEK]
+258. Proteins: GAG [HEK] and VIF [HEK]
 d_AB = 0.646166807077
 s_AB = -0.511445360527
 
-220. Proteins: GP160 [Jurkat] and P6 [Jurkat]
+259. Proteins: GP160 [Jurkat] and P6 [Jurkat]
 d_AB = 0.712560386473
 s_AB = -0.511051782637
 
-221. Proteins: MA [HEK] and VPU [HEK]
+260. Proteins: MA [HEK] and VPU [HEK]
 d_AB = 0.720994475138
 s_AB = -0.509252139949
 
-222. Proteins: MA [HEK] and P6 [Jurkat]
+261. Proteins: MA [HEK] and P6 [Jurkat]
 d_AB = 0.705329153605
 s_AB = -0.509199892534
 
-223. Proteins: PR [HEK] and VPU [HEK]
+262. Proteins: PR [HEK] and VPU [HEK]
 d_AB = 0.710989010989
 s_AB = -0.509028471528
 
-224. Proteins: IN [Jurkat] and PR [Jurkat]
+263. Proteins: IN [Jurkat] and PR [Jurkat]
 d_AB = 0.701966717095
 s_AB = -0.508735733009
 
-225. Proteins: POL [Jurkat] and RT [Jurkat]
+264. Proteins: POL [Jurkat] and RT [Jurkat]
 d_AB = 0.671177266576
 s_AB = -0.508655399474
 
-226. Proteins: IN [HEK] and VPU [Jurkat]
+265. Proteins: IN [HEK] and VPU [Jurkat]
 d_AB = 0.668488160291
 s_AB = -0.508430928225
 
-227. Proteins: NCC [Jurkat] and RT [Jurkat]
+266. Proteins: NCC [Jurkat] and RT [Jurkat]
 d_AB = 0.696601941748
 s_AB = -0.50825612088
 
-228. Proteins: RT [Jurkat] and VPU [HEK]
+267. Proteins: RT [Jurkat] and VPU [HEK]
 d_AB = 0.723964868256
 s_AB = -0.507741905363
 
-229. Proteins: GP120 [Jurkat] and VPU [Jurkat]
+268. Proteins: GP120 [Jurkat] and VPU [Jurkat]
 d_AB = 0.673236514523
 s_AB = -0.507059334219
 
-230. Proteins: NEF [Jurkat] and PR [HEK]
+269. Proteins: NEF [Jurkat] and PR [HEK]
 d_AB = 0.686098654709
 s_AB = -0.504394814087
 
-231. Proteins: PR [HEK] and VIF [Jurkat]
+270. Proteins: PR [HEK] and VIF [Jurkat]
 d_AB = 0.651465798046
 s_AB = -0.503186944355
 
-232. Proteins: PR [HEK] and REV [Jurkat]
+271. Proteins: PR [HEK] and REV [Jurkat]
 d_AB = 0.694774346793
 s_AB = -0.50164687904
 
-233. Proteins: NEF [Jurkat] and RT [HEK]
+272. Proteins: NEF [Jurkat] and RT [HEK]
 d_AB = 0.674242424242
 s_AB = -0.50161893753
 
-234. Proteins: GP41 [HEK] and RT [HEK]
+273. Proteins: GP41 [HEK] and RT [HEK]
 d_AB = 0.738993710692
 s_AB = -0.501110117991
 
-235. Proteins: MA [HEK] and PR [HEK]
+274. Proteins: MA [HEK] and PR [HEK]
 d_AB = 0.702127659574
 s_AB = -0.500409165303
 
-236. Proteins: P6 [Jurkat] and POL [Jurkat]
+275. Proteins: P6 [Jurkat] and POL [Jurkat]
 d_AB = 0.680216802168
 s_AB = -0.499918794044
 
-237. Proteins: GP120 [Jurkat] and GP41 [HEK]
+276. Proteins: GP120 [Jurkat] and GP41 [HEK]
 d_AB = 0.747875354108
 s_AB = -0.499747831335
 
-238. Proteins: Pol [HEK] and RT [Jurkat]
+277. Proteins: Pol [HEK] and RT [Jurkat]
 d_AB = 0.685962373372
 s_AB = -0.498228069272
 
-239. Proteins: VIF [Jurkat] and VPU [HEK]
+278. Proteins: VIF [Jurkat] and VPU [HEK]
 d_AB = 0.684210526316
 s_AB = -0.498152006295
 
-240. Proteins: NC [Jurkat] and RT [HEK]
+279. Proteins: NC [Jurkat] and RT [HEK]
 d_AB = 0.688102893891
 s_AB = -0.497749553901
 
-241. Proteins: MA [Jurkat] and PR [Jurkat]
+280. Proteins: MA [Jurkat] and PR [Jurkat]
 d_AB = 0.699164345404
 s_AB = -0.497241607116
 
-242. Proteins: Pol [HEK] and REV [Jurkat]
+281. Proteins: Pol [HEK] and REV [Jurkat]
 d_AB = 0.679378531073
 s_AB = -0.497236153995
 
-243. Proteins: GP120 [HEK] and GP160 [Jurkat]
+282. Proteins: GP120 [HEK] and GP160 [Jurkat]
 d_AB = 0.728260869565
 s_AB = -0.497053716978
 
-244. Proteins: CA [Jurkat] and GP160 [Jurkat]
+283. Proteins: CA [Jurkat] and GP160 [Jurkat]
 d_AB = 0.70789163722
 s_AB = -0.49643388092
 
-245. Proteins: GP120 [Jurkat] and POL [Jurkat]
+284. Proteins: GP120 [Jurkat] and POL [Jurkat]
 d_AB = 0.664634146341
 s_AB = -0.496396478345
 
-246. Proteins: REV [Jurkat] and VIF [HEK]
+285. Proteins: REV [Jurkat] and VIF [HEK]
 d_AB = 0.668076109937
 s_AB = -0.496002458554
 
-247. Proteins: GAG [Jurkat] and RT [HEK]
+286. Proteins: GAG [Jurkat] and RT [HEK]
 d_AB = 0.658073270014
 s_AB = -0.495264187274
 
-248. Proteins: NEF [HEK] and VPR [Jurkat]
+287. Proteins: NEF [HEK] and VPR [Jurkat]
 d_AB = 0.721715328467
 s_AB = -0.494818295263
 
-249. Proteins: MA [Jurkat] and Pol [HEK]
+288. Proteins: MA [Jurkat] and Pol [HEK]
 d_AB = 0.680412371134
 s_AB = -0.494485658893
 
-250. Proteins: RT [HEK] and RT [Jurkat]
+289. Proteins: RT [HEK] and RT [Jurkat]
 d_AB = 0.696551724138
 s_AB = -0.492813152247
 
-251. Proteins: IN [Jurkat] and POL [Jurkat]
+290. Proteins: IN [Jurkat] and POL [Jurkat]
 d_AB = 0.692537313433
 s_AB = -0.492299437585
 
-252. Proteins: GP120 [Jurkat] and NCC [Jurkat]
+291. Proteins: GP120 [Jurkat] and NCC [Jurkat]
 d_AB = 0.693922651934
 s_AB = -0.49213336933
 
-253. Proteins: GAG [Jurkat] and VPU [Jurkat]
+292. Proteins: GAG [Jurkat] and VPU [Jurkat]
 d_AB = 0.671508379888
 s_AB = -0.491562091121
 
-254. Proteins: GP160 [HEK] and RT [HEK]
+293. Proteins: GP160 [HEK] and RT [HEK]
 d_AB = 0.708628005658
 s_AB = -0.490887833768
 
-255. Proteins: GP160 [Jurkat] and NEF [HEK]
+294. Proteins: GP160 [Jurkat] and NEF [HEK]
 d_AB = 0.749262536873
 s_AB = -0.490512957087
 
-256. Proteins: GP120 [Jurkat] and VPU [HEK]
+295. Proteins: GP120 [Jurkat] and VPU [HEK]
 d_AB = 0.723234624146
 s_AB = -0.489670108108
 
-257. Proteins: PR [HEK] and TAT [Jurkat]
+296. Proteins: PR [HEK] and TAT [Jurkat]
 d_AB = 0.701265822785
 s_AB = -0.489608520263
 
-258. Proteins: IN [HEK] and NEF [Jurkat]
+297. Proteins: IN [HEK] and NEF [Jurkat]
 d_AB = 0.691767068273
 s_AB = -0.488236890033
 
-259. Proteins: GP160 [Jurkat] and MA [Jurkat]
+298. Proteins: GP160 [Jurkat] and MA [Jurkat]
 d_AB = 0.72582619339
 s_AB = -0.488190632942
 
-260. Proteins: POL [Jurkat] and VPU [Jurkat]
+299. Proteins: POL [Jurkat] and VPU [Jurkat]
 d_AB = 0.675110132159
 s_AB = -0.488134149489
 
-261. Proteins: NCC [Jurkat] and TAT [HEK]
+300. Proteins: NCC [Jurkat] and TAT [HEK]
 d_AB = 0.696577946768
 s_AB = -0.488010943102
 
-262. Proteins: GP120 [Jurkat] and RT [HEK]
+301. Proteins: GP120 [Jurkat] and RT [HEK]
 d_AB = 0.683622828784
 s_AB = -0.486940006237
 
-263. Proteins: PR [Jurkat] and VPR [Jurkat]
+302. Proteins: PR [Jurkat] and VPR [Jurkat]
 d_AB = 0.704103671706
 s_AB = -0.485975787641
 
-264. Proteins: TAT [HEK] and VIF [HEK]
+303. Proteins: TAT [HEK] and VIF [HEK]
 d_AB = 0.665961945032
 s_AB = -0.485423208277
 
-265. Proteins: GAG [Jurkat] and Pol [HEK]
+304. Proteins: GAG [Jurkat] and Pol [HEK]
 d_AB = 0.662873399716
 s_AB = -0.485289623831
 
-266. Proteins: GP160 [Jurkat] and IN [Jurkat]
+305. Proteins: GP160 [Jurkat] and IN [Jurkat]
 d_AB = 0.743421052632
 s_AB = -0.484892271286
 
-267. Proteins: GP120 [HEK] and VIF [HEK]
+306. Proteins: GP120 [HEK] and VIF [HEK]
 d_AB = 0.688995215311
 s_AB = -0.484664458349
 
-268. Proteins: TAT [Jurkat] and VIF [HEK]
+307. Proteins: TAT [Jurkat] and VIF [HEK]
 d_AB = 0.674496644295
 s_AB = -0.48403504141
 
-269. Proteins: GP160 [HEK] and VIF [Jurkat]
+308. Proteins: GP160 [HEK] and VIF [Jurkat]
 d_AB = 0.693181818182
 s_AB = -0.48331117836
 
-270. Proteins: IN [Jurkat] and VPU [Jurkat]
+309. Proteins: IN [Jurkat] and VPU [Jurkat]
 d_AB = 0.72113022113
 s_AB = -0.482971753944
 
-271. Proteins: GAG [HEK] and RT [HEK]
+310. Proteins: GAG [HEK] and RT [HEK]
 d_AB = 0.692777212614
 s_AB = -0.482545505309
 
-272. Proteins: GP120 [HEK] and RT [HEK]
+311. Proteins: GP120 [HEK] and RT [HEK]
 d_AB = 0.708860759494
 s_AB = -0.482509464485
 
-273. Proteins: MA [HEK] and VPR [HEK]
+312. Proteins: MA [HEK] and VPR [HEK]
 d_AB = 0.753105590062
 s_AB = -0.482444055328
 
-274. Proteins: POL [HEK] and VIF [Jurkat]
+313. Proteins: POL [HEK] and VIF [Jurkat]
 d_AB = 0.661731207289
 s_AB = -0.480297100723
 
-275. Proteins: GAG [HEK] and MA [HEK]
+314. Proteins: GAG [HEK] and MA [HEK]
 d_AB = 0.720178372352
 s_AB = -0.480005585164
 
-276. Proteins: NEF [HEK] and Pol [HEK]
+315. Proteins: NEF [HEK] and Pol [HEK]
 d_AB = 0.721778791334
 s_AB = -0.47887790632
 
-277. Proteins: PR [HEK] and VPR [Jurkat]
+316. Proteins: PR [HEK] and VPR [Jurkat]
 d_AB = 0.711067580803
 s_AB = -0.477310496815
 
-278. Proteins: GAG [HEK] and VIF [Jurkat]
+317. Proteins: GAG [HEK] and VIF [Jurkat]
 d_AB = 0.675422138837
 s_AB = -0.476877736203
 
-279. Proteins: GP120 [HEK] and NEF [Jurkat]
+318. Proteins: GP120 [HEK] and NEF [Jurkat]
 d_AB = 0.728197674419
 s_AB = -0.475990433071
 
-280. Proteins: MA [Jurkat] and POL [Jurkat]
+319. Proteins: MA [Jurkat] and POL [Jurkat]
 d_AB = 0.694635488308
 s_AB = -0.475904765125
 
-281. Proteins: GP41 [HEK] and MA [HEK]
+320. Proteins: GP41 [HEK] and MA [HEK]
 d_AB = 0.789090909091
 s_AB = -0.475874159185
 
-282. Proteins: IN [HEK] and RT [HEK]
+321. Proteins: IN [HEK] and RT [HEK]
 d_AB = 0.692144373673
 s_AB = -0.475041701122
 
-283. Proteins: GP41 [HEK] and VIF [HEK]
+322. Proteins: GP41 [HEK] and VIF [HEK]
 d_AB = 0.747619047619
 s_AB = -0.474774230744
 
-284. Proteins: PR [HEK] and RT [Jurkat]
+323. Proteins: PR [HEK] and RT [Jurkat]
 d_AB = 0.729696969697
 s_AB = -0.474300013712
 
-285. Proteins: RT [Jurkat] and VPR [HEK]
+324. Proteins: RT [Jurkat] and VPR [HEK]
 d_AB = 0.76290097629
 s_AB = -0.474108827631
 
-286. Proteins: MA [HEK] and VIF [HEK]
+325. Proteins: MA [HEK] and VIF [HEK]
 d_AB = 0.696261682243
 s_AB = -0.473932485292
 
-287. Proteins: NEF [HEK] and VPU [Jurkat]
+326. Proteins: NEF [HEK] and VPU [Jurkat]
 d_AB = 0.741814780168
 s_AB = -0.473749364949
 
-288. Proteins: REV [Jurkat] and VPU [HEK]
+327. Proteins: REV [Jurkat] and VPU [HEK]
 d_AB = 0.750614250614
 s_AB = -0.473516765429
 
-289. Proteins: GAG [HEK] and GAG [Jurkat]
+328. Proteins: GAG [HEK] and GAG [Jurkat]
 d_AB = 0.692464358452
 s_AB = -0.473152338498
 
-290. Proteins: GP41 [HEK] and IN [HEK]
+329. Proteins: GP41 [HEK] and IN [HEK]
 d_AB = 0.771428571429
 s_AB = -0.472817853788
 
-291. Proteins: PR [Jurkat] and VPU [Jurkat]
+330. Proteins: PR [Jurkat] and VPU [Jurkat]
 d_AB = 0.716351501669
 s_AB = -0.472758479065
 
-292. Proteins: GAG [HEK] and NC [Jurkat]
+331. Proteins: GAG [HEK] and NC [Jurkat]
 d_AB = 0.725490196078
 s_AB = -0.472641491376
 
-293. Proteins: TAT [Jurkat] and VPU [Jurkat]
+332. Proteins: TAT [Jurkat] and VPU [Jurkat]
 d_AB = 0.713443396226
 s_AB = -0.47253185352
 
-294. Proteins: GP120 [HEK] and POL [HEK]
+333. Proteins: GP120 [HEK] and POL [HEK]
 d_AB = 0.721335268505
 s_AB = -0.472042628108
 
-295. Proteins: TAT [Jurkat] and VPR [HEK]
+334. Proteins: TAT [Jurkat] and VPR [HEK]
 d_AB = 0.75219941349
 s_AB = -0.471687750071
 
-296. Proteins: PR [Jurkat] and Pol [HEK]
+335. Proteins: PR [Jurkat] and Pol [HEK]
 d_AB = 0.70297029703
 s_AB = -0.471232236242
 
-297. Proteins: GP160 [Jurkat] and Pol [HEK]
+336. Proteins: GP160 [Jurkat] and Pol [HEK]
 d_AB = 0.720843672457
 s_AB = -0.470969734628
 
-298. Proteins: TAT [Jurkat] and VPU [HEK]
+337. Proteins: TAT [Jurkat] and VPU [HEK]
 d_AB = 0.748031496063
 s_AB = -0.470552637195
 
-299. Proteins: Pol [HEK] and VPU [Jurkat]
+338. Proteins: Pol [HEK] and VPU [Jurkat]
 d_AB = 0.697674418605
 s_AB = -0.469927639636
 
-300. Proteins: NCC [Jurkat] and VPR [Jurkat]
+339. Proteins: NCC [Jurkat] and VPR [Jurkat]
 d_AB = 0.719607843137
 s_AB = -0.469631313701
 
-301. Proteins: GP160 [Jurkat] and VIF [HEK]
+340. Proteins: GP160 [Jurkat] and VIF [HEK]
 d_AB = 0.709770114943
 s_AB = -0.469507175564
 
-302. Proteins: P6 [Jurkat] and VIF [HEK]
+341. Proteins: P6 [Jurkat] and VIF [HEK]
 d_AB = 0.702586206897
 s_AB = -0.46937104933
 
-303. Proteins: MA [HEK] and POL [HEK]
+342. Proteins: MA [HEK] and POL [HEK]
 d_AB = 0.720733427362
 s_AB = -0.469178963126
 
-304. Proteins: GAG [Jurkat] and GP160 [Jurkat]
+343. Proteins: GAG [Jurkat] and GP160 [Jurkat]
 d_AB = 0.718192627824
 s_AB = -0.469089192028
 
-305. Proteins: GP120 [HEK] and RT [Jurkat]
+344. Proteins: GP120 [HEK] and RT [Jurkat]
 d_AB = 0.748792270531
 s_AB = -0.468899351572
 
-306. Proteins: GP120 [HEK] and VIF [Jurkat]
+345. Proteins: GP120 [HEK] and VIF [Jurkat]
 d_AB = 0.700139470014
 s_AB = -0.468207911082
 
-307. Proteins: GP160 [HEK] and VPR [Jurkat]
+346. Proteins: GP160 [HEK] and VPR [Jurkat]
 d_AB = 0.742152466368
 s_AB = -0.468065865392
 
-308. Proteins: NC [HEK] and REV [Jurkat]
+347. Proteins: NC [HEK] and REV [Jurkat]
 d_AB = 0.732379979571
 s_AB = -0.467887400108
 
-309. Proteins: GP120 [Jurkat] and IN [HEK]
+348. Proteins: GP120 [Jurkat] and IN [HEK]
 d_AB = 0.706930693069
 s_AB = -0.467774738485
 
-310. Proteins: IN [HEK] and VIF [Jurkat]
+349. Proteins: IN [HEK] and VIF [Jurkat]
 d_AB = 0.677073170732
 s_AB = -0.46709006118
 
-311. Proteins: RT [Jurkat] and VIF [HEK]
+350. Proteins: RT [Jurkat] and VIF [HEK]
 d_AB = 0.705059203445
 s_AB = -0.466595122622
 
-312. Proteins: NEF [HEK] and RT [HEK]
+351. Proteins: NEF [HEK] and RT [HEK]
 d_AB = 0.739320920044
 s_AB = -0.466510211352
 
-313. Proteins: P6 [Jurkat] and VPR [HEK]
+352. Proteins: P6 [Jurkat] and VPR [HEK]
 d_AB = 0.77094972067
 s_AB = -0.466363013412
 
-314. Proteins: GAG [HEK] and P6 [Jurkat]
+353. Proteins: GAG [HEK] and P6 [Jurkat]
 d_AB = 0.735810113519
 s_AB = -0.466136932689
 
-315. Proteins: GP160 [HEK] and NEF [HEK]
+354. Proteins: GP160 [HEK] and NEF [HEK]
 d_AB = 0.777777777778
 s_AB = -0.464525714782
 
-316. Proteins: POL [Jurkat] and TAT [Jurkat]
+355. Proteins: POL [Jurkat] and TAT [Jurkat]
 d_AB = 0.703125
 s_AB = -0.46358502569
 
-317. Proteins: GAG [Jurkat] and MA [HEK]
+356. Proteins: GAG [Jurkat] and MA [HEK]
 d_AB = 0.715821812596
 s_AB = -0.462376884285
 
-318. Proteins: GP120 [Jurkat] and PR [HEK]
+357. Proteins: GP120 [Jurkat] and PR [HEK]
 d_AB = 0.724061810155
 s_AB = -0.46113313189
 
-319. Proteins: GP160 [HEK] and GP41 [Jurkat]
+358. Proteins: GP160 [HEK] and GP41 [Jurkat]
 d_AB = 0.779336734694
 s_AB = -0.461129275713
 
-320. Proteins: GP120 [Jurkat] and POL [HEK]
+359. Proteins: GP120 [Jurkat] and POL [HEK]
 d_AB = 0.71147161066
 s_AB = -0.461098896995
 
-321. Proteins: GP160 [HEK] and MA [HEK]
+360. Proteins: GP160 [HEK] and MA [HEK]
 d_AB = 0.763285024155
 s_AB = -0.461092054864
 
-322. Proteins: GP160 [HEK] and PR [HEK]
+361. Proteins: GP160 [HEK] and PR [HEK]
 d_AB = 0.753407682776
 s_AB = -0.460740263673
 
-323. Proteins: GP160 [HEK] and P6 [Jurkat]
+362. Proteins: GP160 [HEK] and P6 [Jurkat]
 d_AB = 0.765467625899
 s_AB = -0.460672541811
 
-324. Proteins: POL [HEK] and POL [Jurkat]
+363. Proteins: POL [HEK] and POL [Jurkat]
 d_AB = 0.695167286245
 s_AB = -0.460351654315
 
-325. Proteins: GP120 [HEK] and PR [HEK]
+364. Proteins: GP120 [HEK] and PR [HEK]
 d_AB = 0.745901639344
 s_AB = -0.460100691658
 
-326. Proteins: GP41 [Jurkat] and VIF [Jurkat]
+365. Proteins: GP41 [Jurkat] and VIF [Jurkat]
 d_AB = 0.721603563474
 s_AB = -0.459367242885
 
-327. Proteins: NEF [HEK] and NEF [Jurkat]
+366. Proteins: NEF [HEK] and NEF [Jurkat]
 d_AB = 0.759545923633
 s_AB = -0.459103091274
 
-328. Proteins: CA [Jurkat] and PR [Jurkat]
+367. Proteins: CA [Jurkat] and PR [Jurkat]
 d_AB = 0.728
 s_AB = -0.458714644328
 
-329. Proteins: CA [Jurkat] and POL [Jurkat]
+368. Proteins: CA [Jurkat] and POL [Jurkat]
 d_AB = 0.702239789196
 s_AB = -0.458609156045
 
-330. Proteins: GAG [Jurkat] and GP41 [Jurkat]
+369. Proteins: GAG [Jurkat] and GP41 [Jurkat]
 d_AB = 0.735872235872
 s_AB = -0.458415392397
 
-331. Proteins: GP120 [HEK] and P6 [Jurkat]
+370. Proteins: GP120 [HEK] and P6 [Jurkat]
 d_AB = 0.759677419355
 s_AB = -0.458317132909
 
-332. Proteins: GP120 [Jurkat] and PR [Jurkat]
+371. Proteins: GP120 [Jurkat] and PR [Jurkat]
 d_AB = 0.728729963009
 s_AB = -0.458166360764
 
-333. Proteins: CA [Jurkat] and Pol [HEK]
+372. Proteins: CA [Jurkat] and Pol [HEK]
 d_AB = 0.707454289733
 s_AB = -0.457752432102
 
-334. Proteins: GAG [HEK] and GP120 [Jurkat]
+373. Proteins: GAG [HEK] and GP120 [Jurkat]
 d_AB = 0.725975261656
 s_AB = -0.456866813028
 
-335. Proteins: P6 [Jurkat] and PR [HEK]
+374. Proteins: P6 [Jurkat] and PR [HEK]
 d_AB = 0.747572815534
 s_AB = -0.456727098036
 
-336. Proteins: GP160 [HEK] and NEF [Jurkat]
+375. Proteins: GP160 [HEK] and NEF [Jurkat]
 d_AB = 0.75622542595
 s_AB = -0.456108296986
 
-337. Proteins: P6 [Jurkat] and VPU [HEK]
+376. Proteins: P6 [Jurkat] and VPU [HEK]
 d_AB = 0.776381909548
 s_AB = -0.455627794232
 
-338. Proteins: GAG [Jurkat] and PR [Jurkat]
+377. Proteins: GAG [Jurkat] and PR [Jurkat]
 d_AB = 0.714285714286
 s_AB = -0.455385231754
 
-339. Proteins: REV [HEK] and VIF [HEK]
+378. Proteins: REV [HEK] and VIF [HEK]
 d_AB = 0.708944281525
 s_AB = -0.454233995894
 
-340. Proteins: GP160 [Jurkat] and IN [HEK]
+379. Proteins: GP160 [Jurkat] and IN [HEK]
 d_AB = 0.747126436782
 s_AB = -0.454004000578
 
-341. Proteins: GP41 [HEK] and NEF [Jurkat]
+380. Proteins: GP41 [HEK] and NEF [Jurkat]
 d_AB = 0.799132947977
 s_AB = -0.453788764217
 
-342. Proteins: IN [Jurkat] and VPR [HEK]
+381. Proteins: IN [Jurkat] and VPR [HEK]
 d_AB = 0.788580246914
 s_AB = -0.453433641975
 
-343. Proteins: MA [Jurkat] and VPU [HEK]
+382. Proteins: MA [Jurkat] and VPU [HEK]
 d_AB = 0.769426751592
 s_AB = -0.452987609409
 
-344. Proteins: RT [HEK] and VPR [Jurkat]
+383. Proteins: RT [HEK] and VPR [Jurkat]
 d_AB = 0.72095548317
 s_AB = -0.452790487425
 
-345. Proteins: POL [Jurkat] and VIF [HEK]
+384. Proteins: POL [Jurkat] and VIF [HEK]
 d_AB = 0.683438155136
 s_AB = -0.452362562471
 
-346. Proteins: IN [HEK] and POL [Jurkat]
+385. Proteins: IN [HEK] and POL [Jurkat]
 d_AB = 0.705450733753
 s_AB = -0.452203130708
 
-347. Proteins: MA [HEK] and VIF [Jurkat]
+386. Proteins: MA [HEK] and VIF [Jurkat]
 d_AB = 0.712925170068
 s_AB = -0.451956704903
 
-348. Proteins: POL [Jurkat] and PR [HEK]
+387. Proteins: POL [Jurkat] and PR [HEK]
 d_AB = 0.716470588235
 s_AB = -0.451672786714
 
-349. Proteins: GP160 [Jurkat] and GP41 [HEK]
+388. Proteins: GP160 [Jurkat] and GP41 [HEK]
 d_AB = 0.822972972973
 s_AB = -0.451075218274
 
-350. Proteins: VPR [HEK] and VPU [Jurkat]
+389. Proteins: VPR [HEK] and VPU [Jurkat]
 d_AB = 0.769751693002
 s_AB = -0.450669726516
 
-351. Proteins: GP120 [HEK] and TAT [Jurkat]
+390. Proteins: GP120 [HEK] and TAT [Jurkat]
 d_AB = 0.754266211604
 s_AB = -0.450302770139
 
-352. Proteins: GAG [Jurkat] and POL [Jurkat]
+391. Proteins: GAG [Jurkat] and POL [Jurkat]
 d_AB = 0.693741677763
 s_AB = -0.45006356919
 
-353. Proteins: NEF [Jurkat] and POL [HEK]
+392. Proteins: NEF [Jurkat] and POL [HEK]
 d_AB = 0.727915194346
 s_AB = -0.44995384006
 
-354. Proteins: REV [HEK] and REV [Jurkat]
+393. Proteins: REV [HEK] and REV [Jurkat]
 d_AB = 0.75
 s_AB = -0.449634468287
 
-355. Proteins: GP120 [HEK] and MA [HEK]
+394. Proteins: GP120 [HEK] and MA [HEK]
 d_AB = 0.767399267399
 s_AB = -0.448832196173
 
-356. Proteins: MA [Jurkat] and VIF [HEK]
+395. Proteins: MA [Jurkat] and VIF [HEK]
 d_AB = 0.714285714286
 s_AB = -0.448076199163
 
-357. Proteins: CA [HEK] and P6 [HEK]
+396. Proteins: CA [HEK] and P6 [HEK]
 d_AB = 0.949438202247
 s_AB = -0.447473498492
 
-358. Proteins: NCC [Jurkat] and VPU [Jurkat]
+397. Proteins: NCC [Jurkat] and VPU [Jurkat]
 d_AB = 0.741188318228
 s_AB = -0.447081359997
 
-359. Proteins: GAG [Jurkat] and VIF [HEK]
+398. Proteins: GAG [Jurkat] and VIF [HEK]
 d_AB = 0.68862911796
 s_AB = -0.446997789009
 
-360. Proteins: GAG [HEK] and NEF [Jurkat]
+399. Proteins: GAG [HEK] and NEF [Jurkat]
 d_AB = 0.74156219865
 s_AB = -0.446578402784
 
-361. Proteins: MA [Jurkat] and VPR [HEK]
+400. Proteins: MA [Jurkat] and VPR [HEK]
 d_AB = 0.781560283688
 s_AB = -0.446157107616
 
-362. Proteins: GP41 [HEK] and RT [Jurkat]
+401. Proteins: GP41 [HEK] and RT [Jurkat]
 d_AB = 0.8208
 s_AB = -0.445625226807
 
-363. Proteins: REV [HEK] and RT [HEK]
+402. Proteins: REV [HEK] and RT [HEK]
 d_AB = 0.735344827586
 s_AB = -0.445544000152
 
-364. Proteins: GP41 [HEK] and PR [HEK]
+403. Proteins: GP41 [HEK] and PR [HEK]
 d_AB = 0.811141304348
 s_AB = -0.443594631358
 
-365. Proteins: GP160 [Jurkat] and PR [Jurkat]
+404. Proteins: GP160 [Jurkat] and PR [Jurkat]
 d_AB = 0.770414201183
 s_AB = -0.442907128394
 
-366. Proteins: GAG [Jurkat] and PR [HEK]
+405. Proteins: GAG [Jurkat] and PR [HEK]
 d_AB = 0.725209080048
 s_AB = -0.442760484263
 
-367. Proteins: MA [HEK] and NCC [Jurkat]
+406. Proteins: MA [HEK] and NCC [Jurkat]
 d_AB = 0.761014686248
 s_AB = -0.442383217848
 
-368. Proteins: GP41 [Jurkat] and POL [Jurkat]
+407. Proteins: GP41 [Jurkat] and POL [Jurkat]
 d_AB = 0.752116082225
 s_AB = -0.442345356683
 
-369. Proteins: GP160 [Jurkat] and VPR [HEK]
+408. Proteins: GP160 [Jurkat] and VPR [HEK]
 d_AB = 0.802884615385
 s_AB = -0.441748152977
 
-370. Proteins: GP41 [HEK] and P6 [Jurkat]
+409. Proteins: GP41 [HEK] and P6 [Jurkat]
 d_AB = 0.826923076923
 s_AB = -0.439805080045
 
-371. Proteins: GP41 [HEK] and TAT [Jurkat]
+410. Proteins: GP41 [HEK] and TAT [Jurkat]
 d_AB = 0.813559322034
 s_AB = -0.439743264413
 
-372. Proteins: GP160 [HEK] and TAT [Jurkat]
+411. Proteins: GP160 [HEK] and TAT [Jurkat]
 d_AB = 0.773071104387
 s_AB = -0.439643492802
 
-373. Proteins: GP41 [HEK] and GP41 [Jurkat]
+412. Proteins: GP41 [HEK] and GP41 [Jurkat]
 d_AB = 0.841514726508
 s_AB = -0.439539273157
 
-374. Proteins: GP160 [Jurkat] and REV [Jurkat]
+413. Proteins: GP160 [Jurkat] and REV [Jurkat]
 d_AB = 0.776595744681
 s_AB = -0.439137736693
 
-375. Proteins: GP160 [Jurkat] and VPU [HEK]
+414. Proteins: GP160 [Jurkat] and VPU [HEK]
 d_AB = 0.802631578947
 s_AB = -0.436698159111
 
-376. Proteins: GAG [HEK] and PR [HEK]
+415. Proteins: GAG [HEK] and PR [HEK]
 d_AB = 0.753462603878
 s_AB = -0.436492221069
 
-377. Proteins: POL [HEK] and VPR [Jurkat]
+416. Proteins: POL [HEK] and VPR [Jurkat]
 d_AB = 0.740286298569
 s_AB = -0.435467344661
 
-378. Proteins: GP120 [HEK] and VPR [Jurkat]
+417. Proteins: GP120 [HEK] and VPR [Jurkat]
 d_AB = 0.767441860465
 s_AB = -0.434630855848
 
-379. Proteins: MA [HEK] and NEF [Jurkat]
+418. Proteins: MA [HEK] and NEF [Jurkat]
 d_AB = 0.766288951841
 s_AB = -0.434433649524
 
-380. Proteins: GP160 [HEK] and MA [Jurkat]
+419. Proteins: GP160 [HEK] and MA [Jurkat]
 d_AB = 0.78216374269
 s_AB = -0.434381082243
 
-381. Proteins: GP120 [HEK] and NC [Jurkat]
+420. Proteins: GP120 [HEK] and NC [Jurkat]
 d_AB = 0.779922779923
 s_AB = -0.434256413587
 
-382. Proteins: NC [HEK] and RT [HEK]
+421. Proteins: NC [HEK] and RT [HEK]
 d_AB = 0.748201438849
 s_AB = -0.433320300282
 
-383. Proteins: GP41 [HEK] and MA [Jurkat]
+422. Proteins: GP41 [HEK] and MA [Jurkat]
 d_AB = 0.823817292007
 s_AB = -0.433315522183
 
-384. Proteins: GAG [Jurkat] and GP160 [HEK]
+423. Proteins: GAG [Jurkat] and GP160 [HEK]
 d_AB = 0.757062146893
 s_AB = -0.43274767156
 
-385. Proteins: IN [Jurkat] and PR [HEK]
+424. Proteins: IN [Jurkat] and PR [HEK]
 d_AB = 0.776455026455
 s_AB = -0.432546041921
 
-386. Proteins: REV [Jurkat] and VPR [HEK]
+425. Proteins: REV [Jurkat] and VPR [HEK]
 d_AB = 0.797002724796
 s_AB = -0.43243132155
 
-387. Proteins: GP41 [Jurkat] and NCC [Jurkat]
+426. Proteins: GP41 [Jurkat] and NCC [Jurkat]
 d_AB = 0.787280701754
 s_AB = -0.432206133731
 
-388. Proteins: CA [Jurkat] and RT [HEK]
+427. Proteins: CA [Jurkat] and RT [HEK]
 d_AB = 0.738255033557
 s_AB = -0.432126122019
 
-389. Proteins: MA [HEK] and p6 [HEK]
+428. Proteins: MA [HEK] and p6 [HEK]
 d_AB = 0.857142857143
 s_AB = -0.431531788247
 
-390. Proteins: GP41 [HEK] and VIF [Jurkat]
+429. Proteins: GP41 [HEK] and VIF [Jurkat]
 d_AB = 0.78640776699
 s_AB = -0.430673218809
 
-391. Proteins: IN [HEK] and RT [Jurkat]
+430. Proteins: IN [HEK] and RT [Jurkat]
 d_AB = 0.763186221744
 s_AB = -0.430321251175
 
-392. Proteins: POL [Jurkat] and REV [Jurkat]
+431. Proteins: POL [Jurkat] and REV [Jurkat]
 d_AB = 0.742063492063
 s_AB = -0.430193416411
 
-393. Proteins: GP160 [HEK] and REV [Jurkat]
+432. Proteins: GP160 [HEK] and REV [Jurkat]
 d_AB = 0.788218793829
 s_AB = -0.430042686145
 
-394. Proteins: MA [Jurkat] and PR [HEK]
+433. Proteins: MA [Jurkat] and PR [HEK]
 d_AB = 0.765067650677
 s_AB = -0.429636920115
 
-395. Proteins: NC [HEK] and TAT [Jurkat]
+434. Proteins: NC [HEK] and TAT [Jurkat]
 d_AB = 0.765911542611
 s_AB = -0.428808954284
 
-396. Proteins: NC [Jurkat] and PR [Jurkat]
+435. Proteins: NC [Jurkat] and PR [Jurkat]
 d_AB = 0.773524720893
 s_AB = -0.42866121565
 
-397. Proteins: GP41 [HEK] and NEF [HEK]
+436. Proteins: GP41 [HEK] and NEF [HEK]
 d_AB = 0.854500616523
 s_AB = -0.428390865295
 
-398. Proteins: NC [Jurkat] and VPU [Jurkat]
+437. Proteins: NC [Jurkat] and VPU [Jurkat]
 d_AB = 0.767948717949
 s_AB = -0.427636743564
 
-399. Proteins: CA [Jurkat] and MA [HEK]
+438. Proteins: CA [Jurkat] and MA [HEK]
 d_AB = 0.767830045524
 s_AB = -0.427412349646
 
-400. Proteins: RT [HEK] and TAT [HEK]
+439. Proteins: RT [HEK] and TAT [HEK]
 d_AB = 0.742386831276
 s_AB = -0.426708872352
 
-401. Proteins: GP120 [HEK] and IN [HEK]
+440. Proteins: GP120 [HEK] and IN [HEK]
 d_AB = 0.769138755981
 s_AB = -0.426374064532
 
-402. Proteins: CA [Jurkat] and VPR [HEK]
+441. Proteins: CA [Jurkat] and VPR [HEK]
 d_AB = 0.792401628223
 s_AB = -0.42562445489
 
-403. Proteins: NCC [Jurkat] and RT [HEK]
+442. Proteins: NCC [Jurkat] and RT [HEK]
 d_AB = 0.753293413174
 s_AB = -0.42524325133
 
-404. Proteins: GP160 [HEK] and NC [Jurkat]
+443. Proteins: GP160 [HEK] and NC [Jurkat]
 d_AB = 0.797639123103
 s_AB = -0.424685685854
 
-405. Proteins: PR [Jurkat] and REV [Jurkat]
+444. Proteins: PR [Jurkat] and REV [Jurkat]
 d_AB = 0.773761713521
 s_AB = -0.42436089404
 
-406. Proteins: PR [Jurkat] and TAT [Jurkat]
+445. Proteins: PR [Jurkat] and TAT [Jurkat]
 d_AB = 0.768345323741
 s_AB = -0.424230401035
 
-407. Proteins: GP160 [Jurkat] and NC [Jurkat]
+446. Proteins: GP160 [Jurkat] and NC [Jurkat]
 d_AB = 0.796143250689
 s_AB = -0.423653559668
 
-408. Proteins: GAG [Jurkat] and VPU [HEK]
+447. Proteins: GAG [Jurkat] and VPU [HEK]
 d_AB = 0.772558714462
 s_AB = -0.423120640059
 
-409. Proteins: IN [Jurkat] and RT [HEK]
+448. Proteins: IN [Jurkat] and RT [HEK]
 d_AB = 0.771341463415
 s_AB = -0.423027497938
 
-410. Proteins: GAG [HEK] and VPR [Jurkat]
+449. Proteins: GAG [HEK] and VPR [Jurkat]
 d_AB = 0.763293310463
 s_AB = -0.422731899794
 
-411. Proteins: GP41 [Jurkat] and VPU [HEK]
+450. Proteins: GP41 [Jurkat] and VPU [HEK]
 d_AB = 0.823728813559
 s_AB = -0.422606732917
 
-412. Proteins: GP41 [Jurkat] and IN [Jurkat]
+451. Proteins: GP41 [Jurkat] and IN [Jurkat]
 d_AB = 0.81309686221
 s_AB = -0.422222270124
 
-413. Proteins: GAG [HEK] and MA [Jurkat]
+452. Proteins: GAG [HEK] and MA [Jurkat]
 d_AB = 0.770354906054
 s_AB = -0.421996797376
 
-414. Proteins: PR [HEK] and VPU [Jurkat]
+453. Proteins: PR [HEK] and VPU [Jurkat]
 d_AB = 0.765593561368
 s_AB = -0.421815037637
 
-415. Proteins: GP160 [Jurkat] and TAT [Jurkat]
+454. Proteins: GP160 [Jurkat] and TAT [Jurkat]
 d_AB = 0.788413098237
 s_AB = -0.421773500353
 
-416. Proteins: NC [Jurkat] and POL [Jurkat]
+455. Proteins: NC [Jurkat] and POL [Jurkat]
 d_AB = 0.754716981132
 s_AB = -0.421603256325
 
-417. Proteins: GAG [HEK] and VPU [HEK]
+456. Proteins: GAG [HEK] and VPU [HEK]
 d_AB = 0.796208530806
 s_AB = -0.421456084351
 
-418. Proteins: GP160 [HEK] and RT [Jurkat]
+457. Proteins: GP160 [HEK] and RT [Jurkat]
 d_AB = 0.804597701149
 s_AB = -0.4212395364
 
-419. Proteins: GP120 [Jurkat] and MA [HEK]
+458. Proteins: GP120 [Jurkat] and MA [HEK]
 d_AB = 0.775
 s_AB = -0.420424074614
 
-420. Proteins: GP41 [HEK] and NC [Jurkat]
+459. Proteins: GP41 [HEK] and NC [Jurkat]
 d_AB = 0.842911877395
 s_AB = -0.420000920819
 
-421. Proteins: GP41 [HEK] and POL [HEK]
+460. Proteins: GP41 [HEK] and POL [HEK]
 d_AB = 0.822510822511
 s_AB = -0.419600678806
 
-422. Proteins: POL [HEK] and TAT [Jurkat]
+461. Proteins: POL [HEK] and TAT [Jurkat]
 d_AB = 0.759036144578
 s_AB = -0.419213764081
 
-423. Proteins: IN [Jurkat] and VPU [HEK]
+462. Proteins: IN [Jurkat] and VPU [HEK]
 d_AB = 0.818681318681
 s_AB = -0.418029539905
 
-424. Proteins: NC [Jurkat] and P6 [HEK]
+463. Proteins: NC [Jurkat] and P6 [HEK]
 d_AB = 0.794666666667
 s_AB = -0.417102058524
 
-425. Proteins: PR [Jurkat] and RT [HEK]
+464. Proteins: PR [Jurkat] and RT [HEK]
 d_AB = 0.762483130904
 s_AB = -0.416893836108
 
-426. Proteins: GP160 [HEK] and VPU [Jurkat]
+465. Proteins: GP160 [HEK] and VPU [Jurkat]
 d_AB = 0.793063583815
 s_AB = -0.416185269332
 
-427. Proteins: POL [Jurkat] and VPU [HEK]
+466. Proteins: POL [Jurkat] and VPU [HEK]
 d_AB = 0.779805352798
 s_AB = -0.416047812361
 
-428. Proteins: CA [Jurkat] and PR [HEK]
+467. Proteins: CA [Jurkat] and PR [HEK]
 d_AB = 0.769230769231
 s_AB = -0.415782493369
 
-429. Proteins: GP120 [HEK] and REV [Jurkat]
+468. Proteins: GP120 [HEK] and REV [Jurkat]
 d_AB = 0.794670846395
 s_AB = -0.415445018133
 
-430. Proteins: CA [Jurkat] and VIF [HEK]
+469. Proteins: CA [Jurkat] and VIF [HEK]
 d_AB = 0.737618545838
 s_AB = -0.415052059419
 
-431. Proteins: GP41 [HEK] and REV [Jurkat]
+470. Proteins: GP41 [HEK] and REV [Jurkat]
 d_AB = 0.844236760125
 s_AB = -0.414612709107
 
-432. Proteins: RT [HEK] and VPU [Jurkat]
+471. Proteins: RT [HEK] and VPU [Jurkat]
 d_AB = 0.758389261745
 s_AB = -0.414387230237
 
-433. Proteins: GAG [Jurkat] and GP120 [HEK]
+472. Proteins: GAG [Jurkat] and GP120 [HEK]
 d_AB = 0.767772511848
 s_AB = -0.413891691157
 
-434. Proteins: MA [HEK] and NC [HEK]
+473. Proteins: MA [HEK] and NC [HEK]
 d_AB = 0.793686583991
 s_AB = -0.412696394732
 
-435. Proteins: GAG [Jurkat] and GP41 [HEK]
+474. Proteins: GAG [Jurkat] and GP41 [HEK]
 d_AB = 0.817896389325
 s_AB = -0.412501418384
 
-436. Proteins: GP120 [HEK] and MA [Jurkat]
+475. Proteins: GP120 [HEK] and MA [Jurkat]
 d_AB = 0.796387520525
 s_AB = -0.412011688961
 
-437. Proteins: GP160 [Jurkat] and POL [HEK]
+476. Proteins: GP160 [Jurkat] and POL [HEK]
 d_AB = 0.787068004459
 s_AB = -0.411927509
 
-438. Proteins: GP160 [Jurkat] and PR [HEK]
+477. Proteins: GP160 [Jurkat] and PR [HEK]
 d_AB = 0.8
 s_AB = -0.411619947849
 
-439. Proteins: GP120 [HEK] and IN [Jurkat]
+478. Proteins: GP120 [HEK] and IN [Jurkat]
 d_AB = 0.813405797101
 s_AB = -0.409289909969
 
-440. Proteins: PR [HEK] and TAT [HEK]
+479. Proteins: PR [HEK] and TAT [HEK]
 d_AB = 0.774904942966
 s_AB = -0.408822867685
 
-441. Proteins: GP41 [Jurkat] and PR [Jurkat]
+480. Proteins: GP41 [Jurkat] and PR [Jurkat]
 d_AB = 0.81173594132
 s_AB = -0.408591196674
 
-442. Proteins: POL [HEK] and VPU [Jurkat]
+481. Proteins: POL [HEK] and VPU [Jurkat]
 d_AB = 0.766561514196
 s_AB = -0.408222650421
 
-443. Proteins: GAG [Jurkat] and VPR [HEK]
+482. Proteins: GAG [Jurkat] and VPR [HEK]
 d_AB = 0.794238683128
 s_AB = -0.406743701696
 
-444. Proteins: REV [Jurkat] and TAT [HEK]
+483. Proteins: REV [Jurkat] and TAT [HEK]
 d_AB = 0.782608695652
 s_AB = -0.405232648524
 
-445. Proteins: PR [HEK] and REV [HEK]
+484. Proteins: PR [HEK] and REV [HEK]
 d_AB = 0.790476190476
 s_AB = -0.405044744285
 
-446. Proteins: CA [Jurkat] and GAG [HEK]
+485. Proteins: CA [Jurkat] and GAG [HEK]
 d_AB = 0.777777777778
 s_AB = -0.404882617461
 
-447. Proteins: GP160 [HEK] and IN [Jurkat]
+486. Proteins: GP160 [HEK] and IN [Jurkat]
 d_AB = 0.826156299841
 s_AB = -0.404685022677
 
-448. Proteins: GP41 [Jurkat] and NC [Jurkat]
+487. Proteins: GP41 [Jurkat] and NC [Jurkat]
 d_AB = 0.822603719599
 s_AB = -0.404198899174
 
-449. Proteins: IN [Jurkat] and VIF [HEK]
+488. Proteins: IN [Jurkat] and VIF [HEK]
 d_AB = 0.773255813953
 s_AB = -0.40340259708
 
-450. Proteins: NEF [HEK] and VIF [Jurkat]
+489. Proteins: NEF [HEK] and VIF [Jurkat]
 d_AB = 0.781124497992
 s_AB = -0.40168379052
 
-451. Proteins: NC [Jurkat] and PR [HEK]
+490. Proteins: NC [Jurkat] and PR [HEK]
 d_AB = 0.80055401662
 s_AB = -0.399930538195
 
-452. Proteins: NC [Jurkat] and VPU [HEK]
+491. Proteins: NC [Jurkat] and VPU [HEK]
 d_AB = 0.828530259366
 s_AB = -0.399664085659
 
-453. Proteins: GP41 [Jurkat] and VPR [HEK]
+492. Proteins: GP41 [Jurkat] and VPR [HEK]
 d_AB = 0.853416149068
 s_AB = -0.398222427711
 
-454. Proteins: GP41 [Jurkat] and IN [HEK]
+493. Proteins: GP41 [Jurkat] and IN [HEK]
 d_AB = 0.810226155359
 s_AB = -0.397910090418
 
-455. Proteins: IN [HEK] and P6 [Jurkat]
+494. Proteins: IN [HEK] and P6 [Jurkat]
 d_AB = 0.796336206897
 s_AB = -0.397474196184
 
-456. Proteins: NC [Jurkat] and VPR [HEK]
+495. Proteins: NC [Jurkat] and VPR [HEK]
 d_AB = 0.838762214984
 s_AB = -0.394735160344
 
-457. Proteins: PR [Jurkat] and VIF [HEK]
+496. Proteins: PR [Jurkat] and VIF [HEK]
 d_AB = 0.767195767196
 s_AB = -0.394470649497
 
-458. Proteins: NCC [Jurkat] and POL [Jurkat]
+497. Proteins: NCC [Jurkat] and POL [Jurkat]
 d_AB = 0.775029446408
 s_AB = -0.393975007761
 
-459. Proteins: GP41 [Jurkat] and REV [Jurkat]
+498. Proteins: GP41 [Jurkat] and REV [Jurkat]
 d_AB = 0.82905982906
 s_AB = -0.393679460732
 
-460. Proteins: GP160 [Jurkat] and NCC [Jurkat]
+499. Proteins: GP160 [Jurkat] and NCC [Jurkat]
 d_AB = 0.818956336528
 s_AB = -0.39352469054
 
-461. Proteins: GP41 [Jurkat] and Pol [HEK]
+500. Proteins: GP41 [Jurkat] and Pol [HEK]
 d_AB = 0.806161745828
 s_AB = -0.392657469674
 
-462. Proteins: GP120 [HEK] and GP41 [Jurkat]
+501. Proteins: GP120 [HEK] and GP41 [Jurkat]
 d_AB = 0.840620592384
 s_AB = -0.391699802577
 
-463. Proteins: IN [Jurkat] and MA [HEK]
+502. Proteins: IN [Jurkat] and MA [HEK]
 d_AB = 0.828070175439
 s_AB = -0.391160025507
 
-464. Proteins: MA [HEK] and RT [Jurkat]
+503. Proteins: MA [HEK] and RT [Jurkat]
 d_AB = 0.823161189358
 s_AB = -0.39106492662
 
-465. Proteins: GP41 [HEK] and VPR [Jurkat]
+504. Proteins: GP41 [HEK] and VPR [Jurkat]
 d_AB = 0.859926918392
 s_AB = -0.390879402625
 
-466. Proteins: CA [HEK] and MA [HEK]
+505. Proteins: CA [HEK] and MA [HEK]
 d_AB = 1.00589970501
 s_AB = -0.389956957919
 
-467. Proteins: GP41 [Jurkat] and TAT [Jurkat]
+506. Proteins: GP41 [Jurkat] and TAT [Jurkat]
 d_AB = 0.827900912647
 s_AB = -0.38929149436
 
-468. Proteins: POL [HEK] and REV [Jurkat]
+507. Proteins: POL [HEK] and REV [Jurkat]
 d_AB = 0.794743429287
 s_AB = -0.389053362157
 
-469. Proteins: IN [HEK] and PR [Jurkat]
+508. Proteins: IN [HEK] and PR [Jurkat]
 d_AB = 0.794708994709
 s_AB = -0.388810568837
 
-470. Proteins: GP120 [Jurkat] and NEF [HEK]
+509. Proteins: GP120 [Jurkat] and NEF [HEK]
 d_AB = 0.824668705403
 s_AB = -0.388681782753
 
-471. Proteins: NEF [HEK] and TAT [HEK]
+510. Proteins: NEF [HEK] and TAT [HEK]
 d_AB = 0.823741007194
 s_AB = -0.388142349568
 
-472. Proteins: NCC [Jurkat] and Pol [HEK]
+511. Proteins: NCC [Jurkat] and Pol [HEK]
 d_AB = 0.785268414482
 s_AB = -0.38809381628
 
-473. Proteins: REV [HEK] and VPU [HEK]
+512. Proteins: REV [HEK] and VPU [HEK]
 d_AB = 0.835227272727
 s_AB = -0.388003452244
 
-474. Proteins: TAT [HEK] and VPU [HEK]
+513. Proteins: TAT [HEK] and VPU [HEK]
 d_AB = 0.824397824398
 s_AB = -0.387039776463
 
-475. Proteins: POL [HEK] and TAT [HEK]
+514. Proteins: POL [HEK] and TAT [HEK]
 d_AB = 0.784591194969
 s_AB = -0.386512181293
 
-476. Proteins: GAG [HEK] and POL [HEK]
+515. Proteins: GAG [HEK] and POL [HEK]
 d_AB = 0.791346153846
 s_AB = -0.385984236711
 
-477. Proteins: NC [HEK] and VIF [HEK]
+516. Proteins: NC [HEK] and VIF [HEK]
 d_AB = 0.778249787596
 s_AB = -0.385561401216
 
-478. Proteins: GAG [Jurkat] and NC [HEK]
+517. Proteins: GAG [Jurkat] and NC [HEK]
 d_AB = 0.787474332649
 s_AB = -0.384341385508
 
-479. Proteins: POL [Jurkat] and RT [HEK]
+518. Proteins: POL [Jurkat] and RT [HEK]
 d_AB = 0.769333333333
 s_AB = -0.384177934593
 
-480. Proteins: GP41 [Jurkat] and VIF [HEK]
+519. Proteins: GP41 [Jurkat] and VIF [HEK]
 d_AB = 0.802359882006
 s_AB = -0.383923216918
 
-481. Proteins: GAG [HEK] and Pol [HEK]
+520. Proteins: GAG [HEK] and Pol [HEK]
 d_AB = 0.786694825766
 s_AB = -0.383453458416
 
-482. Proteins: IN [HEK] and TAT [HEK]
+521. Proteins: IN [HEK] and TAT [HEK]
 d_AB = 0.789992952784
 s_AB = -0.383245347378
 
-483. Proteins: P6 [HEK] and RT [HEK]
+522. Proteins: P6 [HEK] and RT [HEK]
 d_AB = 0.80572597137
 s_AB = -0.383233784289
 
-484. Proteins: NC [Jurkat] and VIF [HEK]
+523. Proteins: NC [Jurkat] and VIF [HEK]
 d_AB = 0.785714285714
 s_AB = -0.382427611758
 
-485. Proteins: IN [HEK] and MA [Jurkat]
+524. Proteins: IN [HEK] and MA [Jurkat]
 d_AB = 0.802617230098
 s_AB = -0.381597830204
 
-486. Proteins: IN [Jurkat] and POL [HEK]
+525. Proteins: IN [Jurkat] and POL [HEK]
 d_AB = 0.814866760168
 s_AB = -0.381509873819
 
-487. Proteins: CA [Jurkat] and GP120 [HEK]
+526. Proteins: CA [Jurkat] and GP120 [HEK]
 d_AB = 0.817472698908
 s_AB = -0.381235202386
 
-488. Proteins: REV [HEK] and TAT [Jurkat]
+527. Proteins: REV [HEK] and TAT [Jurkat]
 d_AB = 0.812949640288
 s_AB = -0.381137945214
 
-489. Proteins: P6 [HEK] and TAT [Jurkat]
+528. Proteins: P6 [HEK] and TAT [Jurkat]
 d_AB = 0.821670428894
 s_AB = -0.380488084529
 
-490. Proteins: PR [Jurkat] and VPU [HEK]
+529. Proteins: PR [Jurkat] and VPU [HEK]
 d_AB = 0.841328413284
 s_AB = -0.380390450962
 
-491. Proteins: GAG [HEK] and IN [Jurkat]
+530. Proteins: GAG [HEK] and IN [Jurkat]
 d_AB = 0.827968923418
 s_AB = -0.378679277597
 
-492. Proteins: P6 [Jurkat] and POL [HEK]
+531. Proteins: P6 [Jurkat] and POL [HEK]
 d_AB = 0.813060179257
 s_AB = -0.378615299923
 
-493. Proteins: NC [HEK] and NC [Jurkat]
+532. Proteins: NC [HEK] and NC [Jurkat]
 d_AB = 0.826542491269
 s_AB = -0.377788217392
 
-494. Proteins: NCC [Jurkat] and VIF [HEK]
+533. Proteins: NCC [Jurkat] and VIF [HEK]
 d_AB = 0.783445620789
 s_AB = -0.377380493395
 
-495. Proteins: POL [HEK] and RT [Jurkat]
+534. Proteins: POL [HEK] and RT [Jurkat]
 d_AB = 0.814578005115
 s_AB = -0.376794543905
 
-496. Proteins: GP41 [Jurkat] and NEF [HEK]
+535. Proteins: GP41 [Jurkat] and NEF [HEK]
 d_AB = 0.87044534413
 s_AB = -0.376335958248
 
-497. Proteins: GAG [HEK] and VPR [HEK]
+536. Proteins: GAG [HEK] and VPR [HEK]
 d_AB = 0.847179487179
 s_AB = -0.37578815828
 
-498. Proteins: POL [HEK] and PR [Jurkat]
+537. Proteins: POL [HEK] and PR [Jurkat]
 d_AB = 0.809523809524
 s_AB = -0.371860830123
 
-499. Proteins: CA [Jurkat] and VPU [HEK]
+538. Proteins: CA [Jurkat] and VPU [HEK]
 d_AB = 0.84088127295
 s_AB = -0.371841779859
 
-500. Proteins: GP120 [HEK] and VPU [Jurkat]
+539. Proteins: GP120 [HEK] and VPU [Jurkat]
 d_AB = 0.830379746835
 s_AB = -0.370723490865
 
-501. Proteins: NEF [HEK] and PR [Jurkat]
+540. Proteins: NEF [HEK] and PR [Jurkat]
 d_AB = 0.852620087336
 s_AB = -0.369544532811
 
-502. Proteins: NEF [HEK] and POL [Jurkat]
+541. Proteins: NEF [HEK] and POL [Jurkat]
 d_AB = 0.827027027027
 s_AB = -0.369271894034
 
-503. Proteins: GP160 [Jurkat] and RT [HEK]
+542. Proteins: GP160 [Jurkat] and RT [HEK]
 d_AB = 0.828571428571
 s_AB = -0.368416412254
 
-504. Proteins: GAG [Jurkat] and POL [HEK]
+543. Proteins: GAG [Jurkat] and POL [HEK]
 d_AB = 0.787153652393
 s_AB = -0.368191477529
 
-505. Proteins: GP120 [HEK] and NEF [HEK]
+544. Proteins: GP120 [HEK] and NEF [HEK]
 d_AB = 0.866171003717
 s_AB = -0.367986873396
 
-506. Proteins: MA [HEK] and REV [HEK]
+545. Proteins: MA [HEK] and REV [HEK]
 d_AB = 0.838919925512
 s_AB = -0.366830141819
 
-507. Proteins: MA [HEK] and VPR [Jurkat]
+546. Proteins: MA [HEK] and VPR [Jurkat]
 d_AB = 0.832335329341
 s_AB = -0.366271880847
 
-508. Proteins: PR [Jurkat] and VPR [HEK]
+547. Proteins: PR [Jurkat] and VPR [HEK]
 d_AB = 0.860845839018
 s_AB = -0.366176055531
 
-509. Proteins: TAT [HEK] and TAT [Jurkat]
+548. Proteins: TAT [HEK] and TAT [Jurkat]
 d_AB = 0.816623821765
 s_AB = -0.365670639626
 
-510. Proteins: TAT [HEK] and VPR [Jurkat]
+549. Proteins: TAT [HEK] and VPR [Jurkat]
 d_AB = 0.814735336195
 s_AB = -0.365062859767
 
-511. Proteins: GP41 [Jurkat] and PR [HEK]
+550. Proteins: GP41 [Jurkat] and PR [HEK]
 d_AB = 0.854326396495
 s_AB = -0.364299359771
 
-512. Proteins: GAG [HEK] and RT [Jurkat]
+551. Proteins: GAG [HEK] and RT [Jurkat]
 d_AB = 0.838144329897
 s_AB = -0.363499786151
 
-513. Proteins: POL [Jurkat] and VPR [HEK]
+552. Proteins: POL [Jurkat] and VPR [HEK]
 d_AB = 0.838274932615
 s_AB = -0.362881262848
 
-514. Proteins: POL [HEK] and REV [HEK]
+553. Proteins: POL [HEK] and REV [HEK]
 d_AB = 0.820049301561
 s_AB = -0.362847198811
 
-515. Proteins: GP41 [HEK] and VPU [Jurkat]
+554. Proteins: GP41 [HEK] and VPU [Jurkat]
 d_AB = 0.887909319899
 s_AB = -0.361927522505
 
-516. Proteins: MA [Jurkat] and POL [HEK]
+555. Proteins: MA [Jurkat] and POL [HEK]
 d_AB = 0.820779220779
 s_AB = -0.361300915623
 
-517. Proteins: CA [Jurkat] and GP160 [HEK]
+556. Proteins: CA [Jurkat] and GP160 [HEK]
 d_AB = 0.846368715084
 s_AB = -0.360484801657
 
-518. Proteins: CA [Jurkat] and GP41 [HEK]
+557. Proteins: CA [Jurkat] and GP41 [HEK]
 d_AB = 0.88992248062
 s_AB = -0.357519025378
 
-519. Proteins: NC [Jurkat] and POL [HEK]
+558. Proteins: NC [Jurkat] and POL [HEK]
 d_AB = 0.830633284242
 s_AB = -0.357226836185
 
-520. Proteins: NCC [Jurkat] and PR [HEK]
+559. Proteins: NCC [Jurkat] and PR [HEK]
 d_AB = 0.84064171123
 s_AB = -0.352527060297
 
-521. Proteins: GAG [Jurkat] and REV [HEK]
+560. Proteins: GAG [Jurkat] and REV [HEK]
 d_AB = 0.819672131148
 s_AB = -0.351510675617
 
-522. Proteins: GAG [HEK] and IN [HEK]
+561. Proteins: GAG [HEK] and IN [HEK]
 d_AB = 0.828138163437
 s_AB = -0.35132715102
 
-523. Proteins: NCC [Jurkat] and VPU [HEK]
+562. Proteins: NCC [Jurkat] and VPU [HEK]
 d_AB = 0.871003307607
 s_AB = -0.349875254129
 
-524. Proteins: IN [HEK] and REV [Jurkat]
+563. Proteins: IN [HEK] and REV [Jurkat]
 d_AB = 0.836152219873
 s_AB = -0.34977949547
 
-525. Proteins: GP41 [HEK] and IN [Jurkat]
+564. Proteins: GP41 [HEK] and IN [Jurkat]
 d_AB = 0.922661870504
 s_AB = -0.348767441271
 
-526. Proteins: GP120 [Jurkat] and TAT [HEK]
+565. Proteins: GP120 [Jurkat] and TAT [HEK]
 d_AB = 0.829306313328
 s_AB = -0.347308747059
 
-527. Proteins: REV [HEK] and VIF [Jurkat]
+566. Proteins: REV [HEK] and VIF [Jurkat]
 d_AB = 0.811745776348
 s_AB = -0.346120208507
 
-528. Proteins: NCC [Jurkat] and PR [Jurkat]
+567. Proteins: NCC [Jurkat] and PR [Jurkat]
 d_AB = 0.85
 s_AB = -0.344870153255
 
-529. Proteins: TAT [HEK] and VIF [Jurkat]
+568. Proteins: TAT [HEK] and VIF [Jurkat]
 d_AB = 0.801232665639
 s_AB = -0.344840195105
 
-530. Proteins: CA [Jurkat] and IN [HEK]
+569. Proteins: CA [Jurkat] and IN [HEK]
 d_AB = 0.830347734457
 s_AB = -0.344176017653
 
-531. Proteins: GAG [Jurkat] and IN [HEK]
+570. Proteins: GAG [Jurkat] and IN [HEK]
 d_AB = 0.814027630181
 s_AB = -0.343452423641
 
-532. Proteins: CA [Jurkat] and POL [HEK]
+571. Proteins: CA [Jurkat] and POL [HEK]
 d_AB = 0.83042394015
 s_AB = -0.341964888061
 
-533. Proteins: MA [HEK] and VPU [Jurkat]
+572. Proteins: MA [HEK] and VPU [Jurkat]
 d_AB = 0.858910891089
 s_AB = -0.338726840486
 
-534. Proteins: GP41 [Jurkat] and RT [HEK]
+573. Proteins: GP41 [Jurkat] and RT [HEK]
 d_AB = 0.865928659287
 s_AB = -0.338064989956
 
-535. Proteins: IN [HEK] and MA [HEK]
+574. Proteins: IN [HEK] and MA [HEK]
 d_AB = 0.855140186916
 s_AB = -0.336907127472
 
-536. Proteins: NC [HEK] and PR [HEK]
+575. Proteins: NC [HEK] and PR [HEK]
 d_AB = 0.85927306617
 s_AB = -0.336880779984
 
-537. Proteins: IN [HEK] and TAT [Jurkat]
+576. Proteins: IN [HEK] and TAT [Jurkat]
 d_AB = 0.84451901566
 s_AB = -0.335865816899
 
-538. Proteins: P6 [HEK] and REV [Jurkat]
+577. Proteins: P6 [HEK] and REV [Jurkat]
 d_AB = 0.872727272727
 s_AB = -0.334978123481
 
-539. Proteins: NEF [HEK] and P6 [Jurkat]
+578. Proteins: NEF [HEK] and P6 [Jurkat]
 d_AB = 0.89766407119
 s_AB = -0.334791388491
 
-540. Proteins: GP120 [Jurkat] and REV [HEK]
+579. Proteins: GP120 [Jurkat] and REV [HEK]
 d_AB = 0.855048859935
 s_AB = -0.333359324563
 
-541. Proteins: REV [HEK] and VPR [Jurkat]
+580. Proteins: REV [HEK] and VPR [Jurkat]
 d_AB = 0.860759493671
 s_AB = -0.330831826401
 
-542. Proteins: GAG [Jurkat] and TAT [HEK]
+581. Proteins: GAG [Jurkat] and TAT [HEK]
 d_AB = 0.828665568369
 s_AB = -0.330724114285
 
-543. Proteins: NEF [HEK] and RT [Jurkat]
+582. Proteins: NEF [HEK] and RT [Jurkat]
 d_AB = 0.90243902439
 s_AB = -0.32971350513
 
-544. Proteins: NC [Jurkat] and REV [HEK]
+583. Proteins: NC [Jurkat] and REV [HEK]
 d_AB = 0.875478927203
 s_AB = -0.328218870066
 
-545. Proteins: GP120 [HEK] and PR [Jurkat]
+584. Proteins: GP120 [HEK] and PR [Jurkat]
 d_AB = 0.880690737834
 s_AB = -0.327012974897
 
-546. Proteins: MA [Jurkat] and NEF [HEK]
+585. Proteins: MA [Jurkat] and NEF [HEK]
 d_AB = 0.898648648649
 s_AB = -0.324211468254
 
-547. Proteins: GP160 [HEK] and PR [Jurkat]
+586. Proteins: GP160 [HEK] and PR [Jurkat]
 d_AB = 0.891853932584
 s_AB = -0.323995395593
 
-548. Proteins: GP41 [HEK] and PR [Jurkat]
+587. Proteins: GP41 [HEK] and PR [Jurkat]
 d_AB = 0.932917316693
 s_AB = -0.323520000742
 
-549. Proteins: MA [HEK] and PR [Jurkat]
+588. Proteins: MA [HEK] and PR [Jurkat]
 d_AB = 0.880916030534
 s_AB = -0.323322176071
 
-550. Proteins: GAG [HEK] and GP160 [HEK]
+589. Proteins: GAG [HEK] and GP160 [HEK]
 d_AB = 0.889705882353
 s_AB = -0.322089196735
 
-551. Proteins: GAG [HEK] and VPU [Jurkat]
+590. Proteins: GAG [HEK] and VPU [Jurkat]
 d_AB = 0.863037752414
 s_AB = -0.32201797923
 
-552. Proteins: MA [Jurkat] and P6 [HEK]
+591. Proteins: MA [Jurkat] and P6 [HEK]
 d_AB = 0.886266094421
 s_AB = -0.319722646746
 
-553. Proteins: TAT [HEK] and VPR [HEK]
+592. Proteins: TAT [HEK] and VPR [HEK]
 d_AB = 0.897265948633
 s_AB = -0.319474682531
 
-554. Proteins: NEF [Jurkat] and TAT [HEK]
+593. Proteins: NEF [Jurkat] and TAT [HEK]
 d_AB = 0.863672182821
 s_AB = -0.318241404317
 
-555. Proteins: NEF [HEK] and REV [HEK]
+594. Proteins: NEF [HEK] and REV [HEK]
 d_AB = 0.905617977528
 s_AB = -0.318058503345
 
-556. Proteins: GP160 [HEK] and POL [Jurkat]
+595. Proteins: GP160 [HEK] and POL [Jurkat]
 d_AB = 0.872399445215
 s_AB = -0.317584183876
 
-557. Proteins: GP41 [HEK] and POL [Jurkat]
+596. Proteins: GP41 [HEK] and POL [Jurkat]
 d_AB = 0.913846153846
 s_AB = -0.316725464502
 
-558. Proteins: GP120 [Jurkat] and NC [HEK]
+597. Proteins: GP120 [Jurkat] and NC [HEK]
 d_AB = 0.872483221477
 s_AB = -0.316557874414
 
-559. Proteins: IN [HEK] and REV [HEK]
+598. Proteins: IN [HEK] and REV [HEK]
 d_AB = 0.868768328446
 s_AB = -0.316263095826
 
-560. Proteins: MA [HEK] and TAT [HEK]
+599. Proteins: MA [HEK] and TAT [HEK]
 d_AB = 0.878653675819
 s_AB = -0.315303267401
 
-561. Proteins: NEF [Jurkat] and REV [HEK]
+600. Proteins: NEF [Jurkat] and REV [HEK]
 d_AB = 0.878912685338
 s_AB = -0.314794025911
 
-562. Proteins: GP160 [HEK] and P6 [HEK]
+601. Proteins: GP160 [HEK] and P6 [HEK]
 d_AB = 0.910869565217
 s_AB = -0.314562551607
 
-563. Proteins: MA [HEK] and POL [Jurkat]
+602. Proteins: MA [HEK] and POL [Jurkat]
 d_AB = 0.864457831325
 s_AB = -0.313914676194
 
-564. Proteins: REV [HEK] and VPR [HEK]
+603. Proteins: REV [HEK] and VPR [HEK]
 d_AB = 0.914930555556
 s_AB = -0.313603199719
 
-565. Proteins: NC [HEK] and P6 [Jurkat]
+604. Proteins: NC [HEK] and P6 [Jurkat]
 d_AB = 0.894901144641
 s_AB = -0.313244922775
 
-566. Proteins: NCC [Jurkat] and VPR [HEK]
+605. Proteins: NCC [Jurkat] and VPR [HEK]
 d_AB = 0.912938331318
 s_AB = -0.313243260722
 
-567. Proteins: NC [HEK] and POL [HEK]
+606. Proteins: NC [HEK] and POL [HEK]
 d_AB = 0.870873786408
 s_AB = -0.312655625357
 
-568. Proteins: NC [HEK] and VIF [Jurkat]
+607. Proteins: NC [HEK] and VIF [Jurkat]
 d_AB = 0.846880907372
 s_AB = -0.311617988875
 
-569. Proteins: P6 [HEK] and VPR [HEK]
+608. Proteins: P6 [HEK] and VPR [HEK]
 d_AB = 0.925155925156
 s_AB = -0.31144875804
 
-570. Proteins: IN [HEK] and IN [Jurkat]
+609. Proteins: IN [HEK] and IN [Jurkat]
 d_AB = 0.887209302326
 s_AB = -0.311302255561
 
-571. Proteins: P6 [HEK] and Pol [HEK]
+610. Proteins: P6 [HEK] and Pol [HEK]
 d_AB = 0.872527472527
 s_AB = -0.311257849391
 
-572. Proteins: P6 [HEK] and P6 [Jurkat]
+611. Proteins: P6 [HEK] and P6 [Jurkat]
 d_AB = 0.905660377358
 s_AB = -0.309923706586
 
-573. Proteins: GP120 [HEK] and POL [Jurkat]
+612. Proteins: GP120 [HEK] and POL [Jurkat]
 d_AB = 0.87306501548
 s_AB = -0.308772998164
 
-574. Proteins: IN [Jurkat] and NEF [HEK]
+613. Proteins: IN [Jurkat] and NEF [HEK]
 d_AB = 0.932611311673
 s_AB = -0.304545302815
 
-575. Proteins: MA [HEK] and NEF [HEK]
+614. Proteins: MA [HEK] and NEF [HEK]
 d_AB = 0.926239419589
 s_AB = -0.3044529514
 
-576. Proteins: GAG [HEK] and NEF [HEK]
+615. Proteins: GAG [HEK] and NEF [HEK]
 d_AB = 0.914507772021
 s_AB = -0.303602599037
 
-577. Proteins: GAG [HEK] and POL [Jurkat]
+616. Proteins: GAG [HEK] and POL [Jurkat]
 d_AB = 0.863316582915
 s_AB = -0.302473924674
 
-578. Proteins: NC [HEK] and VPU [HEK]
+617. Proteins: NC [HEK] and VPU [HEK]
 d_AB = 0.921531100478
 s_AB = -0.302332535885
 
-579. Proteins: CA [Jurkat] and NEF [HEK]
+618. Proteins: CA [Jurkat] and NEF [HEK]
 d_AB = 0.911956521739
 s_AB = -0.301212286972
 
-580. Proteins: GP120 [HEK] and P6 [HEK]
+619. Proteins: GP120 [HEK] and P6 [HEK]
 d_AB = 0.916883116883
 s_AB = -0.300403384494
 
-581. Proteins: P6 [HEK] and POL [HEK]
+620. Proteins: P6 [HEK] and POL [HEK]
 d_AB = 0.893772893773
 s_AB = -0.297194534521
 
-582. Proteins: NEF [HEK] and REV [Jurkat]
+621. Proteins: NEF [HEK] and REV [Jurkat]
 d_AB = 0.928026172301
 s_AB = -0.296550599643
 
-583. Proteins: P6 [Jurkat] and REV [HEK]
+622. Proteins: P6 [Jurkat] and REV [HEK]
 d_AB = 0.910994764398
 s_AB = -0.296518391625
 
-584. Proteins: Pol [HEK] and TAT [HEK]
+623. Proteins: Pol [HEK] and TAT [HEK]
 d_AB = 0.867684478372
 s_AB = -0.296236791515
 
-585. Proteins: GP41 [Jurkat] and POL [HEK]
+624. Proteins: GP41 [Jurkat] and POL [HEK]
 d_AB = 0.910344827586
 s_AB = -0.295656494291
 
-586. Proteins: GAG [Jurkat] and P6 [HEK]
+625. Proteins: GAG [Jurkat] and P6 [HEK]
 d_AB = 0.889795918367
 s_AB = -0.289457816319
 
-587. Proteins: RT [HEK] and p6 [HEK]
+626. Proteins: RT [HEK] and p6 [HEK]
 d_AB = 0.978448275862
 s_AB = -0.285365129935
 
-588. Proteins: NC [HEK] and VPR [Jurkat]
+627. Proteins: NC [HEK] and VPR [Jurkat]
 d_AB = 0.90932642487
 s_AB = -0.282897806594
 
-589. Proteins: NC [HEK] and NEF [Jurkat]
+628. Proteins: NC [HEK] and NEF [Jurkat]
 d_AB = 0.912536443149
 s_AB = -0.281803179493
 
-590. Proteins: GAG [Jurkat] and NEF [HEK]
+629. Proteins: GAG [Jurkat] and NEF [HEK]
 d_AB = 0.914473684211
 s_AB = -0.281651426212
 
-591. Proteins: GAG [HEK] and PR [Jurkat]
+630. Proteins: GAG [HEK] and PR [Jurkat]
 d_AB = 0.910750507099
 s_AB = -0.280905699575
 
-592. Proteins: Pol [HEK] and REV [HEK]
+631. Proteins: Pol [HEK] and REV [HEK]
 d_AB = 0.89768683274
 s_AB = -0.278027561257
 
-593. Proteins: NEF [HEK] and TAT [Jurkat]
+632. Proteins: NEF [HEK] and TAT [Jurkat]
 d_AB = 0.941040462428
 s_AB = -0.277989426732
 
-594. Proteins: GP160 [HEK] and NCC [Jurkat]
+633. Proteins: GP160 [HEK] and NCC [Jurkat]
 d_AB = 0.937965260546
 s_AB = -0.277043765122
 
-595. Proteins: MA [Jurkat] and NC [HEK]
+634. Proteins: MA [Jurkat] and NC [HEK]
 d_AB = 0.922105263158
 s_AB = -0.27644546148
 
-596. Proteins: TAT [HEK] and VPU [Jurkat]
+635. Proteins: TAT [HEK] and VPU [Jurkat]
 d_AB = 0.90299051787
 s_AB = -0.275838199479
 
-597. Proteins: GAG [HEK] and GP41 [HEK]
+636. Proteins: GAG [HEK] and GP41 [HEK]
 d_AB = 0.977298524404
 s_AB = -0.275084543941
 
-598. Proteins: NCC [Jurkat] and POL [HEK]
+637. Proteins: NCC [Jurkat] and POL [HEK]
 d_AB = 0.906950672646
 s_AB = -0.273593664492
 
-599. Proteins: NC [Jurkat] and TAT [HEK]
+638. Proteins: NC [Jurkat] and TAT [HEK]
 d_AB = 0.920837124659
 s_AB = -0.2710675485
 
-600. Proteins: GP41 [Jurkat] and MA [HEK]
+639. Proteins: GP41 [Jurkat] and MA [HEK]
 d_AB = 0.958734525447
 s_AB = -0.270120363389
 
-601. Proteins: IN [HEK] and NC [Jurkat]
+640. Proteins: IN [HEK] and NC [Jurkat]
 d_AB = 0.923728813559
 s_AB = -0.266266230766
 
-602. Proteins: REV [HEK] and VPU [Jurkat]
+641. Proteins: REV [HEK] and VPU [Jurkat]
 d_AB = 0.925531914894
 s_AB = -0.265089926566
 
-603. Proteins: P6 [Jurkat] and TAT [HEK]
+642. Proteins: P6 [Jurkat] and TAT [HEK]
 d_AB = 0.93089092423
 s_AB = -0.264829107683
 
-604. Proteins: CA [Jurkat] and NC [HEK]
+643. Proteins: CA [Jurkat] and NC [HEK]
 d_AB = 0.926680244399
 s_AB = -0.262179172046
 
-605. Proteins: GAG [HEK] and GP160 [Jurkat]
+644. Proteins: GAG [HEK] and GP160 [Jurkat]
 d_AB = 0.947465437788
 s_AB = -0.2618016427
 
-606. Proteins: GP41 [HEK] and P6 [HEK]
+645. Proteins: GP41 [HEK] and P6 [HEK]
 d_AB = 1.00514138817
 s_AB = -0.260878717906
 
-607. Proteins: NC [HEK] and Pol [HEK]
+646. Proteins: NC [HEK] and Pol [HEK]
 d_AB = 0.916932907348
 s_AB = -0.259414398041
 
-608. Proteins: CA [HEK] and GP120 [HEK]
+647. Proteins: CA [HEK] and GP120 [HEK]
 d_AB = 1.14018691589
 s_AB = -0.259135253171
 
-609. Proteins: MA [Jurkat] and REV [HEK]
+648. Proteins: MA [Jurkat] and REV [HEK]
 d_AB = 0.939207048458
 s_AB = -0.258710764787
 
-610. Proteins: GAG [HEK] and GP120 [HEK]
+649. Proteins: GAG [HEK] and GP120 [HEK]
 d_AB = 0.945267958951
 s_AB = -0.25838150469
 
-611. Proteins: IN [Jurkat] and P6 [HEK]
+650. Proteins: IN [Jurkat] and P6 [HEK]
 d_AB = 0.963325183374
 s_AB = -0.256960055377
 
-612. Proteins: REV [HEK] and RT [Jurkat]
+651. Proteins: REV [HEK] and RT [Jurkat]
 d_AB = 0.950305143854
 s_AB = -0.256905082009
 
-613. Proteins: GP41 [HEK] and NCC [Jurkat]
+652. Proteins: GP41 [HEK] and NCC [Jurkat]
 d_AB = 1.0
 s_AB = -0.255597014925
 
-614. Proteins: NC [HEK] and VPR [HEK]
+653. Proteins: NC [HEK] and VPR [HEK]
 d_AB = 0.976165803109
 s_AB = -0.253000863558
 
-615. Proteins: GAG [HEK] and GP41 [Jurkat]
+654. Proteins: GAG [HEK] and GP41 [Jurkat]
 d_AB = 0.964083175803
 s_AB = -0.252189713102
 
-616. Proteins: CA [Jurkat] and REV [HEK]
+655. Proteins: CA [Jurkat] and REV [HEK]
 d_AB = 0.936589545844
 s_AB = -0.251636959209
 
-617. Proteins: P6 [HEK] and PR [HEK]
+656. Proteins: P6 [HEK] and PR [HEK]
 d_AB = 0.95246179966
 s_AB = -0.251130063022
 
-618. Proteins: GP160 [Jurkat] and MA [HEK]
+657. Proteins: GP160 [Jurkat] and MA [HEK]
 d_AB = 0.970822281167
 s_AB = -0.251026799251
 
-619. Proteins: IN [Jurkat] and NC [HEK]
+658. Proteins: IN [Jurkat] and NC [HEK]
 d_AB = 0.964165733483
 s_AB = -0.24868148874
 
-620. Proteins: POL [Jurkat] and TAT [HEK]
+659. Proteins: POL [Jurkat] and TAT [HEK]
 d_AB = 0.911165444173
 s_AB = -0.24839804912
 
-621. Proteins: GP160 [Jurkat] and TAT [HEK]
+660. Proteins: GP160 [Jurkat] and TAT [HEK]
 d_AB = 0.955960516325
 s_AB = -0.247079549867
 
-622. Proteins: IN [HEK] and NCC [Jurkat]
+661. Proteins: IN [HEK] and NCC [Jurkat]
 d_AB = 0.936477382098
 s_AB = -0.246201878939
 
-623. Proteins: GP120 [HEK] and NCC [Jurkat]
+662. Proteins: GP120 [HEK] and NCC [Jurkat]
 d_AB = 0.964432284542
 s_AB = -0.24243112568
 
-624. Proteins: CA [Jurkat] and TAT [HEK]
+663. Proteins: CA [Jurkat] and TAT [HEK]
 d_AB = 0.936988543372
 s_AB = -0.239444837571
 
-625. Proteins: P6 [HEK] and VPU [HEK]
+664. Proteins: P6 [HEK] and VPU [HEK]
 d_AB = 0.992869875223
 s_AB = -0.23843177767
 
-626. Proteins: RT [Jurkat] and TAT [HEK]
+665. Proteins: RT [Jurkat] and TAT [HEK]
 d_AB = 0.96006655574
 s_AB = -0.235350546012
 
-627. Proteins: MA [Jurkat] and TAT [HEK]
+666. Proteins: MA [Jurkat] and TAT [HEK]
 d_AB = 0.957983193277
 s_AB = -0.228141495857
 
-628. Proteins: P6 [HEK] and VIF [Jurkat]
+667. Proteins: P6 [HEK] and VIF [Jurkat]
 d_AB = 0.939024390244
 s_AB = -0.226912522532
 
-629. Proteins: TAT [Jurkat] and p6 [HEK]
+668. Proteins: TAT [Jurkat] and p6 [HEK]
 d_AB = 1.05023923445
 s_AB = -0.226772929111
 
-630. Proteins: CA [HEK] and Pol [HEK]
+669. Proteins: CA [HEK] and Pol [HEK]
 d_AB = 1.14066496164
 s_AB = -0.225156027963
 
-631. Proteins: NC [HEK] and RT [Jurkat]
+670. Proteins: NC [HEK] and RT [Jurkat]
 d_AB = 0.983367983368
 s_AB = -0.224475153887
 
-632. Proteins: NC [Jurkat] and NEF [HEK]
+671. Proteins: NC [Jurkat] and NEF [HEK]
 d_AB = 1.00627352572
 s_AB = -0.222366575205
 
-633. Proteins: GP120 [HEK] and p6 [HEK]
+672. Proteins: GP120 [HEK] and p6 [HEK]
 d_AB = 1.07222222222
 s_AB = -0.219917929293
 
-634. Proteins: NCC [Jurkat] and NEF [HEK]
+673. Proteins: NCC [Jurkat] and NEF [HEK]
 d_AB = 1.00198019802
 s_AB = -0.219344119619
 
-635. Proteins: GP160 [HEK] and TAT [HEK]
+674. Proteins: GP160 [HEK] and TAT [HEK]
 d_AB = 0.989864864865
 s_AB = -0.215703199927
 
-636. Proteins: GP41 [HEK] and p6 [HEK]
+675. Proteins: GP41 [HEK] and p6 [HEK]
 d_AB = 1.12637362637
 s_AB = -0.214500129845
 
-637. Proteins: Pol [HEK] and p6 [HEK]
+676. Proteins: Pol [HEK] and p6 [HEK]
 d_AB = 1.04418604651
 s_AB = -0.214452925544
 
-638. Proteins: GP160 [Jurkat] and REV [HEK]
+677. Proteins: GP160 [Jurkat] and REV [HEK]
 d_AB = 1.00316957211
 s_AB = -0.211663618195
 
-639. Proteins: PR [Jurkat] and TAT [HEK]
+678. Proteins: PR [Jurkat] and TAT [HEK]
 d_AB = 0.974548440066
 s_AB = -0.210880752313
 
-640. Proteins: IN [Jurkat] and REV [HEK]
+679. Proteins: IN [Jurkat] and REV [HEK]
 d_AB = 1.00185528757
 s_AB = -0.21035902326
 
-641. Proteins: GP160 [HEK] and REV [HEK]
+680. Proteins: GP160 [HEK] and REV [HEK]
 d_AB = 1.00885739593
 s_AB = -0.208503792977
 
-642. Proteins: NC [HEK] and NEF [HEK]
+681. Proteins: NC [HEK] and NEF [HEK]
 d_AB = 1.01829268293
 s_AB = -0.206016709338
 
-643. Proteins: POL [Jurkat] and REV [HEK]
+682. Proteins: POL [Jurkat] and REV [HEK]
 d_AB = 0.965870307167
 s_AB = -0.205486310236
 
-644. Proteins: CA [HEK] and GP41 [HEK]
+683. Proteins: CA [HEK] and GP41 [HEK]
 d_AB = 1.24307692308
 s_AB = -0.204978850686
 
-645. Proteins: NC [Jurkat] and p6 [HEK]
+684. Proteins: NC [Jurkat] and p6 [HEK]
 d_AB = 1.08285714286
 s_AB = -0.203765232471
 
-646. Proteins: IN [Jurkat] and TAT [HEK]
+685. Proteins: IN [Jurkat] and TAT [HEK]
 d_AB = 0.997352162401
 s_AB = -0.203069024319
 
-647. Proteins: NC [HEK] and VPU [Jurkat]
+686. Proteins: NC [HEK] and VPU [Jurkat]
 d_AB = 0.990274093722
 s_AB = -0.200980659129
 
-648. Proteins: CA [HEK] and NC [Jurkat]
+687. Proteins: CA [HEK] and NC [Jurkat]
 d_AB = 1.19292604502
 s_AB = -0.200878347856
 
-649. Proteins: GP41 [Jurkat] and REV [HEK]
+688. Proteins: GP41 [Jurkat] and REV [HEK]
 d_AB = 1.02348178138
 s_AB = -0.198357217343
 
-650. Proteins: GP41 [Jurkat] and TAT [HEK]
+689. Proteins: GP41 [Jurkat] and TAT [HEK]
 d_AB = 1.01240310078
 s_AB = -0.197642773834
 
-651. Proteins: IN [HEK] and NC [HEK]
+690. Proteins: IN [HEK] and NC [HEK]
 d_AB = 0.988954970263
 s_AB = -0.196709365401
 
-652. Proteins: NC [HEK] and POL [Jurkat]
+691. Proteins: NC [HEK] and POL [Jurkat]
 d_AB = 0.975683890578
 s_AB = -0.196305638218
 
-653. Proteins: NEF [Jurkat] and P6 [HEK]
+692. Proteins: NEF [Jurkat] and P6 [HEK]
 d_AB = 1.00550458716
 s_AB = -0.196273052014
 
-654. Proteins: REV [Jurkat] and p6 [HEK]
+693. Proteins: REV [Jurkat] and p6 [HEK]
 d_AB = 1.08723404255
 s_AB = -0.195325003793
 
-655. Proteins: PR [HEK] and p6 [HEK]
+694. Proteins: PR [HEK] and p6 [HEK]
 d_AB = 1.08510638298
 s_AB = -0.193339129842
 
-656. Proteins: PR [Jurkat] and REV [HEK]
+695. Proteins: PR [Jurkat] and REV [HEK]
 d_AB = 1.00687876182
 s_AB = -0.190343554667
 
-657. Proteins: CA [HEK] and GP160 [HEK]
+696. Proteins: CA [HEK] and GP160 [HEK]
 d_AB = 1.21717171717
 s_AB = -0.190296067334
 
-658. Proteins: GP160 [HEK] and p6 [HEK]
+697. Proteins: GP160 [HEK] and p6 [HEK]
 d_AB = 1.11034482759
 s_AB = -0.189940939375
 
-659. Proteins: P6 [Jurkat] and p6 [HEK]
+698. Proteins: P6 [Jurkat] and p6 [HEK]
 d_AB = 1.1017699115
 s_AB = -0.188667822578
 
-660. Proteins: P6 [HEK] and VIF [HEK]
+699. Proteins: P6 [HEK] and VIF [HEK]
 d_AB = 0.982683982684
 s_AB = -0.188565222656
 
-661. Proteins: GP160 [HEK] and NC [HEK]
+700. Proteins: GP160 [HEK] and NC [HEK]
 d_AB = 1.03283898305
 s_AB = -0.185155117244
 
-662. Proteins: CA [HEK] and RT [HEK]
+701. Proteins: CA [HEK] and RT [HEK]
 d_AB = 1.19058823529
 s_AB = -0.180407188047
 
-663. Proteins: VPR [HEK] and p6 [HEK]
+702. Proteins: VPR [HEK] and p6 [HEK]
 d_AB = 1.13157894737
 s_AB = -0.179879385965
 
-664. Proteins: MA [Jurkat] and p6 [HEK]
+703. Proteins: MA [Jurkat] and p6 [HEK]
 d_AB = 1.10430839002
 s_AB = -0.176534001282
 
-665. Proteins: CA [Jurkat] and P6 [HEK]
+704. Proteins: CA [Jurkat] and P6 [HEK]
 d_AB = 1.02008032129
 s_AB = -0.176217111689
 
-666. Proteins: NCC [Jurkat] and P6 [HEK]
+705. Proteins: NCC [Jurkat] and P6 [HEK]
 d_AB = 1.0306122449
 s_AB = -0.173840697004
 
-667. Proteins: CA [HEK] and TAT [Jurkat]
+706. Proteins: CA [HEK] and TAT [Jurkat]
 d_AB = 1.2110817942
 s_AB = -0.17311238691
 
-668. Proteins: GP160 [Jurkat] and NC [HEK]
+707. Proteins: GP160 [Jurkat] and NC [HEK]
 d_AB = 1.04363974002
 s_AB = -0.171826361676
 
-669. Proteins: IN [Jurkat] and p6 [HEK]
+708. Proteins: IN [Jurkat] and p6 [HEK]
 d_AB = 1.12760416667
 s_AB = -0.167534722222
 
-670. Proteins: CA [HEK] and MA [Jurkat]
+709. Proteins: CA [HEK] and MA [Jurkat]
 d_AB = 1.22139303483
 s_AB = -0.166631374022
 
-671. Proteins: NC [HEK] and PR [Jurkat]
+710. Proteins: NC [HEK] and PR [Jurkat]
 d_AB = 1.03169734151
 s_AB = -0.166157886369
 
-672. Proteins: GAG [HEK] and P6 [HEK]
+711. Proteins: GAG [HEK] and P6 [HEK]
 d_AB = 1.03678474114
 s_AB = -0.164454254177
 
-673. Proteins: GP120 [Jurkat] and P6 [HEK]
+712. Proteins: GP120 [Jurkat] and P6 [HEK]
 d_AB = 1.03220035778
 s_AB = -0.164278754638
 
-674. Proteins: GP41 [HEK] and REV [HEK]
+713. Proteins: GP41 [HEK] and REV [HEK]
 d_AB = 1.09451795841
 s_AB = -0.163431219748
 
-675. Proteins: GP41 [Jurkat] and NC [HEK]
+714. Proteins: GP41 [Jurkat] and NC [HEK]
 d_AB = 1.06
 s_AB = -0.162471910112
 
-676. Proteins: GP120 [HEK] and REV [HEK]
+715. Proteins: GP120 [HEK] and REV [HEK]
 d_AB = 1.05123339658
 s_AB = -0.157982176872
 
-677. Proteins: GP41 [HEK] and TAT [HEK]
+716. Proteins: GP41 [HEK] and TAT [HEK]
 d_AB = 1.09344115004
 s_AB = -0.152714904004
 
-678. Proteins: P6 [HEK] and RT [Jurkat]
+717. Proteins: P6 [HEK] and RT [Jurkat]
 d_AB = 1.06276150628
 s_AB = -0.152519647508
 
-679. Proteins: CA [HEK] and VPR [HEK]
+718. Proteins: CA [HEK] and VPR [HEK]
 d_AB = 1.26858513189
 s_AB = -0.150055218983
 
-680. Proteins: CA [HEK] and P6 [Jurkat]
+719. Proteins: CA [HEK] and P6 [Jurkat]
 d_AB = 1.25423728814
 s_AB = -0.143382463491
 
-681. Proteins: GP41 [HEK] and NC [HEK]
+720. Proteins: GP41 [HEK] and NC [HEK]
 d_AB = 1.12256586483
 s_AB = -0.136016224718
 
-682. Proteins: GP120 [HEK] and TAT [HEK]
+721. Proteins: GP120 [HEK] and TAT [HEK]
 d_AB = 1.06311992786
 s_AB = -0.134302521483
 
-683. Proteins: P6 [HEK] and PR [Jurkat]
+722. Proteins: P6 [HEK] and PR [Jurkat]
 d_AB = 1.08097165992
 s_AB = -0.124321584492
 
-684. Proteins: P6 [HEK] and POL [Jurkat]
+723. Proteins: P6 [HEK] and POL [Jurkat]
 d_AB = 1.05765407555
 s_AB = -0.121773469778
 
-685. Proteins: CA [HEK] and REV [Jurkat]
+724. Proteins: CA [HEK] and REV [Jurkat]
 d_AB = 1.26914153132
 s_AB = -0.120599532567
 
-686. Proteins: CA [HEK] and IN [Jurkat]
+725. Proteins: CA [HEK] and IN [Jurkat]
 d_AB = 1.28405797101
 s_AB = -0.118262935418
 
-687. Proteins: GAG [Jurkat] and p6 [HEK]
+726. Proteins: GAG [Jurkat] and p6 [HEK]
 d_AB = 1.1376344086
 s_AB = -0.116472976222
 
-688. Proteins: NC [HEK] and P6 [HEK]
+727. Proteins: NC [HEK] and P6 [HEK]
 d_AB = 1.09228650138
 s_AB = -0.115151515152
 
-689. Proteins: P6 [HEK] and VPR [Jurkat]
+728. Proteins: P6 [HEK] and VPR [Jurkat]
 d_AB = 1.09198813056
 s_AB = -0.10767411743
 
-690. Proteins: VPU [HEK] and p6 [HEK]
+729. Proteins: VPU [HEK] and p6 [HEK]
 d_AB = 1.20149253731
 s_AB = -0.104662765717
 
-691. Proteins: VIF [Jurkat] and p6 [HEK]
+730. Proteins: VIF [Jurkat] and p6 [HEK]
 d_AB = 1.13661202186
 s_AB = -0.104178541056
 
-692. Proteins: NEF [Jurkat] and p6 [HEK]
+731. Proteins: NEF [Jurkat] and p6 [HEK]
 d_AB = 1.17307692308
 s_AB = -0.103554366231
 
-693. Proteins: CA [Jurkat] and p6 [HEK]
+732. Proteins: CA [Jurkat] and p6 [HEK]
 d_AB = 1.16913319239
 s_AB = -0.102017890723
 
-694. Proteins: GP120 [HEK] and NC [HEK]
+733. Proteins: GP120 [HEK] and NC [HEK]
 d_AB = 1.10932105869
 s_AB = -0.10052742616
 
-695. Proteins: CA [HEK] and GAG [Jurkat]
+734. Proteins: CA [HEK] and GAG [Jurkat]
 d_AB = 1.26291079812
 s_AB = -0.0983786042456
 
-696. Proteins: CA [HEK] and NEF [Jurkat]
+735. Proteins: CA [HEK] and NEF [Jurkat]
 d_AB = 1.28898128898
 s_AB = -0.0948320178707
 
-697. Proteins: POL [HEK] and p6 [HEK]
+736. Proteins: POL [HEK] and p6 [HEK]
 d_AB = 1.17466410749
 s_AB = -0.0911569709458
 
-698. Proteins: CA [HEK] and PR [HEK]
+737. Proteins: CA [HEK] and PR [HEK]
 d_AB = 1.29714285714
 s_AB = -0.0884846732215
 
-699. Proteins: VIF [HEK] and p6 [HEK]
+738. Proteins: VIF [HEK] and p6 [HEK]
 d_AB = 1.15868263473
 s_AB = -0.0874202207473
 
-700. Proteins: CA [HEK] and VIF [Jurkat]
+739. Proteins: CA [HEK] and VIF [Jurkat]
 d_AB = 1.26078431373
 s_AB = -0.0871882667323
 
-701. Proteins: CA [HEK] and CA [Jurkat]
+740. Proteins: CA [HEK] and CA [Jurkat]
 d_AB = 1.29493087558
 s_AB = -0.0834022250801
 
-702. Proteins: GAG [HEK] and p6 [HEK]
+741. Proteins: GAG [HEK] and p6 [HEK]
 d_AB = 1.19746121298
 s_AB = -0.0786314324835
 
-703. Proteins: P6 [HEK] and VPU [Jurkat]
+742. Proteins: P6 [HEK] and VPU [Jurkat]
 d_AB = 1.12210200927
 s_AB = -0.0765907601071
 
-704. Proteins: CA [HEK] and VPU [HEK]
+743. Proteins: CA [HEK] and VPU [HEK]
 d_AB = 1.33802816901
 s_AB = -0.0753091515601
 
-705. Proteins: RT [Jurkat] and p6 [HEK]
+744. Proteins: RT [Jurkat] and p6 [HEK]
 d_AB = 1.22075055188
 s_AB = -0.0693842520452
 
-706. Proteins: PR [Jurkat] and p6 [HEK]
+745. Proteins: PR [Jurkat] and p6 [HEK]
 d_AB = 1.2132196162
 s_AB = -0.066927278344
 
-707. Proteins: GP120 [Jurkat] and p6 [HEK]
+746. Proteins: GP120 [Jurkat] and p6 [HEK]
 d_AB = 1.20786516854
 s_AB = -0.0634675940178
 
-708. Proteins: CA [HEK] and GP120 [Jurkat]
+747. Proteins: CA [HEK] and GP120 [Jurkat]
 d_AB = 1.31515151515
 s_AB = -0.0633632649494
 
-709. Proteins: P6 [HEK] and REV [HEK]
+748. Proteins: P6 [HEK] and REV [HEK]
 d_AB = 1.14709110867
 s_AB = -0.0597139964647
 
-710. Proteins: CA [HEK] and PR [Jurkat]
+749. Proteins: CA [HEK] and PR [Jurkat]
 d_AB = 1.32790697674
 s_AB = -0.0594219353484
 
-711. Proteins: CA [HEK] and POL [HEK]
+750. Proteins: CA [HEK] and POL [HEK]
 d_AB = 1.32365145228
 s_AB = -0.0493516436931
 
-712. Proteins: CA [HEK] and VIF [HEK]
+751. Proteins: CA [HEK] and VIF [HEK]
 d_AB = 1.31001589825
 s_AB = -0.0432689747705
 
-713. Proteins: CA [HEK] and GAG [HEK]
+752. Proteins: CA [HEK] and GAG [HEK]
 d_AB = 1.34328358209
 s_AB = -0.0399910809138
 
-714. Proteins: NEF [HEK] and P6 [HEK]
+753. Proteins: NEF [HEK] and P6 [HEK]
 d_AB = 1.19277108434
 s_AB = -0.0389763244568
 
-715. Proteins: IN [HEK] and P6 [HEK]
+754. Proteins: IN [HEK] and P6 [HEK]
 d_AB = 1.15873015873
 s_AB = -0.0343721934631
 
-716. Proteins: NCC [Jurkat] and p6 [HEK]
+755. Proteins: NCC [Jurkat] and p6 [HEK]
 d_AB = 1.24511545293
 s_AB = -0.0341911391091
 
-717. Proteins: NC [HEK] and p6 [HEK]
+756. Proteins: NC [HEK] and p6 [HEK]
 d_AB = 1.2482168331
 s_AB = -0.0340748335711
 
-718. Proteins: VPR [Jurkat] and p6 [HEK]
+757. Proteins: VPR [Jurkat] and p6 [HEK]
 d_AB = 1.24191063174
 s_AB = -0.0326052663903
 
-719. Proteins: CA [HEK] and VPR [Jurkat]
+758. Proteins: CA [HEK] and VPR [Jurkat]
 d_AB = 1.35081967213
 s_AB = -0.0308782435441
 
-720. Proteins: POL [Jurkat] and p6 [HEK]
+759. Proteins: POL [Jurkat] and p6 [HEK]
 d_AB = 1.22384937238
 s_AB = -0.0304318230775
 
-721. Proteins: CA [HEK] and RT [Jurkat]
+760. Proteins: CA [HEK] and RT [Jurkat]
 d_AB = 1.36714975845
 s_AB = -0.0301670630113
 
-722. Proteins: GP160 [Jurkat] and P6 [HEK]
+761. Proteins: GP160 [Jurkat] and P6 [HEK]
 d_AB = 1.19898819562
 s_AB = -0.0239159226083
 
-723. Proteins: CA [HEK] and NCC [Jurkat]
+762. Proteins: CA [HEK] and NCC [Jurkat]
 d_AB = 1.36259541985
 s_AB = -0.0238931897363
 
-724. Proteins: GP41 [Jurkat] and P6 [HEK]
+763. Proteins: GP41 [Jurkat] and P6 [HEK]
 d_AB = 1.21201413428
 s_AB = -0.0178957923657
 
-725. Proteins: IN [HEK] and p6 [HEK]
+764. Proteins: IN [HEK] and p6 [HEK]
 d_AB = 1.25598802395
 s_AB = -0.0119679783789
 
-726. Proteins: NEF [HEK] and p6 [HEK]
+765. Proteins: NEF [HEK] and p6 [HEK]
 d_AB = 1.30672926448
 s_AB = 0.000128205543883
 
-727. Proteins: CA [HEK] and POL [Jurkat]
+766. Proteins: CA [HEK] and POL [Jurkat]
 d_AB = 1.36674259681
 s_AB = 0.0052793838046
 
-728. Proteins: VPU [Jurkat] and p6 [HEK]
+767. Proteins: VPU [Jurkat] and p6 [HEK]
 d_AB = 1.28295819936
 s_AB = 0.00941177983854
 
-729. Proteins: CA [HEK] and VPU [Jurkat]
+768. Proteins: CA [HEK] and VPU [Jurkat]
 d_AB = 1.39965694683
 s_AB = 0.0189285097645
 
-730. Proteins: CA [HEK] and GP160 [Jurkat]
+769. Proteins: CA [HEK] and GP160 [Jurkat]
 d_AB = 1.42533081285
 s_AB = 0.020391026949
 
-731. Proteins: REV [HEK] and p6 [HEK]
+770. Proteins: REV [HEK] and p6 [HEK]
 d_AB = 1.30248306998
 s_AB = 0.0208243147032
 
-732. Proteins: CA [HEK] and IN [HEK]
+771. Proteins: CA [HEK] and IN [HEK]
 d_AB = 1.40222575517
 s_AB = 0.0270877352921
 
-733. Proteins: P6 [HEK] and TAT [HEK]
+772. Proteins: P6 [HEK] and TAT [HEK]
 d_AB = 1.22360248447
 s_AB = 0.0285905034461
 
-734. Proteins: CA [HEK] and NEF [HEK]
+773. Proteins: CA [HEK] and NEF [HEK]
 d_AB = 1.445
 s_AB = 0.0312169235243
 
-735. Proteins: GP41 [Jurkat] and p6 [HEK]
+774. Proteins: GP41 [Jurkat] and p6 [HEK]
 d_AB = 1.3438077634
 s_AB = 0.0390441866221
 
-736. Proteins: GP160 [Jurkat] and p6 [HEK]
+775. Proteins: GP160 [Jurkat] and p6 [HEK]
 d_AB = 1.34683098592
 s_AB = 0.0490732175539
 
-737. Proteins: CA [HEK] and NC [HEK]
+776. Proteins: CA [HEK] and NC [HEK]
 d_AB = 1.44410876133
 s_AB = 0.0546350771188
 
-738. Proteins: CA [HEK] and GP41 [Jurkat]
+777. Proteins: CA [HEK] and GP41 [Jurkat]
 d_AB = 1.47211155378
 s_AB = 0.060165959462
 
-739. Proteins: TAT [HEK] and p6 [HEK]
+778. Proteins: TAT [HEK] and p6 [HEK]
 d_AB = 1.33475026567
 s_AB = 0.0648846345111
 
-740. Proteins: CA [HEK] and REV [HEK]
+779. Proteins: CA [HEK] and REV [HEK]
 d_AB = 1.48996458087
 s_AB = 0.101123808056
 
-741. Proteins: CA [HEK] and TAT [HEK]
+780. Proteins: CA [HEK] and TAT [HEK]
 d_AB = 1.4955654102
 s_AB = 0.118517761492
 
