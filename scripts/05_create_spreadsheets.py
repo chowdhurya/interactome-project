@@ -32,6 +32,6 @@ for flu_protein, s_data in data.iteritems():
         s_values.append((flu, jurkat, float(s_AB)))
 with open('output/flu-jurkat_normalized_crossed.tsv', 'wb') as out:
     out.write('\t'.join(('Rank', 'Flu Protein', 'Jurkat Protein', 'Normalized s_AB')) + '\n')
-    for i, data_row in enumerate(sorted(s_values, key=lambda x: x[2])):
+    for i, data_row in enumerate(sorted(s_values, key=lambda x: x[2], reverse=True)):
         flu_protein, jurkat_protein, s_AB = data_row
         out.write('\t'.join((str(i + 1), flu_protein, jurkat_protein, str(s_AB))) + '\n')
