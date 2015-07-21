@@ -1,23 +1,37 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
+cairo=1.12.18=4
 click=4.0=py27_0
 conda=3.14.1=py27_0
 conda-env=2.3.0=py27_0
 decorator=3.4.2=py27_0
+fontconfig=2.11.1=4
+freetype=2.5.2=2
+libpng=1.6.17=0
+libxml2=2.9.2=0
+matplotlib=1.4.3=np19py27_2
 networkx=1.9.1=py27_0
 numpy=1.9.2=py27_0
 openssl=1.0.1k=1
 pandas=0.16.2=np19py27_0
 pip=7.1.0=py27_0
+pixman=0.26.2=0
+py2cairo=1.10.0=py27_2
 pycosat=0.6.1=py27_0
+pyparsing=2.0.3=py27_0
+pyqt=4.11.3=py27_1
 python=2.7.10=0
 python-dateutil=2.4.2=py27_0
 pytz=2015.4=py27_0
 pyyaml=3.11=py27_1
+qt=4.8.6=3
 readline=6.2=2
 requests=2.7.0=py27_0
+scipy=0.15.1=np19py27_0
+seaborn=0.6.0=np19py27_0
 setuptools=18.0.1=py27_0
+sip=4.16.5=py27_0
 six=1.9.0=py27_0
 sqlite=3.8.4.1=1
 system=5.8=2
