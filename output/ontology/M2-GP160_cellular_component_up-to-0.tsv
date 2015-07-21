@@ -1,0 +1,65 @@
+M2 (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 0
+Label	REF	ID	URL	p-value
+UNCLASSIFIED	3127			0
+proteasome regulatory particle	22	GO:0005838	http://amigo.geneontology.org/amigo/term/GO:0005838	1.39693712489e-14
+macromolecular complex	4810	GO:0032991	http://amigo.geneontology.org/amigo/term/GO:0032991	3.50179497689e-14
+proteasome accessory complex	25	GO:0022624	http://amigo.geneontology.org/amigo/term/GO:0022624	4.38716070403e-14
+membrane-bounded vesicle	3438	GO:0031988	http://amigo.geneontology.org/amigo/term/GO:0031988	2.06964042333e-13
+proteasome complex	77	GO:0000502	http://amigo.geneontology.org/amigo/term/GO:0000502	2.65823483996e-13
+cytoplasm	10314	GO:0005737	http://amigo.geneontology.org/amigo/term/GO:0005737	5.70252550508e-13
+vesicle	3556	GO:0031982	http://amigo.geneontology.org/amigo/term/GO:0031982	6.36614529798e-13
+extracellular exosome	2710	GO:0070062	http://amigo.geneontology.org/amigo/term/GO:0070062	1.00953398866e-12
+extracellular membrane-bounded organelle	2710	GO:0065010	http://amigo.geneontology.org/amigo/term/GO:0065010	1.00953398866e-12
+extracellular organelle	2723	GO:0043230	http://amigo.geneontology.org/amigo/term/GO:0043230	1.16358138455e-12
+extracellular vesicle	2723	GO:1903561	http://amigo.geneontology.org/amigo/term/GO:1903561	1.16358138455e-12
+protein complex	4152	GO:0043234	http://amigo.geneontology.org/amigo/term/GO:0043234	1.45007439568e-12
+cytoplasmic part	7723	GO:0044444	http://amigo.geneontology.org/amigo/term/GO:0044444	9.18753912888e-12
+intracellular organelle part	7672	GO:0044446	http://amigo.geneontology.org/amigo/term/GO:0044446	7.25817807108e-11
+organelle part	7880	GO:0044422	http://amigo.geneontology.org/amigo/term/GO:0044422	2.31729368697e-10
+extracellular region part	3687	GO:0044421	http://amigo.geneontology.org/amigo/term/GO:0044421	7.65083602086e-09
+membrane-bounded organelle	11617	GO:0043227	http://amigo.geneontology.org/amigo/term/GO:0043227	7.7708408329e-09
+intracellular membrane-bounded organelle	10454	GO:0043231	http://amigo.geneontology.org/amigo/term/GO:0043231	8.00650590371e-09
+cytosol	3086	GO:0005829	http://amigo.geneontology.org/amigo/term/GO:0005829	1.89657241818e-08
+intracellular organelle	11472	GO:0043229	http://amigo.geneontology.org/amigo/term/GO:0043229	6.10321642641e-08
+organelle	12514	GO:0043226	http://amigo.geneontology.org/amigo/term/GO:0043226	3.54407744238e-07
+intracellular part	13251	GO:0044424	http://amigo.geneontology.org/amigo/term/GO:0044424	4.02331281812e-07
+extracellular region	4412	GO:0005576	http://amigo.geneontology.org/amigo/term/GO:0005576	1.10334589096e-06
+membrane	8856	GO:0016020	http://amigo.geneontology.org/amigo/term/GO:0016020	1.63855741842e-06
+intracellular	13605	GO:0005622	http://amigo.geneontology.org/amigo/term/GO:0005622	1.63879213102e-06
+nuclear proteasome complex	8	GO:0031595	http://amigo.geneontology.org/amigo/term/GO:0031595	9.2376374449e-06
+cytosolic proteasome complex	9	GO:0031597	http://amigo.geneontology.org/amigo/term/GO:0031597	1.47673755256e-05
+proteasome regulatory particle, base subcomplex	11	GO:0008540	http://amigo.geneontology.org/amigo/term/GO:0008540	3.28222816041e-05
+COPI vesicle coat	12	GO:0030126	http://amigo.geneontology.org/amigo/term/GO:0030126	4.63933187116e-05
+COPI-coated vesicle membrane	15	GO:0030663	http://amigo.geneontology.org/amigo/term/GO:0030663	0.000112588234838
+COPI-coated vesicle	20	GO:0030137	http://amigo.geneontology.org/amigo/term/GO:0030137	0.000352298870194
+endoplasmic reticulum part	1081	GO:0044432	http://amigo.geneontology.org/amigo/term/GO:0044432	0.000885662040623
+catalytic complex	981	GO:1902494	http://amigo.geneontology.org/amigo/term/GO:1902494	0.00184878090526
+endoplasmic reticulum	1562	GO:0005783	http://amigo.geneontology.org/amigo/term/GO:0005783	0.00268156567636
+cell part	15654	GO:0044464	http://amigo.geneontology.org/amigo/term/GO:0044464	0.00268404049317
+cell	15700	GO:0005623	http://amigo.geneontology.org/amigo/term/GO:0005623	0.00312791316699
+nuclear part	3705	GO:0044428	http://amigo.geneontology.org/amigo/term/GO:0044428	0.00365533806511
+endoplasmic reticulum chaperone complex	11	GO:0034663	http://amigo.geneontology.org/amigo/term/GO:0034663	0.00469183316255
+endomembrane system	3579	GO:0012505	http://amigo.geneontology.org/amigo/term/GO:0012505	0.00733993376545
+vesicle coat	45	GO:0030120	http://amigo.geneontology.org/amigo/term/GO:0030120	0.00858958731826
+Golgi-associated vesicle membrane	46	GO:0030660	http://amigo.geneontology.org/amigo/term/GO:0030660	0.00936024719898
+melanosome	103	GO:0042470	http://amigo.geneontology.org/amigo/term/GO:0042470	0.0107585839582
+pigment granule	103	GO:0048770	http://amigo.geneontology.org/amigo/term/GO:0048770	0.0107585839582
+intracellular organelle lumen	3994	GO:0070013	http://amigo.geneontology.org/amigo/term/GO:0070013	0.0145549901418
+organelle lumen	4049	GO:0043233	http://amigo.geneontology.org/amigo/term/GO:0043233	0.0186276873876
+cytosolic part	203	GO:0044445	http://amigo.geneontology.org/amigo/term/GO:0044445	0.021546463287
+membrane-enclosed lumen	4102	GO:0031974	http://amigo.geneontology.org/amigo/term/GO:0031974	0.0235183339505
+nucleoplasm	2783	GO:0005654	http://amigo.geneontology.org/amigo/term/GO:0005654	0.0235839308152
+membrane protein complex	1080	GO:0098796	http://amigo.geneontology.org/amigo/term/GO:0098796	0.0291855060684
+organelle membrane	2962	GO:0031090	http://amigo.geneontology.org/amigo/term/GO:0031090	0.0587733917374
+bounding membrane of organelle	2229	GO:0098588	http://amigo.geneontology.org/amigo/term/GO:0098588	0.059432376996
+Golgi-associated vesicle	75	GO:0005798	http://amigo.geneontology.org/amigo/term/GO:0005798	0.0624305424392
+membrane coat	82	GO:0030117	http://amigo.geneontology.org/amigo/term/GO:0030117	0.0879737278288
+coated membrane	82	GO:0048475	http://amigo.geneontology.org/amigo/term/GO:0048475	0.0879737278288
+nuclear lumen	3361	GO:0031981	http://amigo.geneontology.org/amigo/term/GO:0031981	0.110853069388
+endoplasmic reticulum membrane	906	GO:0005789	http://amigo.geneontology.org/amigo/term/GO:0005789	0.16148910923
+nuclear outer membrane-endoplasmic reticulum membrane network	924	GO:0042175	http://amigo.geneontology.org/amigo/term/GO:0042175	0.189462827875
+cytoplasmic vesicle	1146	GO:0031410	http://amigo.geneontology.org/amigo/term/GO:0031410	0.24426295598
+Swr1 complex	9	GO:0000812	http://amigo.geneontology.org/amigo/term/GO:0000812	0.331968291929
+transferase complex	637	GO:1990234	http://amigo.geneontology.org/amigo/term/GO:1990234	0.344704012651
+coated vesicle membrane	125	GO:0030662	http://amigo.geneontology.org/amigo/term/GO:0030662	0.436104626738
+MCM complex	11	GO:0042555	http://amigo.geneontology.org/amigo/term/GO:0042555	0.494193870315

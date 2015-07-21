@@ -1,0 +1,78 @@
+HA (Flu) / GP160 (Jurkat) molecular_function Ontology, dist <= 1
+Label	REF	ID	URL	p-value
+UNCLASSIFIED	4174			0
+RNA binding	1557	GO:0003723	http://amigo.geneontology.org/amigo/term/GO:0003723	1.92770602313e-70
+poly(A) RNA binding	1152	GO:0044822	http://amigo.geneontology.org/amigo/term/GO:0044822	2.41550285011e-69
+heterocyclic compound binding	5819	GO:1901363	http://amigo.geneontology.org/amigo/term/GO:1901363	5.26919409753e-43
+organic cyclic compound binding	5891	GO:0097159	http://amigo.geneontology.org/amigo/term/GO:0097159	4.82376585503e-42
+structural constituent of ribosome	163	GO:0003735	http://amigo.geneontology.org/amigo/term/GO:0003735	6.75807838492e-41
+protein binding	10396	GO:0005515	http://amigo.geneontology.org/amigo/term/GO:0005515	8.05529780132e-37
+structural molecule activity	639	GO:0005198	http://amigo.geneontology.org/amigo/term/GO:0005198	2.10644608075e-35
+binding	13944	GO:0005488	http://amigo.geneontology.org/amigo/term/GO:0005488	6.54245681188e-32
+nucleic acid binding	3932	GO:0003676	http://amigo.geneontology.org/amigo/term/GO:0003676	2.29969374539e-29
+molecular_function	16640	GO:0003674	http://amigo.geneontology.org/amigo/term/GO:0003674	3.07170273282e-28
+unfolded protein binding	102	GO:0051082	http://amigo.geneontology.org/amigo/term/GO:0051082	1.70742474285e-22
+nucleoside phosphate binding	2321	GO:1901265	http://amigo.geneontology.org/amigo/term/GO:1901265	3.54138989654e-22
+nucleotide binding	2320	GO:0000166	http://amigo.geneontology.org/amigo/term/GO:0000166	1.27255260105e-21
+small molecule binding	2585	GO:0036094	http://amigo.geneontology.org/amigo/term/GO:0036094	6.63297729472e-19
+carbohydrate derivative binding	2215	GO:0097367	http://amigo.geneontology.org/amigo/term/GO:0097367	1.1576872891e-17
+purine ribonucleoside triphosphate binding	1815	GO:0035639	http://amigo.geneontology.org/amigo/term/GO:0035639	5.58776666111e-16
+nucleoside binding	1839	GO:0001882	http://amigo.geneontology.org/amigo/term/GO:0001882	1.27412505977e-15
+nucleoside-triphosphatase activity	772	GO:0017111	http://amigo.geneontology.org/amigo/term/GO:0017111	1.2988516049e-15
+purine ribonucleoside binding	1825	GO:0032550	http://amigo.geneontology.org/amigo/term/GO:0032550	2.71284992518e-15
+purine nucleoside binding	1828	GO:0001883	http://amigo.geneontology.org/amigo/term/GO:0001883	3.00202140554e-15
+ribonucleoside binding	1829	GO:0032549	http://amigo.geneontology.org/amigo/term/GO:0032549	3.10494027934e-15
+purine ribonucleotide binding	1856	GO:0032555	http://amigo.geneontology.org/amigo/term/GO:0032555	7.63802118707e-15
+purine nucleotide binding	1866	GO:0017076	http://amigo.geneontology.org/amigo/term/GO:0017076	1.06089877174e-14
+pyrophosphatase activity	811	GO:0016462	http://amigo.geneontology.org/amigo/term/GO:0016462	1.1037558024e-14
+ribonucleotide binding	1872	GO:0032553	http://amigo.geneontology.org/amigo/term/GO:0032553	1.29048921821e-14
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	814	GO:0016818	http://amigo.geneontology.org/amigo/term/GO:0016818	1.2941482439e-14
+hydrolase activity, acting on acid anhydrides	816	GO:0016817	http://amigo.geneontology.org/amigo/term/GO:0016817	1.43838898499e-14
+threonine-type endopeptidase activity	22	GO:0004298	http://amigo.geneontology.org/amigo/term/GO:0004298	6.55639865204e-13
+threonine-type peptidase activity	22	GO:0070003	http://amigo.geneontology.org/amigo/term/GO:0070003	6.55639865204e-13
+enzyme binding	1563	GO:0019899	http://amigo.geneontology.org/amigo/term/GO:0019899	8.50616554608e-13
+ATP binding	1476	GO:0005524	http://amigo.geneontology.org/amigo/term/GO:0005524	5.83580373487e-10
+anion binding	2632	GO:0043168	http://amigo.geneontology.org/amigo/term/GO:0043168	6.94857046484e-10
+ATPase activity	419	GO:0016887	http://amigo.geneontology.org/amigo/term/GO:0016887	1.64553847777e-09
+adenyl ribonucleotide binding	1512	GO:0032559	http://amigo.geneontology.org/amigo/term/GO:0032559	1.73611851034e-09
+adenyl nucleotide binding	1520	GO:0030554	http://amigo.geneontology.org/amigo/term/GO:0030554	2.20029358577e-09
+hydrolase activity	2446	GO:0016787	http://amigo.geneontology.org/amigo/term/GO:0016787	5.04650240629e-08
+catalytic activity	5658	GO:0003824	http://amigo.geneontology.org/amigo/term/GO:0003824	4.2391510668e-07
+rRNA binding	47	GO:0019843	http://amigo.geneontology.org/amigo/term/GO:0019843	2.25521059337e-06
+ATPase activity, coupled	305	GO:0042623	http://amigo.geneontology.org/amigo/term/GO:0042623	2.56804757158e-06
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity	8	GO:0004579	http://amigo.geneontology.org/amigo/term/GO:0004579	1.86855483134e-05
+glycoprotein binding	93	GO:0001948	http://amigo.geneontology.org/amigo/term/GO:0001948	3.06216661859e-05
+oligosaccharyl transferase activity	9	GO:0004576	http://amigo.geneontology.org/amigo/term/GO:0004576	3.73416124668e-05
+structural constituent of cytoskeleton	98	GO:0005200	http://amigo.geneontology.org/amigo/term/GO:0005200	5.60646169543e-05
+macromolecular complex binding	1377	GO:0044877	http://amigo.geneontology.org/amigo/term/GO:0044877	7.44030979738e-05
+kinase binding	530	GO:0019900	http://amigo.geneontology.org/amigo/term/GO:0019900	0.000141114923774
+proteasome-activating ATPase activity	6	GO:0036402	http://amigo.geneontology.org/amigo/term/GO:0036402	0.000203970880955
+GTPase activity	251	GO:0003924	http://amigo.geneontology.org/amigo/term/GO:0003924	0.000260993591142
+ubiquitin protein ligase binding	238	GO:0031625	http://amigo.geneontology.org/amigo/term/GO:0031625	0.0005726776873
+ubiquitin-like protein ligase binding	242	GO:0044389	http://amigo.geneontology.org/amigo/term/GO:0044389	0.000727103600461
+protein complex binding	893	GO:0032403	http://amigo.geneontology.org/amigo/term/GO:0032403	0.000752262258462
+mRNA binding	130	GO:0003729	http://amigo.geneontology.org/amigo/term/GO:0003729	0.00135835850767
+chaperone binding	81	GO:0051087	http://amigo.geneontology.org/amigo/term/GO:0051087	0.00444124399308
+ribonucleoprotein complex binding	82	GO:0043021	http://amigo.geneontology.org/amigo/term/GO:0043021	0.00494651165828
+structure-specific DNA binding	252	GO:0043566	http://amigo.geneontology.org/amigo/term/GO:0043566	0.00570741213229
+GTP binding	374	GO:0005525	http://amigo.geneontology.org/amigo/term/GO:0005525	0.00668525562872
+guanyl ribonucleotide binding	392	GO:0032561	http://amigo.geneontology.org/amigo/term/GO:0032561	0.0136119985141
+guanyl nucleotide binding	393	GO:0019001	http://amigo.geneontology.org/amigo/term/GO:0019001	0.0141415699668
+steroid hormone receptor binding	74	GO:0035258	http://amigo.geneontology.org/amigo/term/GO:0035258	0.0163845966821
+protein kinase binding	466	GO:0019901	http://amigo.geneontology.org/amigo/term/GO:0019901	0.0182614085385
+double-stranded RNA binding	57	GO:0003725	http://amigo.geneontology.org/amigo/term/GO:0003725	0.0192350139132
+identical protein binding	1161	GO:0042802	http://amigo.geneontology.org/amigo/term/GO:0042802	0.0253440738615
+single-stranded DNA binding	81	GO:0003697	http://amigo.geneontology.org/amigo/term/GO:0003697	0.0333169774268
+signaling receptor activity	1361	GO:0038023	http://amigo.geneontology.org/amigo/term/GO:0038023	0.037285024547
+hydrogen ion transmembrane transporter activity	109	GO:0015078	http://amigo.geneontology.org/amigo/term/GO:0015078	0.0569330524988
+TBP-class protein binding	20	GO:0017025	http://amigo.geneontology.org/amigo/term/GO:0017025	0.0690507813312
+protein binding involved in protein folding	10	GO:0044183	http://amigo.geneontology.org/amigo/term/GO:0044183	0.073938340542
+transmembrane signaling receptor activity	1260	GO:0004888	http://amigo.geneontology.org/amigo/term/GO:0004888	0.146640118572
+proton-transporting ATP synthase activity, rotational mechanism	12	GO:0046933	http://amigo.geneontology.org/amigo/term/GO:0046933	0.149260592003
+hormone receptor binding	177	GO:0051427	http://amigo.geneontology.org/amigo/term/GO:0051427	0.166070424432
+MHC class I protein binding	13	GO:0042288	http://amigo.geneontology.org/amigo/term/GO:0042288	0.202849336581
+translation factor activity, RNA binding	103	GO:0008135	http://amigo.geneontology.org/amigo/term/GO:0008135	0.209192871127
+ribosome binding	42	GO:0043022	http://amigo.geneontology.org/amigo/term/GO:0043022	0.240810286519
+MHC protein binding	27	GO:0042287	http://amigo.geneontology.org/amigo/term/GO:0042287	0.280938468755
+MHC class II protein complex binding	16	GO:0023026	http://amigo.geneontology.org/amigo/term/GO:0023026	0.447135686839
+ADP binding	30	GO:0043531	http://amigo.geneontology.org/amigo/term/GO:0043531	0.456391361702

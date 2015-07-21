@@ -1,0 +1,41 @@
+NA (Flu) / GP160 (Jurkat) molecular_function Ontology, dist <= 0
+Label	REF	ID	URL	p-value
+UNCLASSIFIED	4174			0
+nucleoside-triphosphatase activity	772	GO:0017111	http://amigo.geneontology.org/amigo/term/GO:0017111	7.8551798034e-05
+heterocyclic compound binding	5819	GO:1901363	http://amigo.geneontology.org/amigo/term/GO:1901363	0.00013026396226
+pyrophosphatase activity	811	GO:0016462	http://amigo.geneontology.org/amigo/term/GO:0016462	0.000144174021701
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	814	GO:0016818	http://amigo.geneontology.org/amigo/term/GO:0016818	0.000150859186461
+hydrolase activity, acting on acid anhydrides	816	GO:0016817	http://amigo.geneontology.org/amigo/term/GO:0016817	0.000155470806563
+organic cyclic compound binding	5891	GO:0097159	http://amigo.geneontology.org/amigo/term/GO:0097159	0.000184732545727
+purine ribonucleoside triphosphate binding	1815	GO:0035639	http://amigo.geneontology.org/amigo/term/GO:0035639	0.000209430690841
+purine ribonucleoside binding	1825	GO:0032550	http://amigo.geneontology.org/amigo/term/GO:0032550	0.000229183131908
+carbohydrate derivative binding	2215	GO:0097367	http://amigo.geneontology.org/amigo/term/GO:0097367	0.000234034533241
+purine nucleoside binding	1828	GO:0001883	http://amigo.geneontology.org/amigo/term/GO:0001883	0.000235436425497
+ribonucleoside binding	1829	GO:0032549	http://amigo.geneontology.org/amigo/term/GO:0032549	0.000237555659946
+nucleoside binding	1839	GO:0001882	http://amigo.geneontology.org/amigo/term/GO:0001882	0.000259739687437
+purine ribonucleotide binding	1856	GO:0032555	http://amigo.geneontology.org/amigo/term/GO:0032555	0.000301895062232
+purine nucleotide binding	1866	GO:0017076	http://amigo.geneontology.org/amigo/term/GO:0017076	0.000329558116442
+ribonucleotide binding	1872	GO:0032553	http://amigo.geneontology.org/amigo/term/GO:0032553	0.000347260957863
+nucleotide binding	2320	GO:0000166	http://amigo.geneontology.org/amigo/term/GO:0000166	0.000529484449364
+nucleoside phosphate binding	2321	GO:1901265	http://amigo.geneontology.org/amigo/term/GO:1901265	0.000533495954603
+protein binding	10396	GO:0005515	http://amigo.geneontology.org/amigo/term/GO:0005515	0.000885638092487
+unfolded protein binding	102	GO:0051082	http://amigo.geneontology.org/amigo/term/GO:0051082	0.00134864900147
+proteasome-activating ATPase activity	6	GO:0036402	http://amigo.geneontology.org/amigo/term/GO:0036402	0.00197563411017
+small molecule binding	2585	GO:0036094	http://amigo.geneontology.org/amigo/term/GO:0036094	0.00341563080803
+ATPase activity, coupled	305	GO:0042623	http://amigo.geneontology.org/amigo/term/GO:0042623	0.00673223262738
+binding	13944	GO:0005488	http://amigo.geneontology.org/amigo/term/GO:0005488	0.0170695469976
+anion binding	2632	GO:0043168	http://amigo.geneontology.org/amigo/term/GO:0043168	0.0184452363917
+ATP binding	1476	GO:0005524	http://amigo.geneontology.org/amigo/term/GO:0005524	0.0346170270245
+adenyl ribonucleotide binding	1512	GO:0032559	http://amigo.geneontology.org/amigo/term/GO:0032559	0.0460078445477
+adenyl nucleotide binding	1520	GO:0030554	http://amigo.geneontology.org/amigo/term/GO:0030554	0.0489522108332
+molecular_function	16640	GO:0003674	http://amigo.geneontology.org/amigo/term/GO:0003674	0.057642681497
+ATPase activity	419	GO:0016887	http://amigo.geneontology.org/amigo/term/GO:0016887	0.0662230431892
+TBP-class protein binding	20	GO:0017025	http://amigo.geneontology.org/amigo/term/GO:0017025	0.0711002028523
+catalytic activity	5658	GO:0003824	http://amigo.geneontology.org/amigo/term/GO:0003824	0.122204485286
+GTPase activity	251	GO:0003924	http://amigo.geneontology.org/amigo/term/GO:0003924	0.215086402936
+ATP-dependent 5'-3' DNA helicase activity	5	GO:0043141	http://amigo.geneontology.org/amigo/term/GO:0043141	0.246922113245
+RNA binding	1557	GO:0003723	http://amigo.geneontology.org/amigo/term/GO:0003723	0.268277035338
+hydrolase activity	2446	GO:0016787	http://amigo.geneontology.org/amigo/term/GO:0016787	0.303069726367
+ATP-dependent DNA helicase activity	35	GO:0004003	http://amigo.geneontology.org/amigo/term/GO:0004003	0.36952316652
+ATP-dependent helicase activity	99	GO:0008026	http://amigo.geneontology.org/amigo/term/GO:0008026	0.492375793457
+purine NTP-dependent helicase activity	99	GO:0070035	http://amigo.geneontology.org/amigo/term/GO:0070035	0.492375793457

@@ -1,0 +1,161 @@
+NA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0
+Label	REF	ID	URL	p-value
+UNCLASSIFIED	4289			0
+cellular response to stress	1680	GO:0033554	http://amigo.geneontology.org/amigo/term/GO:0033554	1.32480530749e-09
+response to endoplasmic reticulum stress	217	GO:0034976	http://amigo.geneontology.org/amigo/term/GO:0034976	1.1247624663e-08
+COPI-coated vesicle budding	13	GO:0035964	http://amigo.geneontology.org/amigo/term/GO:0035964	2.23710334249e-08
+COPI coating of Golgi vesicle	13	GO:0048205	http://amigo.geneontology.org/amigo/term/GO:0048205	2.23710334249e-08
+Golgi transport vesicle coating	13	GO:0048200	http://amigo.geneontology.org/amigo/term/GO:0048200	2.23710334249e-08
+establishment of protein localization	1304	GO:0045184	http://amigo.geneontology.org/amigo/term/GO:0045184	3.58930735164e-08
+Golgi vesicle budding	16	GO:0048194	http://amigo.geneontology.org/amigo/term/GO:0048194	7.72411433019e-08
+protein transport	1222	GO:0015031	http://amigo.geneontology.org/amigo/term/GO:0015031	9.12250280838e-08
+antigen processing and presentation of peptide antigen via MHC class I	104	GO:0002474	http://amigo.geneontology.org/amigo/term/GO:0002474	1.76743601389e-07
+single-organism cellular process	11370	GO:0044763	http://amigo.geneontology.org/amigo/term/GO:0044763	3.44012985072e-07
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	75	GO:0002479	http://amigo.geneontology.org/amigo/term/GO:0002479	4.76942908449e-07
+antigen processing and presentation of exogenous peptide antigen via MHC class I	79	GO:0042590	http://amigo.geneontology.org/amigo/term/GO:0042590	7.16359076783e-07
+single-organism process	12720	GO:0044699	http://amigo.geneontology.org/amigo/term/GO:0044699	8.62033924428e-07
+intracellular protein transport	727	GO:0006886	http://amigo.geneontology.org/amigo/term/GO:0006886	1.31218410513e-06
+vesicle targeting, to, from or within Golgi	28	GO:0048199	http://amigo.geneontology.org/amigo/term/GO:0048199	2.1601746245e-06
+macromolecule localization	2022	GO:0033036	http://amigo.geneontology.org/amigo/term/GO:0033036	4.15686521566e-06
+ER-associated ubiquitin-dependent protein catabolic process	60	GO:0030433	http://amigo.geneontology.org/amigo/term/GO:0030433	4.3302120393e-06
+protein localization	1699	GO:0008104	http://amigo.geneontology.org/amigo/term/GO:0008104	5.79921394626e-06
+organic substance transport	1897	GO:0071702	http://amigo.geneontology.org/amigo/term/GO:0071702	7.37734188879e-06
+protein folding	224	GO:0006457	http://amigo.geneontology.org/amigo/term/GO:0006457	7.45416277183e-06
+single-organism membrane budding	35	GO:1902591	http://amigo.geneontology.org/amigo/term/GO:1902591	8.1131502331e-06
+ERAD pathway	68	GO:0036503	http://amigo.geneontology.org/amigo/term/GO:0036503	1.02157052188e-05
+cellular protein metabolic process	3375	GO:0044267	http://amigo.geneontology.org/amigo/term/GO:0044267	1.10468532943e-05
+single-organism metabolic process	4361	GO:0044710	http://amigo.geneontology.org/amigo/term/GO:0044710	1.24211191158e-05
+antigen processing and presentation of exogenous peptide antigen	171	GO:0002478	http://amigo.geneontology.org/amigo/term/GO:0002478	1.33862145246e-05
+vesicle coating	39	GO:0006901	http://amigo.geneontology.org/amigo/term/GO:0006901	1.53924048726e-05
+antigen processing and presentation of exogenous antigen	178	GO:0019884	http://amigo.geneontology.org/amigo/term/GO:0019884	1.89123120036e-05
+vesicle targeting	41	GO:0006903	http://amigo.geneontology.org/amigo/term/GO:0006903	2.06866801319e-05
+localization within membrane	43	GO:0051668	http://amigo.geneontology.org/amigo/term/GO:0051668	2.740736199e-05
+antigen processing and presentation of peptide antigen	188	GO:0048002	http://amigo.geneontology.org/amigo/term/GO:0048002	3.02532440052e-05
+cellular metabolic process	8461	GO:0044237	http://amigo.geneontology.org/amigo/term/GO:0044237	0.000117473372387
+cellular protein localization	1150	GO:0034613	http://amigo.geneontology.org/amigo/term/GO:0034613	0.000125922671656
+proteasome-mediated ubiquitin-dependent protein catabolic process	305	GO:0043161	http://amigo.geneontology.org/amigo/term/GO:0043161	0.000136642761683
+cellular macromolecule localization	1158	GO:0070727	http://amigo.geneontology.org/amigo/term/GO:0070727	0.000139377651868
+antigen processing and presentation	225	GO:0019882	http://amigo.geneontology.org/amigo/term/GO:0019882	0.000140413383904
+single-organism intracellular transport	1159	GO:1902582	http://amigo.geneontology.org/amigo/term/GO:1902582	0.000141149474099
+proteasomal protein catabolic process	313	GO:0010498	http://amigo.geneontology.org/amigo/term/GO:0010498	0.000173934589189
+protein metabolic process	4043	GO:0019538	http://amigo.geneontology.org/amigo/term/GO:0019538	0.0001868580768
+intracellular transport	1348	GO:0046907	http://amigo.geneontology.org/amigo/term/GO:0046907	0.000203809216729
+cellular process	14118	GO:0009987	http://amigo.geneontology.org/amigo/term/GO:0009987	0.000254274418051
+retrograde vesicle-mediated transport, Golgi to ER	33	GO:0006890	http://amigo.geneontology.org/amigo/term/GO:0006890	0.000394227505406
+membrane budding	68	GO:0006900	http://amigo.geneontology.org/amigo/term/GO:0006900	0.000405482724109
+mitotic S phase	117	GO:0000084	http://amigo.geneontology.org/amigo/term/GO:0000084	0.000408850357635
+S phase	119	GO:0051320	http://amigo.geneontology.org/amigo/term/GO:0051320	0.000458305825101
+establishment of localization in cell	1808	GO:0051649	http://amigo.geneontology.org/amigo/term/GO:0051649	0.00062413941955
+cytoplasmic transport	703	GO:0016482	http://amigo.geneontology.org/amigo/term/GO:0016482	0.000670593680894
+single-organism membrane organization	706	GO:0044802	http://amigo.geneontology.org/amigo/term/GO:0044802	0.000704214723804
+response to stress	3559	GO:0006950	http://amigo.geneontology.org/amigo/term/GO:0006950	0.000855241672176
+mitotic interphase	131	GO:0051329	http://amigo.geneontology.org/amigo/term/GO:0051329	0.00087418850808
+interphase	133	GO:0051325	http://amigo.geneontology.org/amigo/term/GO:0051325	0.000967677565639
+mitotic cell cycle phase	294	GO:0098763	http://amigo.geneontology.org/amigo/term/GO:0098763	0.00133802036488
+cell cycle phase	296	GO:0022403	http://amigo.geneontology.org/amigo/term/GO:0022403	0.00141590916647
+metabolic process	9836	GO:0008152	http://amigo.geneontology.org/amigo/term/GO:0008152	0.00151256524779
+biological phase	300	GO:0044848	http://amigo.geneontology.org/amigo/term/GO:0044848	0.00158360754389
+regulation of cellular amine metabolic process	87	GO:0033238	http://amigo.geneontology.org/amigo/term/GO:0033238	0.00170487380532
+cellular localization	2176	GO:0051641	http://amigo.geneontology.org/amigo/term/GO:0051641	0.00266275240574
+cellular macromolecule metabolic process	6571	GO:0044260	http://amigo.geneontology.org/amigo/term/GO:0044260	0.00327673280158
+primary metabolic process	8563	GO:0044238	http://amigo.geneontology.org/amigo/term/GO:0044238	0.00338496367001
+ubiquitin-dependent protein catabolic process	439	GO:0006511	http://amigo.geneontology.org/amigo/term/GO:0006511	0.00388133857269
+cellular response to DNA damage stimulus	690	GO:0006974	http://amigo.geneontology.org/amigo/term/GO:0006974	0.00432770002481
+modification-dependent protein catabolic process	447	GO:0019941	http://amigo.geneontology.org/amigo/term/GO:0019941	0.0045681707765
+modification-dependent macromolecule catabolic process	453	GO:0043632	http://amigo.geneontology.org/amigo/term/GO:0043632	0.00515105634528
+cell cycle G1/S phase transition	172	GO:0044843	http://amigo.geneontology.org/amigo/term/GO:0044843	0.00536656542412
+G1/S transition of mitotic cell cycle	172	GO:0000082	http://amigo.geneontology.org/amigo/term/GO:0000082	0.00536656542412
+membrane organization	870	GO:0061024	http://amigo.geneontology.org/amigo/term/GO:0061024	0.00747703196452
+proteolysis involved in cellular protein catabolic process	485	GO:0051603	http://amigo.geneontology.org/amigo/term/GO:0051603	0.0094981059502
+interspecies interaction between organisms	749	GO:0044419	http://amigo.geneontology.org/amigo/term/GO:0044419	0.0101881757194
+symbiosis, encompassing mutualism through parasitism	749	GO:0044403	http://amigo.geneontology.org/amigo/term/GO:0044403	0.0101881757194
+establishment of vesicle localization	191	GO:0051650	http://amigo.geneontology.org/amigo/term/GO:0051650	0.0107109242445
+regulation of cellular amino acid metabolic process	65	GO:0006521	http://amigo.geneontology.org/amigo/term/GO:0006521	0.010893697761
+organic substance metabolic process	8883	GO:0071704	http://amigo.geneontology.org/amigo/term/GO:0071704	0.0113645466477
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	67	GO:0006977	http://amigo.geneontology.org/amigo/term/GO:0006977	0.0126203902656
+cellular protein catabolic process	501	GO:0044257	http://amigo.geneontology.org/amigo/term/GO:0044257	0.0126835677014
+signal transduction involved in mitotic G1 DNA damage checkpoint	68	GO:0072431	http://amigo.geneontology.org/amigo/term/GO:0072431	0.0135608991528
+intracellular signal transduction involved in G1 DNA damage checkpoint	68	GO:1902400	http://amigo.geneontology.org/amigo/term/GO:1902400	0.0135608991528
+vesicle localization	199	GO:0051648	http://amigo.geneontology.org/amigo/term/GO:0051648	0.0140221787842
+signal transduction involved in mitotic cell cycle checkpoint	69	GO:0072413	http://amigo.geneontology.org/amigo/term/GO:0072413	0.0145557487671
+signal transduction involved in mitotic DNA integrity checkpoint	69	GO:1902403	http://amigo.geneontology.org/amigo/term/GO:1902403	0.0145557487671
+signal transduction involved in mitotic DNA damage checkpoint	69	GO:1902402	http://amigo.geneontology.org/amigo/term/GO:1902402	0.0145557487671
+response to stimulus	7577	GO:0050896	http://amigo.geneontology.org/amigo/term/GO:0050896	0.0145820237053
+single-organism transport	3098	GO:0044765	http://amigo.geneontology.org/amigo/term/GO:0044765	0.0156650583577
+small molecule metabolic process	2219	GO:0044281	http://amigo.geneontology.org/amigo/term/GO:0044281	0.0165509267262
+signal transduction involved in DNA damage checkpoint	71	GO:0072422	http://amigo.geneontology.org/amigo/term/GO:0072422	0.0167174972396
+signal transduction involved in DNA integrity checkpoint	71	GO:0072401	http://amigo.geneontology.org/amigo/term/GO:0072401	0.0167174972396
+establishment of localization	3844	GO:0051234	http://amigo.geneontology.org/amigo/term/GO:0051234	0.0170807538835
+signal transduction involved in cell cycle checkpoint	72	GO:0072395	http://amigo.geneontology.org/amigo/term/GO:0072395	0.0178890485791
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	72	GO:0051437	http://amigo.geneontology.org/amigo/term/GO:0051437	0.0178890485791
+cellular component organization	4920	GO:0016043	http://amigo.geneontology.org/amigo/term/GO:0016043	0.0187187408548
+mitotic G1 DNA damage checkpoint	77	GO:0031571	http://amigo.geneontology.org/amigo/term/GO:0031571	0.0247516960445
+viral process	673	GO:0016032	http://amigo.geneontology.org/amigo/term/GO:0016032	0.0247531806558
+mitotic G1/S transition checkpoint	78	GO:0044819	http://amigo.geneontology.org/amigo/term/GO:0044819	0.0263432732526
+G1 DNA damage checkpoint	78	GO:0044783	http://amigo.geneontology.org/amigo/term/GO:0044783	0.0263432732526
+multi-organism cellular process	678	GO:0044764	http://amigo.geneontology.org/amigo/term/GO:0044764	0.0265594195591
+mitotic M phase	221	GO:0000087	http://amigo.geneontology.org/amigo/term/GO:0000087	0.0278149260609
+protein catabolic process	549	GO:0030163	http://amigo.geneontology.org/amigo/term/GO:0030163	0.0284766692934
+M phase	223	GO:0000279	http://amigo.geneontology.org/amigo/term/GO:0000279	0.0294936491286
+response to organic substance	2523	GO:0010033	http://amigo.geneontology.org/amigo/term/GO:0010033	0.0299602161923
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	81	GO:0051436	http://amigo.geneontology.org/amigo/term/GO:0051436	0.0316051690628
+cellular component organization or biogenesis	5042	GO:0071840	http://amigo.geneontology.org/amigo/term/GO:0071840	0.0323766249814
+single-organism cellular localization	844	GO:1902580	http://amigo.geneontology.org/amigo/term/GO:1902580	0.0347100153114
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	83	GO:0031145	http://amigo.geneontology.org/amigo/term/GO:0031145	0.0355479426577
+transport	3738	GO:0006810	http://amigo.geneontology.org/amigo/term/GO:0006810	0.0361707898725
+regulation by virus of viral protein levels in host cell	11	GO:0046719	http://amigo.geneontology.org/amigo/term/GO:0046719	0.0382625890746
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	11	GO:0045899	http://amigo.geneontology.org/amigo/term/GO:0045899	0.0382625890746
+positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	86	GO:2000060	http://amigo.geneontology.org/amigo/term/GO:2000060	0.042174789422
+mitotic cell cycle process	716	GO:1903047	http://amigo.geneontology.org/amigo/term/GO:1903047	0.0445080105771
+positive regulation of cell cycle arrest	88	GO:0071158	http://amigo.geneontology.org/amigo/term/GO:0071158	0.0471048095533
+negative regulation of ubiquitin-protein transferase activity	88	GO:0051444	http://amigo.geneontology.org/amigo/term/GO:0051444	0.0471048095533
+single-organism localization	3303	GO:1902578	http://amigo.geneontology.org/amigo/term/GO:1902578	0.0491840199571
+positive regulation of ubiquitin-protein transferase activity	89	GO:0051443	http://amigo.geneontology.org/amigo/term/GO:0051443	0.0497333338866
+negative regulation of ligase activity	89	GO:0051352	http://amigo.geneontology.org/amigo/term/GO:0051352	0.0497333338866
+macromolecule metabolic process	7257	GO:0043170	http://amigo.geneontology.org/amigo/term/GO:0043170	0.0508314872649
+DNA damage response, signal transduction by p53 class mediator	90	GO:0030330	http://amigo.geneontology.org/amigo/term/GO:0030330	0.0524754002536
+Golgi vesicle transport	245	GO:0048193	http://amigo.geneontology.org/amigo/term/GO:0048193	0.0542554712182
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	91	GO:0051439	http://amigo.geneontology.org/amigo/term/GO:0051439	0.0553344848306
+positive regulation of ligase activity	94	GO:0051351	http://amigo.geneontology.org/amigo/term/GO:0051351	0.0646495360826
+response to chemical	3863	GO:0042221	http://amigo.geneontology.org/amigo/term/GO:0042221	0.0672536559243
+regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	95	GO:2000058	http://amigo.geneontology.org/amigo/term/GO:2000058	0.0680126919934
+organelle organization	2891	GO:0006996	http://amigo.geneontology.org/amigo/term/GO:0006996	0.0695816481313
+regulation of RNA polymerase II transcriptional preinitiation complex assembly	14	GO:0045898	http://amigo.geneontology.org/amigo/term/GO:0045898	0.078398493539
+mitotic DNA damage checkpoint	101	GO:0044773	http://amigo.geneontology.org/amigo/term/GO:0044773	0.0911704464519
+cellular response to stimulus	6182	GO:0051716	http://amigo.geneontology.org/amigo/term/GO:0051716	0.0969998482267
+negative regulation of G1/S transition of mitotic cell cycle	103	GO:2000134	http://amigo.geneontology.org/amigo/term/GO:2000134	0.100121025715
+mitotic cell cycle	786	GO:0000278	http://amigo.geneontology.org/amigo/term/GO:0000278	0.106436565269
+signal transduction in response to DNA damage	105	GO:0042770	http://amigo.geneontology.org/amigo/term/GO:0042770	0.109743224008
+negative regulation of cell cycle G1/S phase transition	106	GO:1902807	http://amigo.geneontology.org/amigo/term/GO:1902807	0.114817109389
+retrograde protein transport, ER to cytosol	16	GO:0030970	http://amigo.geneontology.org/amigo/term/GO:0030970	0.116547298513
+mitotic DNA integrity checkpoint	107	GO:0044774	http://amigo.geneontology.org/amigo/term/GO:0044774	0.120072142268
+biological_process	16525	GO:0008150	http://amigo.geneontology.org/amigo/term/GO:0008150	0.12466362541
+protein exit from endoplasmic reticulum	17	GO:0032527	http://amigo.geneontology.org/amigo/term/GO:0032527	0.139507799166
+regulation of cell cycle arrest	111	GO:0071156	http://amigo.geneontology.org/amigo/term/GO:0071156	0.142995662887
+positive regulation of transcription initiation from RNA polymerase II promoter	18	GO:0060261	http://amigo.geneontology.org/amigo/term/GO:0060261	0.165264200806
+establishment of organelle localization	297	GO:0051656	http://amigo.geneontology.org/amigo/term/GO:0051656	0.185863601655
+stimulatory C-type lectin receptor signaling pathway	119	GO:0002223	http://amigo.geneontology.org/amigo/term/GO:0002223	0.198981719458
+cellular response to topologically incorrect protein	119	GO:0035967	http://amigo.geneontology.org/amigo/term/GO:0035967	0.198981719458
+regulation of ubiquitin-protein transferase activity	120	GO:0051438	http://amigo.geneontology.org/amigo/term/GO:0051438	0.20702891975
+innate immune response activating cell surface receptor signaling pathway	122	GO:0002220	http://amigo.geneontology.org/amigo/term/GO:0002220	0.223880795714
+mitotic cell cycle phase transition	306	GO:0044772	http://amigo.geneontology.org/amigo/term/GO:0044772	0.224506443918
+localization	4680	GO:0051179	http://amigo.geneontology.org/amigo/term/GO:0051179	0.240103860277
+cell cycle phase transition	310	GO:0044770	http://amigo.geneontology.org/amigo/term/GO:0044770	0.243688439671
+vesicle organization	209	GO:0016050	http://amigo.geneontology.org/amigo/term/GO:0016050	0.249885662547
+regulation of ligase activity	127	GO:0051340	http://amigo.geneontology.org/amigo/term/GO:0051340	0.270687994471
+cell cycle process	1041	GO:0022402	http://amigo.geneontology.org/amigo/term/GO:0022402	0.279531487922
+negative regulation of protein ubiquitination	128	GO:0031397	http://amigo.geneontology.org/amigo/term/GO:0031397	0.280896840706
+signal transduction by p53 class mediator	129	GO:0072331	http://amigo.geneontology.org/amigo/term/GO:0072331	0.291401779996
+positive regulation of canonical Wnt signaling pathway	130	GO:0090263	http://amigo.geneontology.org/amigo/term/GO:0090263	0.302208780489
+cellular biosynthetic process	4478	GO:0044249	http://amigo.geneontology.org/amigo/term/GO:0044249	0.323036755631
+regulation of transcription initiation from RNA polymerase II promoter	23	GO:0060260	http://amigo.geneontology.org/amigo/term/GO:0060260	0.341266663324
+endoplasmic reticulum to cytosol transport	23	GO:1903513	http://amigo.geneontology.org/amigo/term/GO:1903513	0.341266663324
+negative regulation of protein modification by small protein conjugation or removal	134	GO:1903321	http://amigo.geneontology.org/amigo/term/GO:1903321	0.348579014657
+macromolecule catabolic process	895	GO:0009057	http://amigo.geneontology.org/amigo/term/GO:0009057	0.34915417281
+regulation of G1/S transition of mitotic cell cycle	137	GO:2000045	http://amigo.geneontology.org/amigo/term/GO:2000045	0.386830358307
+Ras protein signal transduction	228	GO:0007265	http://amigo.geneontology.org/amigo/term/GO:0007265	0.403786775893
+positive regulation of DNA-templated transcription, initiation	25	GO:2000144	http://amigo.geneontology.org/amigo/term/GO:2000144	0.436466227908
+cellular macromolecule catabolic process	761	GO:0044265	http://amigo.geneontology.org/amigo/term/GO:0044265	0.46607775206
+organic substance biosynthetic process	4571	GO:1901576	http://amigo.geneontology.org/amigo/term/GO:1901576	0.471612002897
+DNA damage checkpoint	143	GO:0000077	http://amigo.geneontology.org/amigo/term/GO:0000077	0.473020039166
+regulation of cell cycle G1/S phase transition	144	GO:1902806	http://amigo.geneontology.org/amigo/term/GO:1902806	0.488718572954
