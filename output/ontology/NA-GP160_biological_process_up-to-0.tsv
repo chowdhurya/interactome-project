@@ -1,4 +1,4 @@
-NA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0
+NA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4289			0
 cellular response to stress	1680	GO:0033554	http://amigo.geneontology.org/amigo/term/GO:0033554	1.32480530749e-09

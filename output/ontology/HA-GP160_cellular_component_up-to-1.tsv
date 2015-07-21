@@ -1,4 +1,4 @@
-HA (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 1
+HA (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 1				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	3127			0
 extracellular organelle	2723	GO:0043230	http://amigo.geneontology.org/amigo/term/GO:0043230	5.22801581206e-93

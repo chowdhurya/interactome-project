@@ -1,4 +1,4 @@
-HA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0
+HA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4289			0
 antigen processing and presentation of peptide antigen via MHC class I	104	GO:0002474	http://amigo.geneontology.org/amigo/term/GO:0002474	8.58700882282e-15

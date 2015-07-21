@@ -52,7 +52,7 @@ with open('output/flu-jurkat_distances.txt') as f:
     			results = filter(lambda x: x['pValue'] < 0.5, results)
     			filename = 'output/ontology/%s-%s_%s_up-to-%d.tsv' % (protein_a['protein'], protein_b['protein'], ontology, max_distance)
     			with open(filename, 'wb') as out:
-    				out.write('%s (Flu) / %s (Jurkat) %s Ontology, dist <= %d\n' % (protein_a['protein'], protein_b['protein'], ontology, max_distance))
+    				out.write('%s (Flu) / %s (Jurkat) %s Ontology, dist <= %d\t\t\t\t\n' % (protein_a['protein'], protein_b['protein'], ontology, max_distance))
     				out.write('\t'.join(('Label', 'REF', 'ID', 'URL', 'p-value')))
     				out.write('\n')
     				for result in results:

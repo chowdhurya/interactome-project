@@ -1,4 +1,4 @@
-M2 (Flu) / VPR (Jurkat) molecular_function Ontology, dist <= 0
+M2 (Flu) / VPR (Jurkat) molecular_function Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4174			0
 nucleoside-triphosphatase activity	772	GO:0017111	http://amigo.geneontology.org/amigo/term/GO:0017111	7.48428151294e-07

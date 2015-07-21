@@ -1,4 +1,4 @@
-NA (Flu) / VPU (Jurkat) molecular_function Ontology, dist <= 0
+NA (Flu) / VPU (Jurkat) molecular_function Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4174			0
 protein binding	10396	GO:0005515	http://amigo.geneontology.org/amigo/term/GO:0005515	3.43893419988e-08

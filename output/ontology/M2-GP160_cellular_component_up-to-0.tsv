@@ -1,4 +1,4 @@
-M2 (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 0
+M2 (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	3127			0
 proteasome regulatory particle	22	GO:0005838	http://amigo.geneontology.org/amigo/term/GO:0005838	1.39693712489e-14

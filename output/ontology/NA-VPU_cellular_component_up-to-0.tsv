@@ -1,4 +1,4 @@
-NA (Flu) / VPU (Jurkat) cellular_component Ontology, dist <= 0
+NA (Flu) / VPU (Jurkat) cellular_component Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	3127			0
 cytoplasm	10314	GO:0005737	http://amigo.geneontology.org/amigo/term/GO:0005737	9.33201115373e-15

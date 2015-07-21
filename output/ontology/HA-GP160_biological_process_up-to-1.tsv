@@ -1,4 +1,4 @@
-HA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 1
+HA (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 1				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4289			0
 viral process	673	GO:0016032	http://amigo.geneontology.org/amigo/term/GO:0016032	1.03684733206e-74

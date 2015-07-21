@@ -1,4 +1,4 @@
-M2 (Flu) / GP160 (Jurkat) molecular_function Ontology, dist <= 1
+M2 (Flu) / GP160 (Jurkat) molecular_function Ontology, dist <= 1				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4174			0
 RNA binding	1557	GO:0003723	http://amigo.geneontology.org/amigo/term/GO:0003723	1.36928619572e-90

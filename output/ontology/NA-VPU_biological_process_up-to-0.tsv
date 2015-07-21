@@ -1,4 +1,4 @@
-NA (Flu) / VPU (Jurkat) biological_process Ontology, dist <= 0
+NA (Flu) / VPU (Jurkat) biological_process Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4289			0
 establishment of protein localization	1304	GO:0045184	http://amigo.geneontology.org/amigo/term/GO:0045184	5.22824646927e-15

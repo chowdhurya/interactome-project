@@ -1,4 +1,4 @@
-HA (Flu) / GP160 (Jurkat) molecular_function Ontology, dist <= 0
+HA (Flu) / GP160 (Jurkat) molecular_function Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4174			0
 unfolded protein binding	102	GO:0051082	http://amigo.geneontology.org/amigo/term/GO:0051082	6.90987405476e-07

@@ -1,4 +1,4 @@
-M2 (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0
+M2 (Flu) / GP160 (Jurkat) biological_process Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	4289			0
 mitotic S phase	117	GO:0000084	http://amigo.geneontology.org/amigo/term/GO:0000084	3.42564158143e-12

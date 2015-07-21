@@ -1,4 +1,4 @@
-HA (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 0
+HA (Flu) / GP160 (Jurkat) cellular_component Ontology, dist <= 0				
 Label	REF	ID	URL	p-value
 UNCLASSIFIED	3127			0
 intracellular organelle part	7672	GO:0044446	http://amigo.geneontology.org/amigo/term/GO:0044446	1.31087660972e-14
