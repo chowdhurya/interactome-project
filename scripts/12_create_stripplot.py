@@ -26,13 +26,23 @@ for protein_pair in protein_pairs:
                 p_values[ID].append(float(p_value))
                 counts[ID] += 1
 
+def is_ER(ID):
+    label = labels[ID]
+    if label == 'ERAD pathway':
+        return False
+    return 'ER' in label or 'endoplasmic reticulum' in label.lower()
+
 p_value_averages = p_values
 for ID in p_values:
     p_value_averages[ID] = np.mean(p_values[ID])
+IDs = sorted(sorted(labels.keys()), key=is_ER)
 
-IDs = sorted(labels.keys())
-data = pd.DataFrame.from_records(map(lambda ID: (p_value_averages[ID], 'x' + str(counts[ID]).zfill(2)), IDs),
-                                 columns=('p_value_avg', 'count'))
+y = np.array(map(lambda x: counts[x], IDs))
+x = np.array(map(lambda x: p_value_averages[x], IDs))
+colors = map(lambda x: 'r' if is_ER(x) else 'b', IDs)
+areas = map(lambda x: 80 if is_ER(x) else 20, IDs)
 
-sns.stripplot(x='p_value_avg', y='count', data=data.sort('count', ascending=False))
+plt.scatter(x, y, c=colors, s=areas)
+plt.gca().set_xlabel("p-value")
+plt.gca().set_ylabel("count")
 plt.savefig('stripplot.png')
