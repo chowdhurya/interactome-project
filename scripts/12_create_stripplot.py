@@ -20,7 +20,7 @@ for protein_pair in protein_pairs:
             for line in f.read().splitlines()[2:]:
                 label, ref, ID, url, p_value = line.split('\t')
                 p_value = float(p_value)
-                if p_value > 0.05:
+                if p_value > 0.05 or p_value == 0:
                     continue
                 labels[ID] = label
                 p_values[ID].append(float(p_value))
