@@ -28,8 +28,6 @@ for protein_pair in protein_pairs:
 
 def is_ER(ID):
     label = labels[ID]
-    if label == 'ERAD pathway':
-        return False
     return 'ER' in label or 'endoplasmic reticulum' in label.lower()
 
 p_value_averages = p_values
