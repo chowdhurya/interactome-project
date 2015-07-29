@@ -2,6 +2,7 @@ from collections import defaultdict
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import math
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -28,7 +29,7 @@ for protein_pair in protein_pairs:
 
 def is_localization(ID):
     label = labels[ID]
-    return 'localization' in label.lower()
+    return ('ER' in label or 'endoplasmic reticulum' in label.lower()) and 'protein localization' in label.lower()
 
 p_value_averages = p_values
 for ID in p_values:
@@ -36,7 +37,7 @@ for ID in p_values:
 IDs = sorted(sorted(labels.keys()), key=is_localization)
 
 y = np.array(map(lambda x: counts[x], IDs))
-x = np.array(map(lambda x: p_value_averages[x], IDs))
+x = np.array(map(lambda x: -math.log(p_value_averages[x]), IDs))
 colors = map(lambda x: 'r' if is_localization(x) else 'b', IDs)
 areas = map(lambda x: 80 if is_localization(x) else 20, IDs)
 
@@ -45,6 +46,7 @@ for ID in sorted(sorted(filter(is_localization, IDs), key=p_value_averages.get),
     print '\t'.join((ID, label, str(counts[ID]), str(p_value_avg)))
 
 plt.scatter(x, y, c=colors, s=areas)
-plt.gca().set_xlabel("p-value")
+plt.gca().set_xlabel("-ln(p-value)")
 plt.gca().set_ylabel("count")
-plt.savefig('output/figures/localization_stripplot.png')
+plt.suptitle('Protein Localization & Endoplasmic Reticulum p-values')
+plt.savefig('output/figures/protein_localization_ER_stripplot.png')
