@@ -35,12 +35,9 @@ for ID in p_values:
     p_value_averages[ID] = np.mean(p_values[ID])
 IDs = sorted(sorted(labels.keys()), key=is_ER)
 
-y = np.array(map(lambda x: counts[x], IDs))
-x = np.array(map(lambda x: p_value_averages[x], IDs))
-colors = map(lambda x: 'r' if is_ER(x) else 'b', IDs)
-areas = map(lambda x: 80 if is_ER(x) else 20, IDs)
+count_strings = sorted(set(map(lambda ID: 'x' + str(counts[ID]).zfill(2), IDs)), reverse=True)
+data = pd.DataFrame.from_records(map(lambda ID: ('x' + str(counts[ID]).zfill(2), p_value_averages[ID]), IDs),
+                              columns=('count', 'average p-value'))
 
-plt.scatter(x, y, c=colors, s=areas)
-plt.gca().set_xlabel("p-value")
-plt.gca().set_ylabel("count")
-plt.savefig('output/figures/stripplot.png')
+sns.boxplot(x='average p-value', y='count', data=data, order=count_strings)
+plt.savefig('output/figures/boxplot.png')
