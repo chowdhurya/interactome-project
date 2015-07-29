@@ -37,8 +37,8 @@ for ID in p_values:
 IDs = sorted(sorted(labels.keys()), key=is_ER)
 
 count_strings = sorted(set(map(lambda ID: 'x' + str(counts[ID]).zfill(2), IDs)), reverse=True)
-data = pd.DataFrame.from_records(map(lambda ID: ('x' + str(counts[ID]).zfill(2), math.log(p_value_averages[ID])), IDs),
-                              columns=('count', 'ln(average p-value)'))
+data = pd.DataFrame.from_records(map(lambda ID: ('x' + str(counts[ID]).zfill(2), -math.log(p_value_averages[ID])), IDs),
+                              columns=('count', '-ln(average p-value)'))
 
-sns.boxplot(x='ln(average p-value)', y='count', data=data, order=count_strings)
+sns.boxplot(x='-ln(average p-value)', y='count', data=data, order=count_strings)
 plt.savefig('output/figures/boxplot.png')
