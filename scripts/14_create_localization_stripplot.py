@@ -66,10 +66,10 @@ generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
 generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
                    'output/figures/protein-localization_stripplot_up-to-1.png')
 generate_stripplot(1, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d <= 1)',
-                   'output/figures/protein-localization_ER_up-to-1.png')
+                   'output/figures/protein-localization_ER_stripplot_up-to-1.png')
 generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
                    'output/figures/ER_stripplot_up-to-0.png')
 generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
                    'output/figures/protein-localization_stripplot_up-to-0.png')
 generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
-                   'output/figures/protein-localization_ER_up-to-0.png')
+                   'output/figures/protein-localization_ER_stripplot_up-to-0.png')
