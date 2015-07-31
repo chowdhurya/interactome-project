@@ -5,7 +5,12 @@ import matplotlib.pyplot as plt
 import math
 import numpy as np
 import pandas as pd
+import requests
 import seaborn as sns
+
+def _get_num_entries(ID):
+    url = 'http://geneontology-golr.stanford.edu/solr/select?&wt=json&fq=regulates_closure:"%s"&fq=document_category:"annotation"&q=*:*' % (ID,)
+    return requests.get(url).json()['response']['numFound']
 
 def generate_stripplot(max_distance, category_filter, title, output):
     protein_pairs = ('HA-GP160', 'M2-GP160', 'M2-VPR', 'NA-GP160', 'NA-VPU')
@@ -19,10 +24,11 @@ def generate_stripplot(max_distance, category_filter, title, output):
         for ontology in ontologies:
             file = 'output/ontology/' + protein_pair + '_' + ontology + '_up-to-' + str(max_distance) + '.tsv'
             with open(file) as f:
-                for line in f.read().splitlines()[2:]:
+                for i, line in enumerate(f.read().splitlines()[2:]):
+                    print i
                     label, ref, ID, url, p_value = line.split('\t')
                     p_value = float(p_value)
-                    if p_value > 0.05 or p_value == 0:
+                    if p_value > 0.05 or p_value == 0 or _get_num_entries(ID) > 10000:
                         continue
                     labels[ID] = label
                     p_values[ID].append(float(p_value))
@@ -38,7 +44,7 @@ def generate_stripplot(max_distance, category_filter, title, output):
     colors = map(lambda x: 'r' if category_filter(x, labels) else 'b', IDs)
     areas = map(lambda x: 80 if category_filter(x, labels) else 20, IDs)
 
-    for ID in sorted(sorted(filter(lambda x: category_filter(x, labels), IDs), key=p_value_averages.get), key=counts.get, reverse=True):
+    for ID in sorted(sorted(IDs, key=p_value_averages.get), key=counts.get, reverse=True):
         label, count, p_value_avg = labels[ID], counts[ID], p_value_averages[ID]
         print '\t'.join((ID, label, str(counts[ID]), str(p_value_avg)))
     print
@@ -61,15 +67,15 @@ def is_localization(ID, labels):
 def is_localization_or_ER(ID, labels):
     return is_ER(ID, labels) and is_localization(ID, labels)
 
-generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
-                   'output/figures/ER_stripplot_up-to-1.png')
-generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
-                   'output/figures/protein-localization_stripplot_up-to-1.png')
+#generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
+#                   'output/figures/ER_stripplot_up-to-1.png')
+#generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
+#                   'output/figures/protein-localization_stripplot_up-to-1.png')
 generate_stripplot(1, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d <= 1)',
                    'output/figures/protein-localization_ER_stripplot_up-to-1.png')
-generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
-                   'output/figures/ER_stripplot_up-to-0.png')
-generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
-                   'output/figures/protein-localization_stripplot_up-to-0.png')
-generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
-                   'output/figures/protein-localization_ER_stripplot_up-to-0.png')
+#generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
+#                   'output/figures/ER_stripplot_up-to-0.png')
+#generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
+#                   'output/figures/protein-localization_stripplot_up-to-0.png')
+#generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
+#                   'output/figures/protein-localization_ER_stripplot_up-to-0.png')
