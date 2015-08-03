@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import math
 import numpy as np
 import pandas as pd
+import re
 import requests
 import seaborn as sns
 
@@ -45,10 +46,10 @@ def generate_stripplot(max_distance, category_filter, title, output):
     colors = map(lambda x: 'r' if category_filter(x, labels) else 'b', IDs)
     areas = map(lambda x: 80 if category_filter(x, labels) else 20, IDs)
 
-    # for ID in sorted(sorted(IDs, key=p_value_averages.get), key=counts.get, reverse=True):
-    #     label, count, p_value_avg = labels[ID], counts[ID], p_value_averages[ID]
-    #     print '\t'.join((ID, label, str(counts[ID]), str(p_value_avg)))
-    # print
+    for ID in sorted(sorted(IDs, key=p_value_averages.get), key=counts.get, reverse=True):
+        label, count, p_value_avg = labels[ID], counts[ID], p_value_averages[ID]
+        print '\t'.join((ID, label, str(counts[ID]), str(p_value_avg)))
+    print
 
     plt.clf()
     plt.scatter(x, y, c=colors, s=areas)
@@ -56,6 +57,10 @@ def generate_stripplot(max_distance, category_filter, title, output):
     plt.gca().set_ylabel("count")
     plt.suptitle(title)
     plt.savefig(output)
+
+def is_SRP(ID, labels):
+    label = labels[ID]
+    return ('SRP' in label or re.search(r'signal[^a-z]+recognition[^a-z]+particle', label))
 
 def is_ER(ID, labels):
     label = labels[ID]
@@ -68,15 +73,21 @@ def is_localization(ID, labels):
 def is_localization_or_ER(ID, labels):
     return is_ER(ID, labels) and is_localization(ID, labels)
 
-generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
-                   'output/figures/ER_stripplot_up-to-1.png')
-generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
-                   'output/figures/protein-localization_stripplot_up-to-1.png')
-generate_stripplot(1, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d <= 1)',
-                   'output/figures/protein-localization_ER_stripplot_up-to-1.png')
-generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
-                   'output/figures/ER_stripplot_up-to-0.png')
-generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
-                   'output/figures/protein-localization_stripplot_up-to-0.png')
-generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
-                   'output/figures/protein-localization_ER_stripplot_up-to-0.png')
+def is_localization_and_ER_or_SRP(ID, labels):
+    return (is_ER(ID, labels) and is_localization(ID, labels) or is_SRP(ID, labels))
+
+# generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
+#                    'output/figures/ER_stripplot_up-to-1.png')
+# generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
+#                    'output/figures/protein-localization_stripplot_up-to-1.png')
+#generate_stripplot(1, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d <= 1)',
+#                   'output/figures/protein-localization_ER_stripplot_up-to-1.png')
+# generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
+#                    'output/figures/ER_stripplot_up-to-0.png')
+# generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
+#                    'output/figures/protein-localization_stripplot_up-to-0.png')
+# generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
+#                    'output/figures/protein-localization_ER_stripplot_up-to-0.png')
+
+generate_stripplot(1, is_SRP, 'SRP p-Values (d <= 1)', 'output/figures/srp_stripplot_up-to-1.png')
+generate_stripplot(1, is_localization_and_ER_or_SRP, 'ER/Protein Localization or SRP p-Values (d <= 1)', 'output/figures/er_protein-localization_srp_stripplot_up-to-1.png')
