@@ -68,15 +68,15 @@ def is_localization(ID, labels):
 def is_localization_or_ER(ID, labels):
     return is_ER(ID, labels) and is_localization(ID, labels)
 
-#generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
-#                   'output/figures/ER_stripplot_up-to-1.png')
-#generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
-#                   'output/figures/protein-localization_stripplot_up-to-1.png')
+generate_stripplot(1, is_ER, 'Endoplasmic Reticulum p-Values (d <= 1)',
+                   'output/figures/ER_stripplot_up-to-1.png')
+generate_stripplot(1, is_localization, 'Protein Localization p-Values (d <= 1)',
+                   'output/figures/protein-localization_stripplot_up-to-1.png')
 generate_stripplot(1, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d <= 1)',
                    'output/figures/protein-localization_ER_stripplot_up-to-1.png')
-#generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
-#                   'output/figures/ER_stripplot_up-to-0.png')
-#generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
-#                   'output/figures/protein-localization_stripplot_up-to-0.png')
-#generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
-#                   'output/figures/protein-localization_ER_stripplot_up-to-0.png')
+generate_stripplot(0, is_ER, 'Endoplasmic Reticulum p-Values (d = 0)',
+                   'output/figures/ER_stripplot_up-to-0.png')
+generate_stripplot(0, is_localization, 'Protein Localization p-Values (d = 0)',
+                   'output/figures/protein-localization_stripplot_up-to-0.png')
+generate_stripplot(0, is_localization_or_ER, 'Endoplasmic Reticulum & Protein Localization p-Values (d = 0)',
+                   'output/figures/protein-localization_ER_stripplot_up-to-0.png')
