@@ -8,9 +8,11 @@ import pandas as pd
 import requests
 import seaborn as sns
 
-def _get_num_entries(ID):
-    url = 'http://geneontology-golr.stanford.edu/solr/select?&wt=json&fq=regulates_closure:"%s"&fq=document_category:"annotation"&q=*:*' % (ID,)
-    return requests.get(url).json()['response']['numFound']
+num_entries = {}
+with open('data/num_entries.tsv') as f:
+    for line in f.read().splitlines()[1:]:
+        ID, entries = line.split('\t')
+        num_entries[ID] = int(entries)
 
 def generate_stripplot(max_distance, category_filter, title, output):
     protein_pairs = ('HA-GP160', 'M2-GP160', 'M2-VPR', 'NA-GP160', 'NA-VPU')
@@ -25,10 +27,9 @@ def generate_stripplot(max_distance, category_filter, title, output):
             file = 'output/ontology/' + protein_pair + '_' + ontology + '_up-to-' + str(max_distance) + '.tsv'
             with open(file) as f:
                 for i, line in enumerate(f.read().splitlines()[2:]):
-                    print i
                     label, ref, ID, url, p_value = line.split('\t')
                     p_value = float(p_value)
-                    if p_value > 0.05 or p_value == 0 or _get_num_entries(ID) > 10000:
+                    if p_value > 0.05 or p_value == 0 or num_entries.get(ID, 0) > 5000:
                         continue
                     labels[ID] = label
                     p_values[ID].append(float(p_value))
@@ -44,10 +45,10 @@ def generate_stripplot(max_distance, category_filter, title, output):
     colors = map(lambda x: 'r' if category_filter(x, labels) else 'b', IDs)
     areas = map(lambda x: 80 if category_filter(x, labels) else 20, IDs)
 
-    for ID in sorted(sorted(IDs, key=p_value_averages.get), key=counts.get, reverse=True):
-        label, count, p_value_avg = labels[ID], counts[ID], p_value_averages[ID]
-        print '\t'.join((ID, label, str(counts[ID]), str(p_value_avg)))
-    print
+    # for ID in sorted(sorted(IDs, key=p_value_averages.get), key=counts.get, reverse=True):
+    #     label, count, p_value_avg = labels[ID], counts[ID], p_value_averages[ID]
+    #     print '\t'.join((ID, label, str(counts[ID]), str(p_value_avg)))
+    # print
 
     plt.clf()
     plt.scatter(x, y, c=colors, s=areas)
